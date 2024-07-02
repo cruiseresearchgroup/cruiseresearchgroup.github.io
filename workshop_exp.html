@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop Agenda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            float: left;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .showcase {
+            background: #333;
+            color: #fff;
+            height: 400px;
+            text-align: center;
+            padding-top: 100px;
+        }
+        .showcase h1 {
+            font-size: 55px;
+        }
+        .showcase p {
+            font-size: 20px;
+        }
+        .agenda {
+            padding: 30px;
+            background: #fff;
+            margin-top: 20px;
+        }
+        .agenda h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .agenda ul {
+            list-style: none;
+            padding: 0;
+        }
+        .agenda li {
+            background: #e0e0e0;
+            margin: 10px 0;
+            padding: 20px;
+            border-left: #77aaff 5px solid;
+        }
+        .session-title {
+            font-weight: bold;
+        }
+        .session-time {
+            color: #555;
+        }
+        .session-author {
+            font-style: italic;
+            color: #777;
+        }
+        .session-abstract {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="showcase">
+        <div class="container">
+            <h1>Workshop on Explainable and Robust Learning</h1>
+            <p>Date: Tuesday, July 23 · 12:30 - 5pm AEST | Venue: K17, UNSW</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="agenda">
+            <h2>Workshop Agenda</h2>
+            <ul>
+                <li>
+                    <div class="session-time">12:30 PM - 1:00 PM</div>
+                    <div class="session-title">Light Lunch</div>
+                </li>
+                <li>
+                    <div class="session-time">1:00 PM - 1:30 PM</div>
+                    <div class="session-title">Welcome and Introduction</div>
+                    <div class="session-author">By Prof. Flora Salim</div>
+                    <div class="session-abstract">
+                        Abstract: Flora Salim will commence with a welcome to country, introduce the workshop and provide an overview and context of the workshop. She will also introduce several of her projects on explainable and robust multimodal learning.
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Flora Salim is a Professor in the School of Computer Science and Engineering (CSE),  the inaugural Cisco Chair of Digital Transport & AI at The University of New South Wales (UNSW) Sydney, and the Deputy Director (Engagement) of the UNSW AI Institute. Her research is in machine learning for multimodal time-series and spatiotemporal data, for understanding complex behaviours using data from sensors, wearables and IoT in the wild. She is a member of the Australian Research Council (ARC) College of Experts. She is an Editor of IMWUT, Associate-Editor-in-Chief of IEEE Pervasive Computing, and Associate Editor of ACM Transactions on Spatial Algorithms and Systems. She was a Visiting Professor at University of Cambridge and University of Kassel in 2019. She has received several fellowships, including the Humboldt-Bayer Fellowship, Humboldt Fellowship, Victoria Fellowship, and ARC Australian Postdoctoral (Industry) Fellowship. She has worked with many industry and government partners, and managed large-scale research and innovation projects, leading to several patents and deployed systems.
+                    </div>
+                </li>
+                                <li>
+                    <div class="session-time">1:30 PM - 2:00 PM</div>
+                    <div class="session-title">Talk 1: Scheduling Condition-based Maintenance: An Explainable Deep Reinforcement Learning Approach via Reward Decomposition</div>
+                    <div class="session-author">By Dr. Simon Khan</div>
+                    <div class="session-abstract">
+                        Abstract: This paper presents an eXplainable Deep Reinforcement Learning (XDRL) based strategy for solving the proposed problem of fleet-level aircraft maintenance scheduling (AMS) optimization. The XDRL-AMS considers various factors such as the aircraft’s initial status, mission requirements, maintenance resource capacity, and operational constraints to create a maintenance schedule for a specified period. The schedule aims to balance both mission readiness and cost reduction. We developed an RL environment, called AMS-Gym, using the OpenAI Gym toolkit specifically designed for this problem. AMS-Gym is highly flexible, allowing for easy extension to more complex scenarios and incorporating additional explanatory capabilities. The explainable RL capability was achieved by utilizing a decomposed reward Deep Q-Network (drDQN) algorithm. In the context of the AMS scenario, the drDQN consists of two parts: (i) a DQN that aims to maximize the mission accomplishment objective, and (ii) a DQN that aims to minimize the maintenance cost objective. As a result, the proposed drDQN strategy can generate real-time aircraft maintenance decisions, explain why those decisions were selected, and present the trade-offs between the chosen action and non-selected alternatives. Experiment results show that the proposed drDQN performs well, providing an approximate solution to the vanilla DQN with a simpler structure while offering the ability to explain its decisions. In addition, a web-based prototype with an intuitive textual and visual user interface was developed to demonstrate the feasibility of the drDQN approach.
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Simon Khan is a research scientist at US Air Force Research Laboratory (AFRL), Rome, NY and has a PhD in Electrical and Computer Engineering program from Clarkson University under STEM+M fellowship from the US Air Force. He holds a B.S in Electrical Engineering from Stonybrook University, NY, an M.S in Information System Management from National University, San Diego, CA and an M.S in Computer Engineering from Syracuse University, NY. He has been working for 18 years under different branches of the US government. He is the recipient of Brave Zulu Awards from US Department of the Navy and multiple other awards for successful design and development of network and C4I systems. His current research interests are about Explainable Reinforcement Learning (XRL), Computing ML at the Edge and Behavioral Biometrics.
+                    </div>
+                </li>
+                <li>
+                    <div class="session-time">2:00 PM - 2:30 PM</div>
+                    <div class="session-title">Talk 2: REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability</div>
+                    <div class="session-author">By Dr. Shuang Ao</div>
+                    <div class="session-abstract">
+                        Abstract: Understanding the agent’s learning process, particularly the factors that contribute to its success or failure post-training, is crucial for comprehending the rationale behind the agent’s decision-making process. Prior methods have constraints as they exclusively function in 2D-environments or with uncomplicated transition dynamics. Understanding the agent’s learning process in complicated environments or tasks is more challenging. We propose REVEAL-IT, a novel framework for explaining the learning process of an agent in complex environments. Initially, we visualize the policy structure and the agent’s learning process for various training tasks. By visualizing these findings, we can understand how much a particular training task or stage affects the agent’s performance in test. Then, a GNN-based explainer learns to highlight the most important section of the policy, providing a more clear and robust explanation of the agent’s learning process. The experiments demonstrate that explanations derived from this framework can effectively help in the optimization of the training tasks, resulting in improved learning efficiency and final performance.
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Dr.Shuang Ao is a Postdoctoral Research Fellow at the School of Computer Science and Engineering, UNSW Sydney. He acquired his PhD from The University of Technology Sydndey in 2024. His research interests include machine learning, reinforcement learning, and curriculum learning. He has years of experience in robotic control and anti-body drug discovery and has contributed to several research projects. He also serves as a program committee member for several esteemed conferences, e.g., NeurIPS, ICML and ICLR. 
+                    </div>
+                </li>
+                <li>
+                    <div class="session-time">2:30 PM - 3:00 PM</div>
+                    <div class="session-title">Talk 3:  ViLCo-Bench: VIdeo Language COntinual learning Benchmark</div>
+                    <div class="session-author">By Dr. Edward Tang and Dr. Shohreh Deldari</div>
+                    <div class="session-abstract">
+                        Abstract:  Video language continual learning involves continuously adapting to information from video and text inputs, enhancing a model's ability to handle new tasks while retaining prior knowledge. This field is a relatively under-explored area, and establishing appropriate datasets is crucial for facilitating communication and research in this field. In this study, we present the first dedicated benchmark, ViLCo-Bench, designed to evaluate continual learning models across a range of video-text tasks. The dataset comprises ten-minute-long videos and corresponding language queries collected from publicly available datasets. Additionally, we introduce a novel memory-efficient framework that incorporates self-supervised learning and mimics long-term and short-term memory effects. This framework addresses challenges including memory complexity from long video clips, natural language complexity from open queries, and text-video misalignment. We posit that ViLCo-Bench, with greater complexity compared to existing continual learning benchmarks, would serve as a critical tool for exploring the video-language domain, extending beyond conventional class-incremental tasks, and addressing complex and limited annotation issues. The curated data, evaluations, and our novel method are available at https://github.com/cruiseresearchgroup/ViLCo 
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Tianqi Tang is a Postdoctoral Research Fellow at the School of Computer Science and Engineering, UNSW Sydney. He acquired his Ph.D. from The University of Technology Sydney in 2024. His research interests include multi-modal learning, continual learning and reinforcement learning. He has years of experience in visual navigation and has contributed to several research projects. Shohreh Deldari is a Postdoctoral Research Fellow in Machine Learning, School of Computer Science and  Engineering, University of New South Wales. She has achieved her PhD in Computer Science in 2023 on multivariate time-series analysis with minimal supervision. Shohreh's research interests include wearable sensors, continual learning, and foundation models for time-series data.
+                    </div>
+                </li>
+                <li>
+                    <div class="session-time">3:00 PM - 3:30 PM</div>
+                    <div class="session-title">Afternoon Tea</div>
+                </li>
+                <li>
+                    <div class="session-time">3:30 PM - 4:00 PM</div>
+                    <div class="session-title">Talk 4: AttEXplore: Attribution for Explanation with model parameters eXploration</div>
+                    <div class="session-author">By Dr.  Huaming Chen</div>
+                    <div class="session-abstract">
+                        Abstract: In this work, we present a novel attribution method via model parameter exploration. Due to the real-world noise and human-added perturbations, attaining the trustworthiness of deep neural networks (DNNs) is a challenging task. Therefore, it becomes essential to offer explanations for the decisions made by these nonlinear and complex parameterized models. Attribution methods are promising for this goal, yet its performance can be further improved. In this paper, for the first time, we present that the decision boundary exploration approaches of attribution are consistent with the process for transferable adversarial attacks. Specifically, the transferable adversarial attacks craft general adversarial samples from the source model, which is consistent with the generation of adversarial samples that can cross multiple decision boundaries in attribution. Furthermore, inspired by the capability of frequency exploration to investigate the model parameters, we provide enhanced explainability for DNNs by manipulating the input features based on frequency information to explore the decision boundaries of different models. Large-scale experiments demonstrate that our Attribution method for Explanation with model parameter eXploration (AttEXplore) outperforms other state-of-the-art interpretability methods. Moreover, by employing other transferable attack techniques, AttEXplore can explore potential variations in attribution outcomes. Our code is available at: https://github.com/LMBTough/ATTEXPLORE.
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Huaming Chen is currently a Lecturer in University of Sydney. He is passionate in software engineering and machine learning, while he is currently intensively working in the topic of software security and trustworthy ML. He is broadly interested in applying the cutting-edge techniques to develop data-driven solution for scientific and practical problems by addressing the distinct challenges. His works have been featured in top venues including ICML, ICLR, AAAI, SIAM ICDM, ECML, ICSE and so on, where he also serves as a technical program committee member. He also serves as area chair and PC member in ACM MM, ACM CCS, ISSTA, KDD, IJCAI and so on. He is the founding organiser of the Trustworthy AI workshop, a co-located event in top conferences. He is also a discipline expert for Engineers Australia.
+                    </div>
+                </li>
+                <li>
+                    <div class="session-time">4:00 PM - 4:30 PM</div>
+                    <div class="session-title">Talk 5: Mechanistic Interpretability: Reverse Engineering Neural Networks</div>
+                    <div class="session-author">By Leonard Bereska</div>
+                    <div class="session-abstract">
+                        Abstract: This talk will explore the emerging field of mechanistic interpretability, focusing on efforts to reverse engineer neural networks into human-interpretable algorithms. We'll discuss recent advancements, challenges, and potential applications in AI safety and transparency.
+                    </div>
+                    <div class="session-abstract">
+                        Bio: Leonard Bereska is a PhD student at the University of Amsterdam, dedicated to AI safety through research and outreach. His current focus is on mechanistic interpretability research, having recently published a review paper on this emerging field and supervising multiple master students on related topics such as eliciting latent knowledge, bias and fairness, and interpretability in medicine.
+                    </div>
+                </li>
+                <li>
+                    <div class="session-time">4:30 PM - 5:00 PM</div>
+                    <div class="session-title">Discussion and closing</div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
