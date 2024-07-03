@@ -34,6 +34,11 @@
             padding: 0;
             list-style: none;
         }
+        header img {
+            float: left; /* Float the image to the left */
+            margin-right: 20px; /* Add space between the image and the nav items */
+            height: 150px; /* Set the height of the logo */
+        }
         header li {
             float: left;
             display: inline;
@@ -87,7 +92,11 @@
     </style>
 </head>
 <body>
-
+    <header>
+        <div class="container">
+            <img src="/img/unswailogo.png" alt="Logo"> <!-- New: Added logo image -->
+        </div>
+    </header>
     <div class="showcase">
         <div class="container">
             <h1>Workshop on Explainable and Robust Learning</h1>
