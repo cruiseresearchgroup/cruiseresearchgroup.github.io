@@ -89,11 +89,26 @@
         .session-abstract {
             margin-top: 10px;
         }
-        .logo {
-            display: block;
-            margin: 20px auto;
-            max-width: 200px; /* Adjust as necessary */
+        .logo-container {
+            text-align: center;
+            margin: 20px 0;
         }
+        .logo {
+            max-width: 100%;
+            height: auto;
+        }
+        @media (max-width: 600px) {
+            .showcase h1 {
+                font-size: 35px;
+            }
+            .showcase p {
+                font-size: 16px;
+            }
+            .logo {
+                max-width: 80%;
+            }
+        }
+
 
     </style>
 </head>
@@ -102,7 +117,10 @@
         <div class="container">
             <h1>Workshop on Explainable and Robust Learning</h1>
             <p>Date: Tuesday, July 23 · 12:30 - 5pm AEST | Venue: K17, UNSW</p>
-            <img src="/img/unswailogo.png" alt="Logo" class="logo"> <!-- New: Added logo image -->
+            <div class="logo-container">
+                <img src="/img/unswailogo.png" alt="Workshop Logo" class="logo">
+            </div>
+            
         </div>
     </div>
 
