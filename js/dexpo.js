@@ -25,4 +25,4 @@ function prevSlide() {
 }
 
 // Auto slide every 3 seconds
-setInterval(nextSlide, 3000);
+// setInterval(nextSlide, 3000);
