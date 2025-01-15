@@ -88,7 +88,30 @@
             display: block;
             margin-top: 0.5em;
         }
+        .schedule-day {
+            margin-bottom: 1em;
+        }
+        .schedule-day h3 {
+            cursor: pointer;
+            color: #0073e6;
+            margin: 0;
+        }
+        .schedule-details {
+            display: none;
+            margin-top: 0.5em;
+            border-left: 3px solid #0073e6;
+            padding-left: 1em;
+        }
+        .schedule-details.active {
+            display: block;
+        }
     </style>
+    <script>
+        function toggleScheduleDetails(id) {
+            const details = document.getElementById(id);
+            details.classList.toggle('active');
+        }
+    </script>
 </head>
 <body>
     <header>
@@ -184,6 +207,71 @@
             <h2>Schedule</h2>
             <p>The seminar will run from <strong>February 17 to February 20, 2025</strong>.</p>
             <p>The main activities include: panel talks, hands on workshop discussions, and breakout group discussions, and also an excursion. The first day of the meeting will be focused on creating a maximum degree of interaction between participants. It is important to introduce everyone to everyone. We will invite every participant to give a short 5 minute introduction of themselves and their work. This shall be followed by a speed dating session, in which participants will be divided into groups, based on the domain of work. This will be followed with plenary talks in the morning and hands-on ideation in the afternoon. On the second and third day, we will focus on the variety of topics in breakout groups. On the last day, participants will present the summary of discussions identified in the previous three days. The purpose of these work groups is to collectively produce the anticipated outcomes of the meeting.</p>
+        </section>
+
+        <section id="schedule">
+            <h2>Schedule</h2>
+            <p>The seminar will run from <strong>February 17 to February 20, 2025</strong>.</p>
+            <div class="schedule-day">
+                <h3 onclick="toggleScheduleDetails('day-arrival')">Sunday (February 16, Arrival Day)</h3>
+                <div class="schedule-details" id="day-arrival">
+                    <p>1500-1900: Check-In (Early Checkin Negotiable)</p>
+                    <p>1900-2100: Welcome Banquet</p>
+                </div>
+            </div>
+            <div class="schedule-day">
+                <h3 onclick="toggleScheduleDetails('day-1')">Monday (Day 1, February 17, Session 1: Introduction and Lighting Talks & Session 2: Workshop on Datasets)</h3>
+                <div class="schedule-details" id="day-1">
+                    <p>7:00-8:30: Breakfast</p>
+                    <p>8:30-9:00: Pre-Meeting with Shonan Staff (Organizers only)</p>
+                    <p>9:00-9:10: Shonan Video</p>
+                    <p>9:10-9:30: Introduction</p>
+                    <p>9:30-10:00: 3 Minute Self-Introductions (30m)</p>
+                    <p>10:00-10:30: Break</p>
+                    <p>10:30-12:00: 3 Minute Self-Introductions (90m)</p>
+                    <p>12:00-13:30: Lunch (Cafeteria opens at 1130)</p>
+                    <p>13:30-14:00: Group Photo Shooting</p>
+                    <p>14:00-15:30: Workshop on Datasets</p>
+                    <p>15:30-16:00: Break</p>
+                    <p>16:00-18:00: Workshop on Datasets</p>
+                    <p>18:00-19:15: Dinner</p>
+                </div>
+            </div>
+            <div class="schedule-day">
+                <h3 onclick="toggleScheduleDetails('day-2')">Tuesday (Day 2, February 18, Session 3: Workshop on Models & Session 4: Hands on Tooling, Quick Prototyping)</h3>
+                <div class="schedule-details" id="day-2">
+                    <p>7:00-9:00: Breakfast</p>
+                    <p>9:00-10:30: Workshop on Models</p>
+                    <p>10:30-11:00: Break</p>
+                    <p>11:00-12:00: Workshop on Models</p>
+                    <p>12:00-13:30: Lunch</p>
+                    <p>13:30-15:30: Hands-On Tooling & Quick Prototyping</p>
+                    <p>15:30-16:00: Break</p>
+                    <p>16:00-18:00: Hands-On Tooling & Quick Prototyping</p>
+                </div>
+            </div>
+            <div class="schedule-day">
+                <h3 onclick="toggleScheduleDetails('day-3')">Wednesday (Day 3, February 19, Session 5: Shut up and Write!)</h3>
+                <div class="schedule-details" id="day-3">
+                    <p>7:00-9:00: Breakfast</p>
+                    <p>9:00-10:30: Paper and Proposal Writing</p>
+                    <p>10:30-11:00: Break</p>
+                    <p>11:00-12:00: Paper and Proposal Writing</p>
+                    <p>12:00-13:30: Lunch</p>
+                    <p>13:30-18:00: Excursion</p>
+                    <p>18:00-21:00: Main Banquet</p>
+                </div>
+            </div>
+            <div class="schedule-day">
+                <h3 onclick="toggleScheduleDetails('day-4')">Thursday (Day 4, February 20, Session 6: Report and Next Steps)</h3>
+                <div class="schedule-details" id="day-4">
+                    <p>7:00-11:00: Check-Out</p>
+                    <p>7:00-9:00: Breakfast</p>
+                    <p>9:00-10:30: Report and Next Steps</p>
+                    <p>10:30-11:00: Break</p>
+                    <p>11:00-12:30: Lunch</p>
+                </div>
+            </div>
         </section>
 
 
