@@ -105,6 +105,19 @@
         .schedule-details.active {
             display: block;
         }
+        .participants-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .participants-table th, .participants-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .participants-table th {
+            background-color: #0073e6;
+            color: white;
+        }
     </style>
     <script>
         function toggleScheduleDetails(id) {
@@ -285,10 +298,48 @@
             </ul>
         </section>
 
-        <section id="participants">
-            <h2>Participants</h2>
-            <p>The meeting invites a diverse group of participants from both industry and academic. The full list will be announced soon.</p>
-        </section>
+        <div class="container">
+            <section id="participants">
+                <h2>Participants</h2>
+                <table class="participants-table">
+                    <tr>
+                        <th>Name</th>
+                        <th>Affiliation</th>
+                        <th>Country</th>
+                    </tr>
+                    <tr><td>Mr. Du Yin</td><td>University of New South Wales</td><td>Australia</td></tr>
+                    <tr><td>Mr. Gaspard Merten</td><td>Universite Libre de Bruxelles</td><td>Belgium</td></tr>
+                    <tr><td>Dr. Gilles Dejaegere</td><td>Universite Libre de Bruxelles</td><td>Belgium</td></tr>
+                    <tr><td>Dr. Taylor Anderson</td><td>George Mason University</td><td>USA</td></tr>
+                    <tr><td>Dr. Yang Cao</td><td>Institute of Science Tokyo</td><td>Japan</td></tr>
+                    <tr><td>Dr. Renhe Jiang</td><td>University of Tokyo</td><td>Japan</td></tr>
+                    <tr><td>Dr. Joon-Seok Kim</td><td>Emory University</td><td>USA</td></tr>
+                    <tr><td>Dr. Amr Magdy</td><td>University of California, Riverside</td><td>USA</td></tr>
+                    <tr><td>Dr. Mohamed Mokbel</td><td>University of Minnesota</td><td>USA</td></tr>
+                    <tr><td>Dr. Chiara Renso</td><td>ISTI - CNR</td><td>Italy</td></tr>
+                    <tr><td>Dr. Cyrus Shahabi</td><td>University of Southern California</td><td>USA</td></tr>
+                    <tr><td>Dr. Li Xiong</td><td>Emory University</td><td>USA</td></tr>
+                    <tr><td>Dr. Hao Xue</td><td>University of New South Wales</td><td>Australia</td></tr>
+                    <tr><td>Dr. Liang Zhao</td><td>Emory University</td><td>USA</td></tr>
+                    <tr><td>Dr. Jianzong Qi</td><td>The University of Melbourne</td><td>Australia</td></tr>
+                    <tr><td>Dr. Yuxuan Liang</td><td>The Hong Kong University of Science and Technology (Guangzhou)</td><td>Hong Kong</td></tr>
+                    <tr><td>Dr. Hamada Rizk</td><td>Osaka University</td><td>Japan</td></tr>
+                    <tr><td>Prof. Matthias Renz</td><td>Kiel University</td><td>Germany</td></tr>
+                    <tr><td>Prof. Daisuke Yamamoto</td><td>Nagoya Institute of Technology</td><td>Japan</td></tr>
+                    <tr><td>Prof. Ranga Raju Vatsavai</td><td>North Carolina State University</td><td>USA</td></tr>
+                    <tr><td>Prof. Takuro Yonezawa</td><td>Nagoya University</td><td>Japan</td></tr>
+                    <tr><td>Dr.-Ing. Claudius Zelenka</td><td>Christian-Albrechts-Universität zu Kiel</td><td>Germany</td></tr>
+                    <tr><td>Prof. Zeinalipour Demetris</td><td>University of Cyprus</td><td>Cyprus</td></tr>
+                    <tr><td>Mr. Hossein Amiri</td><td>Emory University</td><td>USA</td></tr>
+                    <tr><td>Dr. Takahiro Yabe</td><td>New York University</td><td>USA</td></tr>
+                    <tr><td>Prof. Hua Lu</td><td>Aalborg University</td><td>Denmark</td></tr>
+                    <tr><td>Prof. Jianqiu Xu</td><td>Nanjing University of Aeronautics and Astronautics</td><td>China</td></tr>
+                    <tr><td>Dr. Goce Trajcevski</td><td>Iowa State University</td><td>USA</td></tr>
+                    <tr><td>Ms. Chiara Pugliese</td><td>CNR-lit and CNR-Isti in Pisa</td><td>Italy</td></tr>
+                    <tr><td>Prof. Yang Yue</td><td>Shenzhen University</td><td>China</td></tr>
+                </table>
+            </section>
+        </div>
 
         <section id="venue">
             <h2>Venue</h2>
