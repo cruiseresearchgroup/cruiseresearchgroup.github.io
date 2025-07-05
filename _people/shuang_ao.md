@@ -1,5 +1,6 @@
 ---
 name: Dr Shuang Ao
+title: Dr Shuang Ao
 position: postdoc
 avatar: shuang_ao.png
 ---

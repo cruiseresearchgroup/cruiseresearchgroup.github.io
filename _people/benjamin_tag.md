@@ -1,5 +1,6 @@
 ---
 name: Dr Benjamin Tag
+title: Dr Benjamin Tag
 position: lecturer
 avatar: benjamin_tag.png
 ---

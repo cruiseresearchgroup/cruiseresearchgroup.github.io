@@ -1,5 +1,6 @@
 ---
 name: Kirtan Bhatt
+title: Kirtan Bhatt
 position: gradstudent
 avatar: kirtan_bhatt.png
 ---

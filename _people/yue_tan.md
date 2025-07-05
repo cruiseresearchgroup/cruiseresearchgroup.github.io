@@ -1,5 +1,6 @@
 ---
 name: Dr Yue Tan
+title: Dr Yue Tan
 position: postdoc
 avatar: yue_tan.png
 ---

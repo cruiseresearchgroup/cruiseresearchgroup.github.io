@@ -1,5 +1,6 @@
 ---
 name: Duke Nguyen
+title: Duke Nguyen
 position: gradstudent
 avatar: duke_nguyen.png
 ---

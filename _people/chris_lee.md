@@ -1,5 +1,6 @@
 ---
 name: Chris Lee
+title: Chris Lee
 position: mphil
 avatar: chris_lee.png
 ---

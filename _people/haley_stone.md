@@ -1,5 +1,6 @@
 ---
 name: Dr Haley Stone
+title: Dr Haley Stone
 position: postdoc
 avatar: haley_stone.png
 ---

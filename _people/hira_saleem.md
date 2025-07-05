@@ -1,5 +1,6 @@
 ---
 name: Hira Saleem
+title: Hira Saleem
 position: gradstudent
 avatar: hira_saleem.png
 ---

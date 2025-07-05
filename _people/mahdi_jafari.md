@@ -1,5 +1,6 @@
 ---
 name: Mahdi Jafari
+title: Mahdi Jafari
 position: gradstudent
 avatar: mahdi_jafari.png
 ---

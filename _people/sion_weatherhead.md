@@ -1,5 +1,6 @@
 ---
 name: Sion Weatherhead
+title: Sion Weatherhead
 position: gradstudent
 avatar: sion_weatherhead.png
 ---

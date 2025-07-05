@@ -1,5 +1,6 @@
 ---
 name: Ghadir Alselwi
+title: Ghadir Alselwi
 position: gradstudent
 avatar: ghadir_alselwi.png
 ---

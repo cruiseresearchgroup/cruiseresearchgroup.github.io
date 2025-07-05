@@ -1,5 +1,6 @@
 ---
 name: Wilson Wongso
+title: Wilson Wongso
 position: gradstudent
 avatar: wilson_wongso.png
 ---

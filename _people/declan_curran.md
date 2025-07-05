@@ -1,5 +1,6 @@
 ---
 name: Declan Curran
+title: Declan Curran
 position: mphil
 avatar: declan_curran.png
 ---

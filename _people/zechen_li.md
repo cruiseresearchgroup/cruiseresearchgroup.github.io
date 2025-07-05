@@ -1,5 +1,6 @@
 ---
 name: Zechen Li
+title: Zechen Li
 position: gradstudent
 avatar: zechen_li.png
 ---

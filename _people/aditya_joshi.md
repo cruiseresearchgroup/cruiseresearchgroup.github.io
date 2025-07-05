@@ -1,5 +1,6 @@
 ---
 name: Dr Aditya Joshi
+title: Dr Aditya Joshi
 position: lecturer
 avatar: aditya_joshi.png
 ---

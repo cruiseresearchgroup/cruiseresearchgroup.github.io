@@ -1,5 +1,6 @@
 ---
 name: Prof Flora Salim
+title: Prof Flora Salim
 position: pi
 avatar: flora_salim.png
 ---

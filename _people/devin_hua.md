@@ -1,5 +1,6 @@
 ---
 name: Dr Yuncheng (Devin) Hua
+title: Dr Yuncheng (Devin) Hua
 position: postdoc
 avatar: devin_hua.png
 ---

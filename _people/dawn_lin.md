@@ -1,5 +1,6 @@
 ---
 name: Dawn Lin
+title: Dawn Lin
 position: gradstudent
 avatar: dawn_lin.png
 ---

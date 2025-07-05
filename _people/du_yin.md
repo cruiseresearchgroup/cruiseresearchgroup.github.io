@@ -1,5 +1,6 @@
 ---
 name: Du Yin
+title: Du Yin
 position: gradstudent
 avatar: du_yin.png
 ---

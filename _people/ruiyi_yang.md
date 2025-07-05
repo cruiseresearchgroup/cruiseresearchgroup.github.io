@@ -1,5 +1,6 @@
 ---
 name: Ruiyi Yang
+title: Ruiyi Yang
 position: gradstudent
 avatar: ruiyi_yang.png
 ---

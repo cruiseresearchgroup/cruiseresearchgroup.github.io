@@ -1,0 +1,23 @@
+/* expo.css */
+.gallery {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  .gallery-img {
+    width: 100%;
+    display: none;
+    position: absolute;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .gallery-img:first-child {
+    display: block;
+  }
+  .gallery:hover .gallery-img {
+    opacity: 0.5;
+  }
+  .gallery:hover .gallery-img:nth-child(2) {
+    display: block;
+    opacity: 1;
+  }
+  /* Add more specific rules for other images as needed */

@@ -1,5 +1,6 @@
 ---
 name: Charles Wyatt
+title: Charles Wyatt
 position: mphil
 avatar: charles_wyatt.png
 ---

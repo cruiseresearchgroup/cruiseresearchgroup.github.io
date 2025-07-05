@@ -1,5 +1,6 @@
 ---
 name: Peibo Li
+title: Peibo Li
 position: gradstudent
 avatar: peibo_li.png
 ---

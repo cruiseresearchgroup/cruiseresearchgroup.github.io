@@ -1,5 +1,6 @@
 ---
 name: Nga Ho
+title: Nga Ho
 position: gradstudent
 avatar: nga_ho.png
 ---

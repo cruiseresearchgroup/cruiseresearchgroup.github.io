@@ -1,5 +1,6 @@
 ---
 name: Lihuan Li
+title: Lihuan Li
 position: gradstudent
 avatar: lihuan_li.png
 ---

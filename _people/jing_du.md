@@ -1,5 +1,6 @@
 ---
 name: Dr Jing Du
+title: Dr Jing Du
 position: postdoc
 avatar: jing_du.png
 ---

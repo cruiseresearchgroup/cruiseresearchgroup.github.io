@@ -1,5 +1,6 @@
 ---
 name: Dr Arian Prabowo
+title: Dr Arian Prabowo
 position: postdoc
 avatar: arian_prabowo.png
 ---

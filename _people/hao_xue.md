@@ -1,5 +1,6 @@
 ---
 name: Dr Hao Xue
+title: Dr Hao Xue
 position: lecturer
 avatar: hao_xue.png
 ---

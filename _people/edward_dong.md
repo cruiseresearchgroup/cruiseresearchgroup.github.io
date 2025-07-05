@@ -1,5 +1,6 @@
 ---
 name: Edward Dong
+title: Edward Dong
 position: gradstudent
 avatar: edward_dong.png
 ---

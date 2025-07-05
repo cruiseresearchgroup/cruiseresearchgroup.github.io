@@ -1,5 +1,6 @@
 ---
 name: Arthur Chen
+title: Arthur Chen
 position: mphil
 avatar: arthur_chen.png
 ---

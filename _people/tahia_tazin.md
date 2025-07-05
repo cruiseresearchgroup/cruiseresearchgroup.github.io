@@ -1,5 +1,6 @@
 ---
 name: Tahia Tazin
+title: Tahia Tazin
 position: gradstudent
 avatar: tahia_tazin.png
 ---

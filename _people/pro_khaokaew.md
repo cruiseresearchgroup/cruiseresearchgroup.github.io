@@ -1,5 +1,6 @@
 ---
 name: Dr Yonchanok (Pro) Khaokaew
+title: Dr Yonchanok (Pro) Khaokaew
 position: postdoc
 avatar: yonchanok_khaokaew.png
 ---
