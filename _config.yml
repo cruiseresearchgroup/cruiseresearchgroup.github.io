@@ -9,8 +9,7 @@ description: "Collaborative Human-Centric AI Systems (CRUISE) Lab, led by Prof. 
 
 # URL
 url: "https://wilsonwongso.dev" # TODO: change
-baseurl: "/cruiseresearchgroup.github.io" # TODO: change
-#baseurl:            "" #For Root Domain
+baseurl: ""
 permalink: /:year/:month/:day/:title.html
 
 # Markdown
