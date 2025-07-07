@@ -8,8 +8,8 @@ title: "Collaborative Human-Centric AI Systems (CRUISE)"
 description: "Collaborative Human-Centric AI Systems (CRUISE) Lab, led by Prof. Flora Salim, works on machine learning for time-series, spatio-temporal data, and multimodal sensor data, and on trustworthy AI for decision making systems."
 
 # URL
-url:
-baseurl:
+url: "https://wilsonwongso.dev" # TODO: change
+baseurl: "/cruiseresearchgroup.github.io" # TODO: change
 #baseurl:            "" #For Root Domain
 permalink: /:year/:month/:day/:title.html
 
