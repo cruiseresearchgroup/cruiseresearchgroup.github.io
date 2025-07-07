@@ -16,11 +16,11 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'postdoc' %}
-<h3>Postdoc, Research Fellow, Research Associates</h3>
+<h3>Postdoc, Research Fellow & Research Associates</h3>
  {% elsif role == 'pi' %}
 <h3>Team Leader</h3>
 {% elsif role == 'lecturer' %}
-<h3>Senior Lecturers, Lecturers</h3>
+<h3>Senior Lecturers & Lecturers</h3>
  {% elsif role == 'gradstudent' %}
 <h3>PhD Students</h3>
  {% elsif role == 'mphil' %}

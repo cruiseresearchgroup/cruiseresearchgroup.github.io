@@ -284,7 +284,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 40rem;
+  max-width: 75vw;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
@@ -468,9 +468,6 @@ tbody tr:nth-child(odd) th {
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 // customization
-.pos_header {
-  margin-left: 2rem;
-}
 
 .people {
   margin: auto;
@@ -480,7 +477,7 @@ tbody tr:nth-child(odd) th {
 
 .list-item-people {
   display: inline-block;
-  padding-right: 1em;
+  padding-right: 3em;
 }
 
 .list-post-title img {
@@ -494,6 +491,9 @@ tbody tr:nth-child(odd) th {
 
 .list-post-title {
   color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .list-detail {
