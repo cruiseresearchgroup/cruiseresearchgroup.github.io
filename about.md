@@ -35,7 +35,7 @@ Collaborative Human-Centric AI Systems (CRUISE) Lab, led by [Prof. Flora Salim](
 - Aligning LLMs for Reasoning and Explanations in Reinforcement Learning, US Department of Airforce (AOARD), Airforce Research Lab (AFRL), 2024-2026
 - [IEA/MI2.0 Grid Integrated Control of Buildings](https://research.csiro.au/dch/projects/icirn/), ICIRN, Department of Business
 - Self-supervised learning of multimodal data. US Army International Technology Center Pacific (ITC-PAC), 2023-2027
-- Piloting shared digital infrastructure for delivering demand flexibility and energy efficiency, CSIRO and NSW DPE-Net, Clean Tech R&D, 2023-2026
+- [Piloting shared digital infrastructure for delivering demand flexibility and energy efficiency](https://www.csiro.au/en/news/All/News/2023/August/Smart-buildings-project-to-cut-emissions-and-electricity-costs-in-NSW), CSIRO and NSW DPE-Net, Clean Tech R&D, 2023-2026
 - [Understanding Bias in AI Models for the Prediction of Infectious Disease Spread](https://www.csiro.au/en/research/technology-space/ai/NSF-AI-Research), CSIRO and US National Science Foundation (NSF)
 - [Mobility Question Answering (Q&A) for Spatio-Temporal Forecasting](https://www.unsw.edu.au/news/2023/04/professor-flora-salim-wins-competitive-cisco-research-gift), Cisco Research
 - [IoT Data Security and Assurance Framework for Intelligent Transport](https://www.unsw.edu.au/news/2022/09/UNSW-researchers-receive-major-funding), Cyber Security CRC & Cisco
@@ -43,7 +43,6 @@ Collaborative Human-Centric AI Systems (CRUISE) Lab, led by [Prof. Flora Salim](
 - [The Digital Infrastructure Energy Flexibility (DIEF) pilot project](https://www.csiro.au/en/news/All/News/2023/August/Smart-buildings-project-to-cut-emissions-and-electricity-costs-in-NSW), NSW Clean Tech R&D, Commercialisation Infrastructure Grant, NSW Government
 - [Towards AI on the edge](https://www.csiro.au/en/work-with-us/funding-programs/funding/Next-Generation-Graduates-Programs/Awarded-programs/Towards-AI-on-the-edge), Data61 NextGen Program, CSIRO, Softbank, Aurecon
 - [Natural Hazard prediction and damage assessment using multimodal satellite data in self-supervised XAI model](https://smartsatcrc.com/students/hira-saleem/), SmartSat CRC PhD project
-- Continual Learning with Multimodal Data, US ARO / US Department of Defence
 - Explainable RL with Counterfactuals and Causal Reasoning, US Airforce Research Lab, 2023-2027
 - The Victorian Higher Education State Investment Fund (VHESIF) grant, “Digitisation for Safe Workplaces”, Victorian Government, 2021-2022
 - Precinct level (or city level) energy use prediction using building data and other sources, CSIRO, 2021-2022
