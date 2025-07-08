@@ -3,7 +3,11 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = site.people | sort: 'name' %}
+{% assign flora = site.people | where: "title", "Prof Flora Salim" %}
+{% assign others = site.people | where_exp: "item", "item.title != 'Prof Flora Salim'" %}
+{% assign others_sorted = others | sort: "name" %}
+{% assign people_sorted = flora | concat: others_sorted %}
+
 {% assign role_array = "academics|postdoc|gradstudent|mphil" | split: "|" %}
 {% for role in role_array %}
 
