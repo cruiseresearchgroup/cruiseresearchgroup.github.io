@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name: "CRUISE-UNSW"
+name: "CRUISE @ UNSW"
 title: "Collaborative Human-Centric AI Systems (CRUISE)"
 description: "Collaborative Human-Centric AI Systems (CRUISE) Lab, led by Prof. Flora Salim, works on machine learning for time-series, spatio-temporal data, and multimodal sensor data, and on trustworthy AI for decision making systems."
 
@@ -24,8 +24,8 @@ nav:
     href: "/"
   - name: "about"
     href: "/about"
-  # - name: "publications"
-  #   href: "/publication"
+  - name: "publications"
+    href: "/publications"
   - name: "people"
     href: "/people"
   # - name:           "blog"
