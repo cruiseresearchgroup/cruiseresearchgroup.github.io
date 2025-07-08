@@ -1,7 +1,7 @@
 ---
-name: Prof Flora Salim
+name: Prof Flora Salim (Group Leader)
 title: Prof Flora Salim
-position: pi
+position: academics
 avatar: flora_salim.png
 ---
 

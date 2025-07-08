@@ -1,7 +1,7 @@
 ---
 name: Siqi Zhao
 title: Siqi Zhao
-position: gradstudent
+position: mphil
 # avatar: siqi_zhao.png
 ---
 

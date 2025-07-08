@@ -3,8 +3,8 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|lecturer|postdoc|gradstudent|mphil" | split: "|" %}
+{% assign people_sorted = site.people | sort: 'name' %}
+{% assign role_array = "academics|postdoc|gradstudent|mphil" | split: "|" %}
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
@@ -17,10 +17,8 @@ permalink: /people/
 <div class="pos_header">
 {% if role == 'postdoc' %}
 <h3>Postdoc, Research Fellow & Research Associates</h3>
- {% elsif role == 'pi' %}
-<h3>Team Leader</h3>
-{% elsif role == 'lecturer' %}
-<h3>Senior Lecturers & Lecturers</h3>
+ {% elsif role == 'academics' %}
+<h3>Academics</h3>
  {% elsif role == 'gradstudent' %}
 <h3>PhD Students</h3>
  {% elsif role == 'mphil' %}
