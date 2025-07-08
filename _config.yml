@@ -34,14 +34,14 @@ nav:
   #   href:           "/abstracts"
   # - name: "lab teachings"
   #   href: "/presentations"
-  - name: "EXPO"
-    href: /expo.html
-  - name: "EV Project"
-    href: /ev_project.html
+  # - name: "EXPO"
+  #   href: /expo.html
+  # - name: "EV Project"
+  #   href: /ev_project.html
   - name: "Brick By Brick"
     href: /bbb.html
-  - name: "Shonan Seminar"
-    href: /shonan_seminar.html
+  # - name: "Shonan Seminar"
+  #   href: /shonan_seminar.html
 
 # Sass
 sass:

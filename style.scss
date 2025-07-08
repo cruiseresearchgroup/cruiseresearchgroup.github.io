@@ -543,6 +543,36 @@ tbody tr:nth-child(odd) th {
   padding: 3px;
 }
 
+.project-snippets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.project-snippets > * {
+  flex: 1 1 calc(50% - 10px); /* Two items per row with gap accounted */
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .project-snippets > * {
+    flex: 1 1 100%; /* One item per row on narrow screens */
+  }
+}
+
+.project-snippets img,
+.project-snippets a {
+  width: 48%;
+  margin: 0;
+}
+
+.project-snippets a img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
 // fix menu bar spacing for mobile
 @media(max-width: 40em){
   .navbar-nav>li>a {
