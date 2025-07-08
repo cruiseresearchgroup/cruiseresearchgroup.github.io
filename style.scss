@@ -546,11 +546,11 @@ tbody tr:nth-child(odd) th {
 .project-snippets {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
 }
 
 .project-snippets > * {
-  flex: 1 1 calc(50% - 10px); /* Two items per row with gap accounted */
+  flex: 1 1 calc(50% - 20px); /* Two items per row with gap accounted */
   box-sizing: border-box;
 }
 

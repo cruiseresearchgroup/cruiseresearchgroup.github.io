@@ -24,6 +24,8 @@ nav:
     href: "/"
   - name: "about"
     href: "/about"
+  - name: projects
+    href: "/projects"
   - name: "publications"
     href: "/publications"
   - name: "people"
