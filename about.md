@@ -26,6 +26,7 @@ Collaborative Human-Centric AI Systems (CRUISE) Lab, led by [Prof. Flora Salim](
 
 ### Projects and Grants
 
+- [CRC-P Urban CoPilot](https://www.prnewswire.com/apac/news-releases/artificial-intelligence-revolutionizing-urban-planning-with-new-urban-copilot-302289872.html), 2025-2027
 - [ARC Industrial Transformation Training Centre (ITTC) for Whole Life Design of Carbon Neutral Infrastructure (DfCO2)](https://dfco2.org.au/program_4/), UNSW Node Lead & Program Lead of Analytics, ARC 2024-2029
 - Comprehensive Defence Data Platform, ASIC Program of Defence Trailblazer, 2024-2026
 - ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S), Co-Lead of [Machines Program](https://www.admscentre.org.au/machines/) and [Mobilities Focus area](https://www.admscentre.org.au/mobilities/), ARC 2020-2027
