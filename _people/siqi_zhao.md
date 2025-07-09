@@ -2,7 +2,7 @@
 name: Siqi Zhao
 title: Siqi Zhao
 position: mphil
-# avatar: siqi_zhao.png
+avatar: siqi_zhao.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
