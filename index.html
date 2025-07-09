@@ -29,13 +29,14 @@ layout: default
     <div class="w3-container"
       style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
       <div style="text-align:left">
-        <h3>News</h3>
+        <h3>Recent News</h3>
         <span style="display: block; margin-bottom: 1em"></span>
         <div class="news">
-          {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+          {% capture now %}{{ 'now' | date: '%s' | minus: 31536000 }}{% endcapture %}
           <ul style="list-style-position:outside;padding:20px">
-            {% for new in site.data.news %}
-            {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+            {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
+            {% for new in sorted_news %}
+            {% capture date %}{{ new.date | date: '%s' | plus: 0 }}{% endcapture %}
             {% if date > now %}
             <li>
               <span>
