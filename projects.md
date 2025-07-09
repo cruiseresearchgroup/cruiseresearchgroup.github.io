@@ -3,6 +3,15 @@ title: Projects
 permalink: /projects/
 ---
 
+### [Understanding Bias in AI Models for the Prediction of Infectious Disease Spread](https://www.csiro.au/en/research/technology-space/ai/NSF-AI-Research)
+
+<div class="project-snippets">
+  <img src="{{site.baseurl}}/images/publications/blue.png"/>
+  <img src="{{site.baseurl}}/images/publications/qri_genetic_distance.png"/>
+</div>
+
+<hr>
+
 ### [GenAISim (Generative AI Simulation in the Loop in Hybrid Decision Making)](https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/)
 
 <div class="project-snippets">
