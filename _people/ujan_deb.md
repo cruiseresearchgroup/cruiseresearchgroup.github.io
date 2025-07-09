@@ -9,4 +9,4 @@ avatar: ujan_deb.jpeg
 
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=IzisrmcAAAAJ&hl=en)
 <br>
-<i class="fa fa-home"></i> [Homepage]([https://](https://tatami-galaxy.github.io/))
+<i class="fa fa-home"></i> [Homepage](https://tatami-galaxy.github.io/)
