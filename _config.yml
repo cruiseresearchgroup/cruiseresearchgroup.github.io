@@ -9,7 +9,7 @@ description: "Collaborative Human-Centric AI Systems (CRUISE) Lab, led by Prof. 
 
 # URL
 url: ""
-baseurl: "/cruiseresearchgroup.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title.html
 
 # Markdown
