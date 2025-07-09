@@ -30,20 +30,12 @@ nav:
     href: "/publications"
   - name: "people"
     href: "/people"
-  # - name:           "blog"
-  #   href:           "/blog"
-  # - name:           "abstracts"
-  #   href:           "/abstracts"
-  # - name: "lab teachings"
-  #   href: "/presentations"
-  # - name: "EXPO"
-  #   href: /expo.html
-  # - name: "EV Project"
-  #   href: /ev_project.html
   - name: "Brick By Brick"
     href: /bbb.html
-  # - name: "Shonan Seminar"
-  #   href: /shonan_seminar.html
+  - name: "<i class='fa fa-github'></i>"
+    href: https://github.com/CRUISEResearchGroup
+  - name: "🤗"
+    href: https://huggingface.co/CRUISEResearchGroup
 
 # Sass
 sass:
