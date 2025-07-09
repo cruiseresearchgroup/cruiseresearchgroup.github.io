@@ -10,7 +10,7 @@ For a more complete list of publications, please refer to [Flora's Google Schola
 ### 2025
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/bisecle.png"/>
+<a href="https://arxiv.org/abs/2507.00469"><img src="{{site.baseurl}}/images/publications/bisecle.png"/></a>
 <p>
 <em>Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</em>
 <br>
@@ -21,7 +21,7 @@ Yue Tan, Xiaoqian Hu, Hao Xue, Celso De Melo, Flora D Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/double_diffusion.png"/>
+<a href="https://arxiv.org/abs/2506.23053"><img src="{{site.baseurl}}/images/publications/double_diffusion.png"/></a>
 <p>
 <em>Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction</em>
 <br>
@@ -32,7 +32,7 @@ Hanlin Dong, Arian Prabowo, Hao Xue, Flora D Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/hierarchical_diffusion_downscaling.png"/>
+<a href="https://arxiv.org/abs/2506.19391"><img src="{{site.baseurl}}/images/publications/hierarchical_diffusion_downscaling.png"/></a>
 <p>
 <em>Generate the Forest before the Trees--A Hierarchical Diffusion model for Climate Downscaling</em>
 <br>
@@ -43,7 +43,7 @@ Declan J Curran, Sanaa Hobeichi, Hira Saleem, Hao Xue, Flora D Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/aster.png"/>
+<a href="https://arxiv.org/abs/2506.17929"><img src="{{site.baseurl}}/images/publications/aster.png"/></a>
 <p>
 <em>ASTER: Adaptive Spatio-Temporal Early Decision Model for Dynamic Resource Allocation</em>
 <br>
@@ -54,7 +54,7 @@ Shulun Chen, Wei Shao, Flora D Salim, Hao Xue
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/reinforcement_fine_tuning.png"/>
+<a href="https://arxiv.org/abs/2506.21599"><img src="{{site.baseurl}}/images/publications/reinforcement_fine_tuning.png"/></a>
 <p>
 <em>Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation</em>
 <br>
@@ -65,7 +65,7 @@ Peibo Li, Shuang Ao, Hao Xue, Yang Song, Maarten de Rijke, Johan Barthélemy, To
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/hit_jepa.png"/>
+<a href="https://arxiv.org/abs/2507.00028"><img src="{{site.baseurl}}/images/publications/hit_jepa.png"/></a>
 <p>
 <em>HiT-JEPA: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation</em>
 <br>
@@ -76,7 +76,7 @@ Lihuan Li, Hao Xue, Shuang Ao, Yang Song, Flora Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/stoat.png"/>
+<a href="https://arxiv.org/abs/2506.09544"><img src="{{site.baseurl}}/images/publications/stoat.png"/></a>
 <p>
 <em>STOAT: Spatial-Temporal Probabilistic Causal Inference Network</em>
 <br>
@@ -87,7 +87,7 @@ Yang Yang, Du Yin, Hao Xue, Flora Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/qri_genetic_distance.png"/>
+<a href="https://arxiv.org/abs/2506.09076"><img src="{{site.baseurl}}/images/publications/qri_genetic_distance.png"/></a>
 <p>
 <em>A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal Pathogen Models</em>
 <br>
@@ -98,7 +98,7 @@ Haley Stone, Jing Du, Hao Xue, Matthew Scotch, David Heslop, Andreas Züfle, Cha
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/blue.png"/>
+<a href="https://arxiv.org/abs/2505.22692"><img src="{{site.baseurl}}/images/publications/blue.png"/></a>
 <p>
 <em>BLUE: Bi-layer Heterogeneous Graph Fusion Network for Avian Influenza Forecasting</em>
 <br>
@@ -109,7 +109,7 @@ Jing Du, Haley Stone, Yang Yang, Ashna Desai, Hao Xue, Andreas Züfle, Chandini 
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/emac_plus.png"/>
+<a href="https://arxiv.org/abs/2505.19905"><img src="{{site.baseurl}}/images/publications/emac_plus.png"/></a>
 <p>
 <em>EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+ LLM</em>
 <br>
@@ -120,7 +120,7 @@ Shuang Ao, Flora D Salim, Simon Khan
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/split_rag.png"/>
+<a href="https://arxiv.org/abs/2505.13994"><img src="{{site.baseurl}}/images/publications/split_rag.png"/></a>
 <p>
 <em>Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning</em>
 <br>
@@ -131,7 +131,7 @@ Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/socia.png"/>
+<a href="https://arxiv.org/abs/2505.12006"><img src="{{site.baseurl}}/images/publications/socia.png"/></a>
 <p>
 <em>SOCIA: An End-to-End Agentic Framework for Automated Cyber-Physical-Social Simulator Generation</em>
 <br>
@@ -142,7 +142,7 @@ Yuncheng Hua, Ji Miao, Mehdi Jafari, Jianxiang Xie, Hao Xue, Flora D Salim
 </div>
 
 <div  class="publication">
-<img src="{{site.baseurl}}/images/publications/massive_steps.png"/>
+<a href="https://arxiv.org/abs/2505.11239"><img src="{{site.baseurl}}/images/publications/massive_steps.png"/></a>
 <p>
 <em>Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks</em>
 <br>
