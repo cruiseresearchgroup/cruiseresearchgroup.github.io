@@ -9,4 +9,4 @@ avatar: hao_xue.png
 
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com.au/citations?user=KwhLl7IAAAAJ&hl=en)
 <br>
-<!-- <i class="fa fa-home"></i> [Homepage](https://) -->
+<i class="fa fa-home"></i> [Homepage](https://haoxue01.github.io/)
