@@ -584,6 +584,10 @@ tbody tr:nth-child(odd) th {
   .navbar-nav {
     margin-right: 15px;
   }
+
+  .container {
+    max-width: 90vw;
+  }
 }
 
 // fix spacing

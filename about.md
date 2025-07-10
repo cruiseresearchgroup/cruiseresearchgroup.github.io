@@ -50,3 +50,5 @@ Collaborative Human-Centric AI Systems (CRUISE) Lab, led by [Prof. Flora Salim](
 - INdustrial and commercial demand FLEXing to Increase Overall beNefit (INFLEXION), Gippsland Water and GWMWater, 2021-2022
 - Multi-Resolution Situation Recognition for Urban-aware Smart Assistant, ARC Discovery Project, 2019-2021
 - Rail Passenger Ride Comfort Modelling using In-vehicle IoT Sensor Data, TfNSW
+
+<hr>
