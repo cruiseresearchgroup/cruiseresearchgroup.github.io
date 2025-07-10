@@ -26,9 +26,12 @@ Collaborative Human-Centric AI Systems (CRUISE) Lab, led by [Prof. Flora Salim](
 
 ### Projects and Grants
 
+- [User-centred design and testing of a conversational Artificial Intelligence (AI) chatbot to address language barriers in Emergency Department Triage](https://www.unsw.edu.au/newsroom/news/2024/12/UNSW-awarded-more-than-27m-for-ideas-and-development-research-grants), NHMRC Ideas Grant, 2025
 - [CRC-P Urban CoPilot](https://www.prnewswire.com/apac/news-releases/artificial-intelligence-revolutionizing-urban-planning-with-new-urban-copilot-302289872.html), 2025-2027
 - [ARC Industrial Transformation Training Centre (ITTC) for Whole Life Design of Carbon Neutral Infrastructure (DfCO2)](https://dfco2.org.au/program_4/), UNSW Node Lead & Program Lead of Analytics, ARC 2024-2029
 - Comprehensive Defence Data Platform, ASIC Program of Defence Trailblazer, 2024-2026
+- A benchmark for sentiment and sarcasm classification for dialects of English, Google exploreCSR, Google Research, 2024
+- LGBTI+ inclusion in AI, Google exploreCSR, Google Research, 2023
 - ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S), Co-Lead of [Machines Program](https://www.admscentre.org.au/machines/) and [Mobilities Focus area](https://www.admscentre.org.au/mobilities/), ARC 2020-2027
 - [Transparent Machines](https://www.admscentre.org.au/transparent-machines-from-unpacking-bias-to-actionable-explainability/), ADM+S Phase 1 project
 - [Explainable LLMs](https://www.admscentre.org.au/peibo-li/), ARC ADM+S PhD project

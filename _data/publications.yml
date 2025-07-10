@@ -3,75 +3,109 @@
   url: "https://arxiv.org/abs/2507.00469"
   venue: "arXiv preprint arXiv:2507.00469"
   image_url: "images/publications/bisecle.png"
+  date: 2025-07-01
 
 - title: "Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction"
   authors: "Hanlin Dong, Arian Prabowo, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2506.23053"
   venue: "arXiv preprint arXiv:2506.23053"
   image_url: "images/publications/double_diffusion.png"
+  date: 2025-06-29
 
 - title: "Generate the Forest before the Trees--A Hierarchical Diffusion model for Climate Downscaling"
   authors: "Declan J Curran, Sanaa Hobeichi, Hira Saleem, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2506.19391"
   venue: "arXiv preprint arXiv:2506.19391"
   image_url: "images/publications/hierarchical_diffusion_downscaling.png"
+  date: 2025-06-24
 
 - title: "ASTER: Adaptive Spatio-Temporal Early Decision Model for Dynamic Resource Allocation"
   authors: "Shulun Chen, Wei Shao, Flora D Salim, Hao Xue"
   url: "https://arxiv.org/abs/2506.17929"
   venue: "arXiv preprint arXiv:2506.17929"
   image_url: "images/publications/aster.png"
+  date: 2025-06-22
 
 - title: "Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation"
   authors: "Peibo Li, Shuang Ao, Hao Xue, Yang Song, Maarten de Rijke, Johan Barthélemy, Tomasz Bednarz, Flora D Salim"
   url: "https://arxiv.org/abs/2506.21599"
   venue: "arXiv preprint arXiv:2506.21599"
   image_url: "images/publications/reinforcement_fine_tuning.png"
+  date: 2025-06-19
 
 - title: "HiT-JEPA: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation"
   authors: "Lihuan Li, Hao Xue, Shuang Ao, Yang Song, Flora Salim"
   url: "https://arxiv.org/abs/2507.00028"
   venue: "arXiv preprint arXiv:2507.00028"
   image_url: "images/publications/hit_jepa.png"
+  date: 2025-06-17
 
 - title: "STOAT: Spatial-Temporal Probabilistic Causal Inference Network"
   authors: "Yang Yang, Du Yin, Hao Xue, Flora Salim"
   url: "https://arxiv.org/abs/2506.09544"
   venue: "arXiv preprint arXiv:2506.09544"
   image_url: "images/publications/stoat.png"
+  date: 2025-06-11
 
 - title: "A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal Pathogen Models"
   authors: "Haley Stone, Jing Du, Hao Xue, Matthew Scotch, David Heslop, Andreas Züfle, Chandini Raina MacIntyre, Flora Salim"
   url: "https://arxiv.org/abs/2506.09076"
   venue: "arXiv preprint arXiv:2506.09076"
   image_url: "images/publications/qri_genetic_distance.png"
+  date: 2025-06-10
 
 - title: "BLUE: Bi-layer Heterogeneous Graph Fusion Network for Avian Influenza Forecasting"
   authors: "Jing Du, Haley Stone, Yang Yang, Ashna Desai, Hao Xue, Andreas Züfle, Chandini Raina MacIntyre, Flora D Salim"
   url: "https://arxiv.org/abs/2505.22692"
   venue: "arXiv preprint arXiv:2505.22692"
   image_url: "images/publications/blue.png"
+  date: 2025-05-28
 
 - title: "EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+ LLM"
   authors: "Shuang Ao, Flora D Salim, Simon Khan"
   url: "https://arxiv.org/abs/2505.19905"
   venue: "arXiv preprint arXiv:2505.19905"
   image_url: "images/publications/emac_plus.png"
+  date: 2025-05-26
 
 - title: "Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning"
   authors: "Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D Salim"
   url: "https://arxiv.org/abs/2505.13994"
   venue: "arXiv preprint arXiv:2505.13994"
   image_url: "images/publications/split_rag.png"
+  date: 2025-05-20
 
 - title: "SOCIA: An End-to-End Agentic Framework for Automated Cyber-Physical-Social Simulator Generation"
   authors: "Yuncheng Hua, Ji Miao, Mehdi Jafari, Jianxiang Xie, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2505.12006"
   venue: "arXiv preprint arXiv:2505.12006"
   image_url: "images/publications/socia.png"
+  date: 2025-05-17
 
 - title: "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks"
   authors: "Wilson Wongso, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2505.11239"
   venue: "arXiv preprint arXiv:2505.11239"
   image_url: "images/publications/massive_steps.png"
+  date: 2025-05-16
+
+- title: "BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English"
+  authors: "Dipankar Srirag, Aditya Joshi, Jordan Painter, Diptesh Kanojia"
+  url: https://arxiv.org/abs/2412.04726
+  venue: ACL Findings 2025
+  image_url: "images/publications/besstie.png"
+  date: 2025-06-17
+
+- title: "Natural Language Processing for Dialects of a Language: A Survey"
+  authors: Aditya Joshi, Raj Dabre, Diptesh Kanojia, Zhuang Li, Haolan Zhan, Gholamreza Haffari, Doris Dippold
+  url: https://dl.acm.org/doi/abs/10.1145/3712060
+  venue: ACM Computing Surveys
+  image_url: "images/publications/nlp_dialects_survey.png"
+  date: 2025-02-10
+
+- title: "RACCOON: A Retrieval-Augmented Generation Approach for Location Coordinate Capture from News Articles"
+  authors: Jonathan Lin, Aditya Joshi, Hye-young Paik, Tri Dung Doung, Deepti Gurdasani
+  url: https://dl.acm.org/doi/abs/10.1145/3701716.3715501
+  venue: WWW 2025
+  image_url: "images/publications/raccoon.png"
+  date: 2025-05-23
