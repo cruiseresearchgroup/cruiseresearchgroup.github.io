@@ -1,0 +1,408 @@
+- paper_id: c54e153e1d0f2e2423f46094ed1e3b83a19a0aee
+  title:
+    "OOBKey: Key Exchange with Implantable Medical Devices Using Out-Of-Band
+    Channels"
+  authors:
+    Mo Zhang, Eduard Marin, David F. Oswald, V. Kostakos, Mark Ryan, Benjamin
+    Tag, Kleomenis Katevas
+  url: https://doi.org/10.1145/3664476.3670876
+  venue: ARES
+  image_url: images/publications/oobkey-key-exchange-with-implantable-medical-devices-using-out-of-band-channels.png
+  date: 2024-07-30
+- paper_id: 37ab1b98e5729eded0e345ae4c8713a301e613ff
+  title:
+    "Bias-Aware Systems: Exploring Indicators for the Occurrences of Cognitive
+    Biases when Facing Different Opinions"
+  authors:
+    Nattapat Boonprakong, Xiuge Chen, Catherine E. Davey, Benjamin Tag, Tilman
+    Dingler
+  url: https://doi.org/10.1145/3544548.3580917
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/bias-aware-systems-exploring-indicators-for-the-occurrences-of-cognitive-biases-when-facing-different-opinions.png
+  date: 2023-04-19
+- paper_id: 928c9c200ef93a0fa14e444aeba91ca59dcb7414
+  title:
+    "Towards a Haptic Taxonomy of Emotions: Exploring Vibrotactile Stimulation
+    in the Dorsal Region"
+  authors:
+    Steeven Villa, Thuy Duong Nguyen, Benjamin Tag, Tonja Machulla, Albrecht
+    Schmidt, Jasmin Niess
+  url: https://doi.org/10.1145/3594738.3611363
+  venue: International Workshop on the Semantic Web
+  image_url: images/publications/towards-a-haptic-taxonomy-of-emotions-exploring-vibrotactile-stimulation-in-the-dorsal-region.png
+  date: 2023-10-08
+- paper_id: a9dcc4887cccc4609e4ed09dd199fc5f8827f81f
+  title: Using Thermal Imaging to Measure Hand Hygiene Quality
+  authors:
+    Chaofan Wang, Weiwei Jiang, Kangning Yang, Z. Sarsenbayeva, Benjamin Tag,
+    Tilman Dingler, Jorge Gonçalves, V. Kostakos
+  url: https://doi.org/10.48550/arXiv.2302.02233
+  venue: Journal of Hospital Infection
+  image_url: images/publications/using-thermal-imaging-to-measure-hand-hygiene-quality.png
+  date: 2023-02-04
+- paper_id: 09b69336410ed744348bcc7b1584613f1cb65b7e
+  title: A System for Computational Assessment of Hand Hygiene Techniques
+  authors:
+    Chaofan Wang, Weiwei Jiang, Kangning Yang, Z. Sarsenbayeva, Benjamin Tag,
+    Tilman Dingler, Jorge Gonçalves, V. Kostakos
+  url: https://doi.org/10.1007/s10916-022-01817-z
+  venue: Journal of medical systems
+  image_url: images/publications/a-system-for-computational-assessment-of-hand-hygiene-techniques.png
+  date: 2022-05-06
+- paper_id: 1774dba5446ff907cf37fc17be414804d46da1c7
+  title:
+    Method for Appropriating the Brief Implicit Association Test to Elicit Biases
+    in Users
+  authors: Tilman Dingler, Benjamin Tag, D. Eccles, Niels van Berkel, V. Kostakos
+  url: https://doi.org/10.1145/3491102.3517570
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/method-for-appropriating-the-brief-implicit-association-test-to-elicit-biases-in-users.png
+  date: 2022-04-29
+- paper_id: 1bd7bc8fd8f2b26816696316b084d07c885ac490
+  title: Delivering Sensing Technologies for Education and Learning
+  authors:
+    Andrew W. Vargo, Victoria Abou-Khalil, Shoya Ishimaru, Benjamin Tag, M.
+    Hutin, A. Dengel, L. Devillers, K. Kise
+  url: https://doi.org/10.1145/3544793.3560373
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/delivering-sensing-technologies-for-education-and-learning.png
+  date: 2022-09-11
+- paper_id: 560520ab6b108a9d02337e02c7fee920dd5fccd0
+  title: "DDoD: Dual Denial of Decision Attacks on Human-AI Teams"
+  authors:
+    Benjamin Tag, Niels van Berkel, Sunny Verma, Benjamin Zi Hao Zhao, S. Berkovsky,
+    Dali Kaafar, V. Kostakos, O. Ohrimenko
+  url: https://doi.org/10.1109/MPRV.2022.3218773
+  venue: IEEE pervasive computing
+  image_url: images/publications/ddod-dual-denial-of-decision-attacks-on-human-ai-teams.png
+  date: 2022-12-07
+- paper_id: 57b381700e2dc795216fa9a6491de6afcb07bfd0
+  title: "Approaches to Identify Vulnerabilities to Misinformation: A Research Agenda"
+  authors: Nattapat Boonprakong, Benjamin Tag, Tilman Dingler
+  url: https://doi.org/10.48550/arXiv.2210.11647
+  venue: arXiv preprint arXiv:2210.11647
+  image_url: images/publications/approaches-to-identify-vulnerabilities-to-misinformation-a-research-agenda.png
+  date: 2022-10-21
+- paper_id: 5c9297da97b0dae80de0f9989b305bf7438fe0da
+  title:
+    What Could Possibly Go Wrong When Interacting with Proactive Smart Speakers?
+    A Case Study Using an ESM Application
+  authors: Jing Wei, Benjamin Tag, Johanne R. Trippas, Tilman Dingler, V. Kostakos
+  url: https://doi.org/10.1145/3491102.3517432
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/what-could-possibly-go-wrong-when-interacting-with-proactive-smart-speakers-a-case-study-using-an-esm-application.png
+  date: 2022-04-29
+- paper_id: 6b8b99616fcde7089f2640d363c97e1a9092bf59
+  title: Current Challenges of Using Wearable Devices for Online Emotion Sensing
+  authors:
+    Weiwei Jiang, Kangning Yang, Maximiliane Windl, Francesco Chiossi, Benjamin
+    Tag, Sven Mayer, Z. Sarsenbayeva
+  url: https://doi.org/10.48550/arXiv.2208.05206
+  venue: arXiv preprint arXiv:2208.05206
+  image_url: images/publications/current-challenges-of-using-wearable-devices-for-online-emotion-sensing.png
+  date: 2022-08-10
+- paper_id: 8b3ae0b4a11463aac8077ab99f2c854f0422c90e
+  title: Digital Emotion Regulation in Everyday Life
+  authors:
+    Wally Smith, G. Wadley, S. Webber, Benjamin Tag, V. Kostakos, Peter Koval,
+    J. Gross
+  url: https://doi.org/10.1145/3491102.3517573
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/digital-emotion-regulation-in-everyday-life.png
+  date: 2022-04-29
+- paper_id: b5433237a368ea4f2264ac5aae850bbc1e59b327
+  title: "Learning Cyclotron: An Ecosystem of Knowledge Circulation"
+  authors:
+    Andrew W. Vargo, M. Iwata, M. Hutin, Sofiya Kobylyanskaya, I. Vasilescu,
+    Olivier Augereau, Kousuke Watanabe, Shoya Ishimaru, Benjamin Tag, Tilman Dingler,
+    K. Kise, L. Devillers, A. Dengel
+  url: https://doi.org/10.1145/3544793.3560383
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/learning-cyclotron-an-ecosystem-of-knowledge-circulation.png
+  date: 2022-09-11
+- paper_id: fc4e350b50b423ce00d2cabd3da569073631e415
+  title:
+    Mobile Emotion Recognition via Multiple Physiological Signals using Convolution-augmented
+    Transformer
+  authors:
+    Kangning Yang, Benjamin Tag, Yue Gu, Chaofan Wang, Tilman Dingler, G. Wadley,
+    Jorge Gonçalves
+  url: https://doi.org/10.1145/3512527.3531385
+  venue: International Conference on Multimedia Retrieval
+  image_url: images/publications/mobile-emotion-recognition-via-multiple-physiological-signals-using-convolution-augmented-transformer.png
+  date: 2022-06-27
+- paper_id: e5607fa299c59e157905e268ce12b8460e8d756b
+  title: A Critique of Electrodermal Activity Practices at CHI
+  authors: E. Babaei, Benjamin Tag, Tilman Dingler, Eduardo Velloso
+  url: https://doi.org/10.1145/3411764.3445370
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/a-critique-of-electrodermal-activity-practices-at-chi.png
+  date: 2021-05-06
+- paper_id: 56cf918ee8230cf5ef22c55adcde27f636a2cfa6
+  title:
+    Preliminary Investigation of Across-Body Vibrotactile Pattern for the Design
+    of Affective Furniture
+  authors: Yurike Chandra, Benjamin Tag, R. Peiris, K. Minamizawa
+  url: https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.15.f6b89d66
+  venue: IEEE Haptics Symposium
+  image_url: images/publications/preliminary-investigation-of-across-body-vibrotactile-pattern-for-the-design-of-affective-furniture.png
+  date: 2020-03-01
+- paper_id: f722bf80ece858f4662cd45b6d6605a8355698c8
+  title: Engaging Participants during Selection Studies in Virtual Reality
+  authors:
+    Difeng Yu, Qiushi Zhou, Benjamin Tag, Tilman Dingler, Eduardo Velloso,
+    Jorge Gonçalves
+  url: https://doi.org/10.1109/VR46266.2020.1581291122479
+  venue: IEEE Conference on Virtual Reality and 3D User Interfaces
+  image_url: images/publications/engaging-participants-during-selection-studies-in-virtual-reality.png
+  date: 2020-03-01
+- paper_id: f753cddfaf14e7d4489ccb9ef4a521d399290a63
+  title:
+    Benchmarking commercial emotion detection systems using realistic distortions
+    of facial image datasets
+  authors:
+    Kangning Yang, Chaofan Wang, Z. Sarsenbayeva, Benjamin Tag, Tilman Dingler,
+    G. Wadley, Jorge Gonçalves
+  url: https://doi.org/10.1007/s00371-020-01881-x
+  venue: The Visual Computer
+  image_url: images/publications/benchmarking-commercial-emotion-detection-systems-using-realistic-distortions-of-facial-image-datasets.png
+  date: 2020-06-23
+- paper_id: 037c24ea55748944c13fc4eeff12c4e1e5f79e3e
+  title:
+    "AI-mediated gaze-based intention recognition for smart eyewear: opportunities
+    & challenges"
+  authors: Joshua Newn, Benjamin Tag, Ronal Singh, Eduardo Velloso, F. Vetere
+  url: https://doi.org/10.1145/3341162.3348387
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/ai-mediated-gaze-based-intention-recognition-for-smart-eyewear-opportunities-challenges.png
+  date: 2019-09-09
+- paper_id: 10311b48dcd220a709e7b75be6e0df7c1e510bde
+  title:
+    "Continuous Alertness Assessments: Using EOG Glasses to Unobtrusively Monitor
+    Fatigue Levels In-The-Wild"
+  authors:
+    Benjamin Tag, Andrew W. Vargo, Aman Gupta, G. Chernyshov, K. Kunze, Tilman
+    Dingler
+  url: https://doi.org/10.1145/3290605.3300694
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/continuous-alertness-assessments-using-eog-glasses-to-unobtrusively-monitor-fatigue-levels-in-the-wild.png
+  date: 2019-05-02
+- paper_id: 105383cb502a46620cfc13b246408376dca5e8d1
+  title:
+    "EOG Glasses: an Eyewear Platform for Cognitive and Social Interaction Assessments
+    in the Wild"
+  authors: G. Chernyshov, Kirill Ragozin, Benjamin Tag, K. Kunze
+  url: https://doi.org/10.1145/3338286.3344418
+  venue:
+    International Conference on Human-Computer Interaction with Mobile Devices
+    and Services
+  image_url: images/publications/eog-glasses-an-eyewear-platform-for-cognitive-and-social-interaction-assessments-in-the-wild.png
+  date: 2019-10-01
+- paper_id: 642fc5de0a228db174e2791855b87f0b60e0dfa9
+  title:
+    Ubiquitous smart eyewear interactions using implicit sensing and unobtrusive
+    information output
+  authors:
+    Qiushi Zhou, Joshua Newn, Benjamin Tag, Hao-Ping Lee, Chaofan Wang, Eduardo
+    Velloso
+  url: https://doi.org/10.1145/3341162.3348392
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/ubiquitous-smart-eyewear-interactions-using-implicit-sensing-and-unobtrusive-information-output.png
+  date: 2019-09-09
+- paper_id: 3171b9345530cb224f620d36b48a1ac853576510
+  title: "From the Laboratory into the Wild: Eyewear in Cognitive-Aware System Studies"
+  authors: Benjamin Tag, Olivier Augereau
+  url: https://doi.org/10.1145/3267305.3274120
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/from-the-laboratory-into-the-wild-eyewear-in-cognitive-aware-system-studies.png
+  date: 2018-10-08
+- paper_id: 5b50170f9dc13b349408a7c8c44ec703268a36d6
+  title:
+    Towards Enhancing Emotional Responses to Media using Auto-Calibrating Electric
+    Muscle Stimulation (EMS)
+  authors: Takashi Goto, Benjamin Tag, K. Kunze, Tilman Dingler
+  url: https://doi.org/10.1145/3174910.3174939
+  venue: International Conference on Adaptive Hypermedia and Adaptive Web-Based Systems
+  image_url: images/publications/towards-enhancing-emotional-responses-to-media-using-auto-calibrating-electric-muscle-stimulation-ems.png
+  date: 2018-02-06
+- paper_id: 6a429f72bf1e19e0e772b5e6f2b20a1ae7adcfbe
+  title: "VRTe do: the way of the virtual hand"
+  authors: Kevin Wennrich, Benjamin Tag, K. Kunze
+  url: https://doi.org/10.1145/3281505.3281578
+  venue: Virtual Reality Software and Technology
+  image_url: images/publications/vrte-do-the-way-of-the-virtual-hand.png
+  date: 2018-11-28
+- paper_id: c0de375c78dcc776ce4aa48af514d3374fe4ba9c
+  title: Shape memory alloy wire actuators for soft, wearable haptic devices
+  authors: G. Chernyshov, Benjamin Tag, Cedric Caremel, Feier Cao, Gemma Liu, K. Kunze
+  url: https://doi.org/10.1145/3267242.3267257
+  venue: Ubiquitous Computing
+  image_url: images/publications/shape-memory-alloy-wire-actuators-for-soft-wearable-haptic-devices.png
+  date: 2018-10-08
+- paper_id: c8f45e6064b6cd768bfc5667f62ee551b05d69e0
+  title: "EyeWear 2018: Second Workshop on EyeWear Computing"
+  authors:
+    Benjamin Tag, Christian Holz, P. Lukowicz, Olivier Augereau, Yuji Uema,
+    K. Kunze
+  url: https://doi.org/10.1145/3267305.3274140
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/eyewear-2018-second-workshop-on-eyewear-computing.png
+  date: 2018-10-08
+- paper_id: e863f064545485ff2c732cd94f76ee0c2409e8c6
+  title:
+    "Reading Scheduler: Proactive Recommendations to Help Users Cope with Their
+    Daily Reading Volume"
+  authors: Tilman Dingler, Benjamin Tag, Sabrina Lehrer, A. Schmidt
+  url: https://doi.org/10.1145/3282894.3282917
+  venue: International Conference on Mobile and Ubiquitous Multimedia
+  image_url: images/publications/reading-scheduler-proactive-recommendations-to-help-users-cope-with-their-daily-reading-volume.png
+  date: 2018-11-25
+- paper_id: 4501d9ddcedb4f32713ce1f95479d9223e22ee6e
+  title: "Wearable aura: an interactive projection on personal space to enhance communication"
+  authors: D. Zheng, Laura Lugaresi, G. Chernyshov, Benjamin Tag, M. Inakage, K. Kunze
+  url: https://doi.org/10.1145/3123024.3123161
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/wearable-aura-an-interactive-projection-on-personal-space-to-enhance-communication.png
+  date: 2017-09-11
+- paper_id: 4d3688800a70be14d116f0d012f1b432d1585420
+  title: "atmoSphere: mindfulness over haptic-audio cross modal correspondence"
+  authors:
+    Benjamin Tag, T. Goto, K. Minamizawa, Ryan Mannschreck, Haruna Fushimi,
+    K. Kunze
+  url: https://doi.org/10.1145/3123024.3123190
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/atmosphere-mindfulness-over-haptic-audio-cross-modal-correspondence.png
+  date: 2017-09-11
+- paper_id: 7d73a5260a4b90f4f759b769a3f52ea313b608ef
+  title: Facial temperature sensing on smart eyewear for affective computing
+  authors: Benjamin Tag, G. Chernyshov, K. Kunze
+  url: https://doi.org/10.1145/3123024.3123084
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/facial-temperature-sensing-on-smart-eyewear-for-affective-computing.png
+  date: 2017-09-11
+- paper_id: b1de9dc98a79ffa2fb2064b8c5159d8e2f3d1a73
+  title: "Nene: an interactive pet device"
+  authors: Pafan Julsaksrisakul, G. Chernyshov, M. Nakatani, Benjamin Tag, K. Kunze
+  url: https://doi.org/10.1145/3123024.3123156
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/nene-an-interactive-pet-device.png
+  date: 2017-09-11
+- paper_id: bb7e5dbe7d535fcfce2a9826958f4e47cb7d346f
+  title:
+    "EMS icons: conveying information by analogy to enhance communication through
+    electrical muscle stimulation"
+  authors: Tilman Dingler, Takashi Goto, Benjamin Tag, K. Kunze
+  url: https://doi.org/10.1145/3123024.3129275
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/ems-icons-conveying-information-by-analogy-to-enhance-communication-through-electrical-muscle-stimulation.png
+  date: 2017-09-11
+- paper_id: 06acac250cb0a62b778ed82782496cf22e0165c2
+  title: Eye blink as an input modality for a responsive adaptable video system
+  authors: Benjamin Tag, Junichi Shimizu, Chi Zhang, N. Ohta, K. Kunze, Kazunori Sugiura
+  url: https://doi.org/10.1145/2968219.2971449
+  venue: UbiComp Adjunct
+  image_url: images/publications/eye-blink-as-an-input-modality-for-a-responsive-adaptable-video-system.png
+  date: 2016-09-12
+- paper_id: e5f9c1c1a5383ce661f3d6c0cd47580f759fbff5
+  title: "Wearable ambient sound display: embedding information in personal music"
+  authors:
+    G. Chernyshov, Benjamin Tag, Jiajun Chen, Noriyasu Vontin, P. Lukowicz,
+    K. Kunze
+  url: https://doi.org/10.1145/2971763.2971789
+  venue: International Workshop on the Semantic Web
+  image_url: images/publications/wearable-ambient-sound-display-embedding-information-in-personal-music.png
+  date: 2016-09-12
+- paper_id: 6d40454595d429f70e72f6da21fd1894c14ee566
+  title: Collaborative storyboarding through democratization of content production
+  authors: Benjamin Tag, JoonYoung Hur, N. Ohta, Kazunori Sugiura
+  url: https://doi.org/10.1145/2663806.2663875
+  venue: Advances in Computer Entertainment
+  image_url: images/publications/collaborative-storyboarding-through-democratization-of-content-production.png
+  date: 2014-11-11
+- paper_id: 0108004ee819e3176a2f613662158887c130cbad
+  title:
+    "Emotion Recognition Using Text Embedding Models: Wearable and Wireless EEG
+    Without Fixed EEG Channel Configurations"
+  authors:
+    Q. Nguyen, Zheng Huiru, Tahia Tazin, Linh Le, Tuan L. Vo, Nhu-Tri Tran,
+    David Williams-King, Benjamin Tag
+  url: https://doi.org/10.1145/3708319.3733645
+  venue: User Modeling, Adaptation, and Personalization
+  image_url: images/publications/emotion-recognition-using-text-embedding-models-wearable-and-wireless-eeg-without-fixed-eeg-channel-configurations.png
+  date: 2025-06-12
+- paper_id: 3ab8515a766e5aecb87eed1d3028a93af6533089
+  title:
+    "Cognitive Forcing for Better Decision-Making: Reducing Overreliance on AI
+    Systems Through Partial Explanations"
+  authors: Sander de Jong, Ville Paananen, Benjamin Tag, Niels van Berkel
+  url: https://doi.org/10.1145/3710946
+  venue: Proceedings of the ACM on Human-Computer Interaction
+  image_url: images/publications/cognitive-forcing-for-better-decision-making-reducing-overreliance-on-ai-systems-through-partial-explanations.png
+  date: 2025-05-02
+- paper_id: 58c06b23f121eab70be8578c37cddf9fbb1a8365
+  title: "SIG PhysioCHI: Human-Centered Physiological Computing in Practice"
+  authors:
+    Teodora Mitrevska, Benjamin Tag, Monica Perusquía-Hernández, Arinobu Niijima,
+    Ludwig Sidenmark, E. Solovey, Abdallah El Ali, Sven Mayer, Francesco Chiossi
+  url: https://doi.org/10.1145/3706599.3716289
+  venue: CHI Extended Abstracts
+  image_url: images/publications/sig-physiochi-human-centered-physiological-computing-in-practice.png
+  date: 2025-04-25
+- paper_id: a38301a3a379331d3c2071b9cd841b042eb4a2a3
+  title: Streamlining Eye-Tracking and Observational Data for Field Study Visual Analysis
+  authors:
+    Yidan Zhang, Nethara Athukorala, Ziying Liang, Yidan Qiao, Simran, Yu Xuan
+    Yio, Lee Lawrence, Benjamin Tag, Mor Vered, Michael Wybrow, Sarah Goodwin
+  url: https://doi.org/10.1145/3715669.3725880
+  venue: Eye Tracking Research & Application
+  image_url: images/publications/streamlining-eye-tracking-and-observational-data-for-field-study-visual-analysis.png
+  date: 2025-05-25
+- paper_id: bf43f9f7baacbb26df18b47110f2ff69c60d1a71
+  title: "AlphaPIG: The Nicest Way to Prolong Interactive Gestures in Extended Reality"
+  authors:
+    Yi Li, Florian Fischer, Tim Dwyer, Barrett Ens, Robert G. Crowther, P.
+    O. Kristensson, Benjamin Tag
+  url: https://doi.org/10.1145/3706598.3714249
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/alphapig-the-nicest-way-to-prolong-interactive-gestures-in-extended-reality.png
+  date: 2025-03-02
+- paper_id: 7653df2e730e67a3cdc316f3425f8811e98acd16
+  title:
+    "NICER: A New and Improved Consumed Endurance and Recovery Metric to Quantify
+    Muscle Fatigue of Mid-Air Interactions"
+  authors:
+    Yi Li, Benjamin Tag, Shaozhang Dai, Robert G. Crowther, Tim Dwyer, Pourang
+    Irani, Barrett Ens
+  url: https://doi.org/10.1145/3658230
+  venue: ACM Transactions on Graphics
+  image_url: images/publications/nicer-a-new-and-improved-consumed-endurance-and-recovery-metric-to-quantify-muscle-fatigue-of-mid-air-interactions.png
+  date: 2024-06-13
+- paper_id: 23f86dbc0a66eee129c3d073bf7860170d18a5eb
+  title:
+    "Revisiting Consumed Endurance: A NICE Way to Quantify Shoulder Fatigue in
+    Virtual Reality"
+  authors:
+    Yi Li, Robert G. Crowther, J. Smiley, Tim Dwyer, Benjamin Tag, Pourang
+    Irani, Barrett Ens
+  url: https://doi.org/10.1145/3611659.3615702
+  venue: Virtual Reality Software and Technology
+  image_url: images/publications/revisiting-consumed-endurance-a-nice-way-to-quantify-shoulder-fatigue-in-virtual-reality.png
+  date: 2023-10-09
+- paper_id: 90ac23d33d7060e0aa81d50a9f8f308c217c6302
+  title: A Review of Cognitive Readiness, Wearable Devices, and Prospects
+  authors:
+    Tasnim Irtifa Chowdhury, Andrew W. Vargo, Christopher Blakely, Benjamin
+    Tag, Koichi Kise
+  url: https://doi.org/10.48550/arXiv.2501.03537
+  venue: arXiv preprint arXiv:2501.03537
+  image_url: images/publications/a-review-of-cognitive-readiness-wearable-devices-and-prospects.png
+  date: 2025-01-07
+- paper_id: 3a0153d8d1e261640027d02febb69f696b0d9cac
+  title:
+    Identifying Periods of Cyclical Stress in University Students Using Wearables
+    In-the-Wild
+  authors: Peter Neigel, Andrew W. Vargo, Benjamin Tag, Koichi Kise
+  url: https://doi.org/10.48550/arXiv.2402.11823
+  venue: arXiv preprint arXiv:2402.11823
+  image_url: images/publications/identifying-periods-of-cyclical-stress-in-university-students-using-wearables-in-the-wild.png
+  date: 2024-02-19

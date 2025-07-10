@@ -1,0 +1,416 @@
+- paper_id: 110c14ab4b06bad507c303913d6d6fb18ee0ca60
+  title:
+    "SOCIA: An End-to-End Agentic Framework for Automated Cyber-Physical-Social
+    Simulator Generation"
+  authors: Yuncheng Hua, Ji Miao, Mehdi Jafari, Jianxiang Xie, Hao Xue, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2505.12006
+  venue: arXiv preprint arXiv:2505.12006
+  image_url: images/publications/socia-an-end-to-end-agentic-framework-for-automated-cyber-physical-social-simulator-generation.png
+  date: 2025-05-17
+- paper_id: 49e83ddfa49aeda7b89a79180b007e91b26029df
+  title:
+    "RIDE: Enhancing Large Language Model Alignment through Restyled In-Context
+    Learning Demonstration Exemplars"
+  authors:
+    Yuncheng Hua, Lizhen Qu, Zhuang Li, Hao Xue, Flora D. Salim, Gholamreza
+    Haffari
+  url: https://doi.org/10.48550/arXiv.2502.11681
+  venue: arXiv preprint arXiv:2502.11681
+  image_url: images/publications/ride-enhancing-large-language-model-alignment-through-restyled-in-context-learning-demonstration-exemplars.png
+  date: 2025-02-17
+- paper_id: 55cb87fea7a673a5ff4e6dae60b2160bee8e684c
+  title: "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks"
+  authors: Wilson Wongso, Hao Xue, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2505.11239
+  venue: arXiv preprint arXiv:2505.11239
+  image_url: images/publications/massive-steps-massive-semantic-trajectories-for-understanding-poi-check-ins-dataset-and-benchmarks.png
+  date: 2025-05-16
+- paper_id: 6ff364d37a29b69dd9ed6ee03a0e1aa0996c8a9c
+  title:
+    "Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge
+    Retrieval"
+  authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D. Salim
+  url: https://arxiv.org/abs/2503.14234
+  venue: arXiv preprint arXiv:2503.14234
+  image_url: images/publications/beyond-single-pass-looping-through-time-kg-irag-with-iterative-knowledge-retrieval.png
+  date: 2025-03-18
+- paper_id: 78214b5dcc1007e91a78ae361cf2cd6220801427
+  title:
+    "Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph
+    Partitioning"
+  authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2505.13994
+  venue: arXiv preprint arXiv:2505.13994
+  image_url: images/publications/divide-by-question-conquer-by-agent-split-rag-with-question-driven-graph-partitioning.png
+  date: 2025-05-20
+- paper_id: 9be42c52b6c3696f5d30fc0c5d135b6a6cc1cc88
+  title: Long Context Modeling with Ranked Memory-Augmented Retrieval
+  authors:
+    Ghadir Alselwi, Hao Xue, Shoaib Jameel, Basem Suleiman, Flora D. Salim,
+    Imran Razzak
+  url: https://doi.org/10.48550/arXiv.2503.14800
+  venue: arXiv preprint arXiv:2503.14800
+  image_url: images/publications/long-context-modeling-with-ranked-memory-augmented-retrieval.png
+  date: 2025-03-19
+- paper_id: bcdb9c15a26ebf297af6bdd1ebdaefddbfe0f662
+  title:
+    Evaluating the Bias in LLMs for Surveying Opinion and Decision Making in
+    Healthcare
+  authors:
+    Yonchanok Khaokaew, Flora D. Salim, Andreas Züfle, Hao Xue, Taylor Anderson,
+    C. R. MacIntyre, M. Scotch, D. Heslop
+  url: https://doi.org/10.48550/arXiv.2504.08260
+  venue: arXiv preprint arXiv:2504.08260
+  image_url: images/publications/evaluating-the-bias-in-llms-for-surveying-opinion-and-decision-making-in-healthcare.png
+  date: 2025-04-11
+- paper_id: 31670680ac3fec718b300ae117bded8f1d6bbda2
+  title:
+    "SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs
+    for Activity Recognition"
+  authors: Zechen Li, Shohreh Deldari, Linyao Chen, Hao Xue, Flora D. Salim
+  url: https://arxiv.org/abs/2410.10624
+  venue: arXiv preprint arXiv:2410.10624
+  image_url: images/publications/sensorllm-human-intuitive-alignment-of-multivariate-sensor-data-with-llms-for-activity-recognition.png
+  date: 2024-10-14
+- paper_id: 37735a8a1c0b60af4449e7367f92e9740a10f03d
+  title:
+    "T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity
+    Computation"
+  authors: Lihuan Li, Hao Xue, Yang Song, Flora D. Salim
+  url: https://doi.org/10.1145/3678717.3691271
+  venue: SIGSPATIAL/GIS
+  image_url: images/publications/t-jepa-a-joint-embedding-predictive-architecture-for-trajectory-similarity-computation.png
+  date: 2024-06-13
+- paper_id: 6107a39ef4779909c161975256c92015511a212a
+  title: "WorkR: Occupation Inference for Intelligent Task Assistance"
+  authors: Yonchanok Khaokaew, Hao Xue, M. Rahaman, Flora D. Salim
+  url: https://doi.org/10.1145/3675095.3676622
+  venue: International Workshop on the Semantic Web
+  image_url: images/publications/workr-occupation-inference-for-intelligent-task-assistance.png
+  date: 2024-07-26
+- paper_id: 73448ee46d1a74778e8e730798c05e5f2b1abddd
+  title: Prompt Mining for Language-based Human Mobility Forecasting
+  authors: Hao Xue, Tianye Tang, Ali Payani, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2403.03544
+  venue: arXiv preprint arXiv:2403.03544
+  image_url: images/publications/prompt-mining-for-language-based-human-mobility-forecasting.png
+  date: 2024-03-06
+- paper_id: 77bda0b2f35de848ac8b3c68195d34a2527e7bba
+  title: "ViLCo-Bench: VIdeo Language COntinual learning Benchmark"
+  authors: Tianqi Tang, Shohreh Deldari, Hao Xue, Celso De Melo, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2406.13123
+  venue: Neural Information Processing Systems
+  image_url: images/publications/vilco-bench-video-language-continual-learning-benchmark.png
+  date: 2024-06-19
+- paper_id: 79088d81e2966adab5a8e38915f9360707ab77fe
+  title:
+    "GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender
+    Systems"
+  authors: Wilson Wongso, Hao Xue, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2410.20643
+  venue: arXiv preprint arXiv:2410.20643
+  image_url: images/publications/genup-generative-user-profilers-as-in-context-learners-for-next-poi-recommender-systems.png
+  date: 2024-10-28
+- paper_id: 96701dae4ce6c78c4757a8378041ab9dc363440b
+  title: Large Language Models for Next Point-of-Interest Recommendation
+  authors: Peibo Li, M. de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim
+  url: https://doi.org/10.1145/3626772.3657840
+  venue:
+    Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
+  image_url: images/publications/large-language-models-for-next-point-of-interest-recommendation.png
+  date: 2024-04-19
+- paper_id: a77b3c5f532e61af63a9d95e671ce02d8065ee24
+  title:
+    "SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile
+    Dynamic Information Embedding"
+  authors: Ruiyi Yang, Flora D. Salim, Hao Xue
+  url: https://doi.org/10.1145/3589334.3645441
+  venue: The Web Conference
+  image_url: images/publications/sstkg-simple-spatio-temporal-knowledge-graph-for-intepretable-and-versatile-dynamic-information-embedding.png
+  date: 2024-02-19
+- paper_id: cb27eb74f02cfb6861c40faba43b7e5046bba5a9
+  title:
+    "ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor
+    for Streaming Time Series Forecasting"
+  authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2411.07413
+  venue: Trans. Mach. Learn. Res.
+  image_url: images/publications/odestream-a-buffer-free-online-learning-framework-with-ode-based-adaptor-for-streaming-time-series-forecasting.png
+  date: 2024-11-11
+- paper_id: 00c2aea466034c563b7aa3cd8eadb1fc46b119fa
+  title: Utilizing Language Models for Energy Load Forecasting
+  authors: Hao Xue, Flora D. Salim
+  url: https://doi.org/10.1145/3600100.3623730
+  venue: International Conference on Systems for Energy-Efficient Built Environments
+  image_url: images/publications/utilizing-language-models-for-energy-load-forecasting.png
+  date: 2023-10-26
+- paper_id: 92daba3b74691f95800298a4aaeb15d754480aaa
+  title: Human Mobility Question Answering (Vision Paper)
+  authors: Hao Xue, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2310.04443
+  venue: arXiv preprint arXiv:2310.04443
+  image_url: images/publications/human-mobility-question-answering-vision-paper.png
+  date: 2023-10-02
+- paper_id: e8a82d49cb506bf7483c2281a74c431e7325f3ea
+  title: Understanding Mobile Information Needs and Behaviours
+  authors: Yonchanok Khaokaew, Flora D. Salim, Hao Xue
+  url: https://doi.org/10.1145/3594739.3610760
+  venue: UbiComp/ISWC Adjunct
+  image_url: images/publications/understanding-mobile-information-needs-and-behaviours.png
+  date: 2023-10-08
+- paper_id: f8b143a76f2662bf78109f8583fd3ddb46457676
+  title:
+    "Measuring Misogyny in Natural Language Generation: Preliminary Results from
+    a Case Study on two Reddit Communities"
+  authors:
+    Aaron J. Snoswell, Lucinda Nelson, Hao Xue, Flora D. Salim, Nicolas Suzor,
+    Jean Burgess
+  url: https://doi.org/10.48550/arXiv.2312.03330
+  venue: arXiv preprint arXiv:2312.03330
+  image_url: images/publications/measuring-misogyny-in-natural-language-generation-preliminary-results-from-a-case-study-on-two-reddit-communities.png
+  date: 2023-12-06
+- paper_id: 2cabbf35bc9214522189e46c39d183db6691ff91
+  title:
+    "3DSEAVNet: 3D-Squeeze-and-Excitation Networks for Audio-Visual Saliency
+    Prediction"
+  authors: Silong Liang, Chunxiao Li, Naying Cui, Minghui Sun, Hao Xue
+  url: https://doi.org/10.1109/IJCNN54540.2023.10191383
+  venue: IEEE International Joint Conference on Neural Network
+  image_url: images/publications/3dseavnet-3d-squeeze-and-excitation-networks-for-audio-visual-saliency-prediction.png
+  date: 2023-06-18
+- paper_id: 3201274af3285aab48659e0125d81f3d304eac23
+  title:
+    Continually learning out-of-distribution spatiotemporal data for robust energy
+    forecasting
+  authors:
+    Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
+    Salim
+  url: https://doi.org/10.1007/978-3-031-43430-3_1
+  venue: ECML/PKDD
+  image_url: images/publications/continually-learning-out-of-distribution-spatiotemporal-data-for-robust-energy-forecasting.png
+  date: 2023-06-10
+- paper_id: 53759c0ec3fcb03a39b7bdc8243d74a3c78b7d8e
+  title:
+    "Self-supervised Activity Representation Learning with Incremental Data:
+    An Empirical Study"
+  authors: Jason Liu, Shohreh Deldari, Hao Xue, Van-Hau Nguyen, Flora D. Salim
+  url: https://doi.org/10.1109/MDM58254.2023.00019
+  venue: International Conference on Mobile Data Management
+  image_url: images/publications/self-supervised-activity-representation-learning-with-incremental-data-an-empirical-study.png
+  date: 2023-05-01
+- paper_id: 59fc922aac0f177a517d5656868c9c4334d863ef
+  title: MAPLE
+  authors: Yonchanok Khaokaew, Hao Xue, Flora D. Salim
+  url: https://doi.org/10.1145/3643514
+  venue: Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies
+  image_url: images/publications/maple.png
+  date: 2023-09-15
+- paper_id: 71b32766d8ff80e6a6034d5bae9b12de74b9fb07
+  title: Traffic forecasting on new roads using spatial contrastive pre-training (SCPT)
+  authors: Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, Flora D. Salim
+  url: https://doi.org/10.1007/s10618-023-00982-0
+  venue: Data mining and knowledge discovery
+  image_url: images/publications/traffic-forecasting-on-new-roads-using-spatial-contrastive-pre-training-scpt.png
+  date: 2023-05-09
+- paper_id: 831db51dd0314a37987b0855aecdb593fd7a163f
+  title: "Vision-Based Multi-Future Trajectory Prediction: A Survey."
+  authors: Renhao Huang, Hao Xue, M. Pagnucco, Flora D. Salim, Yang Song
+  url: https://doi.org/10.1109/TNNLS.2025.3550350
+  venue: IEEE Transactions on Neural Networks and Learning Systems
+  image_url: images/publications/vision-based-multi-future-trajectory-prediction-a-survey.png
+  date: 2023-02-21
+- paper_id: cdd72fac7ef528eb2667e989492a968213fe5e71
+  title:
+    "Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19:
+    Benchmarking energy load forecasting models without and with continual learning"
+  authors:
+    Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
+    Salim
+  url: https://doi.org/10.1145/3600100.3623726
+  venue: International Conference on Systems for Energy-Efficient Built Environments
+  image_url: images/publications/navigating-out-of-distribution-electricity-load-forecasting-during-covid-19-benchmarking-energy-load-forecasting-models-without-and-with-continual-learning.png
+  date: 2023-09-08
+- paper_id: ce5525cac5dffc4bdd9a8750f7d59a7e24c30a37
+  title: Message Passing Neural Networks for Traffic Forecasting
+  authors: Arian Prabowo, Hao Xue, Wei Shao, Piotr Koniusz, Flora D. Salim
+  url: https://doi.org/10.48550/arXiv.2305.05740
+  venue: arXiv preprint arXiv:2305.05740
+  image_url: images/publications/message-passing-neural-networks-for-traffic-forecasting.png
+  date: 2023-05-09
+- paper_id: f180f611297672263d29d803b24362174fa14037
+  title:
+    "Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in
+    Traffic Forecasting"
+  authors: Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, Flora D. Salim
+  url: https://doi.org/10.1145/3576842.3582362
+  venue: International Conference on Internet-of-Things Design and Implementation
+  image_url: images/publications/because-every-sensor-is-unique-so-is-every-pair-handling-dynamicity-in-traffic-forecasting.png
+  date: 2023-02-20
+- paper_id: 248581d85b2d4578c3771261ccf209bf38b68efc
+  title:
+    "SeqLink: A Robust Neural-ODE Architecture for Modelling Partially Observed
+    Time Series"
+  authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
+  url: https://arxiv.org/abs/2212.03560
+  venue: Trans. Mach. Learn. Res.
+  image_url: images/publications/seqlink-a-robust-neural-ode-architecture-for-modelling-partially-observed-time-series.png
+  date: 2022-12-07
+- paper_id: 55e31baa3ae5f32fb5e695761892319e26dbc639
+  title:
+    "Beyond Just Vision: A Review on Self-Supervised Representation Learning
+    on Multimodal and Temporal Data"
+  authors:
+    Shohreh Deldari, Hao Xue, Aaqib Saeed, Jiayuan He, Daniel V. Smith, Flora
+    D. Salim
+  url: https://doi.org/10.48550/arXiv.2206.02353
+  venue: arXiv preprint arXiv:2206.02353
+  image_url: images/publications/beyond-just-vision-a-review-on-self-supervised-representation-learning-on-multimodal-and-temporal-data.png
+  date: 2022-06-06
+- paper_id: 8427dd47594da3d80f8bde677c760219b30fe890
+  title: Robust Training with Feature-Based Adversarial Example
+  authors: Xuanming Fu, Zhengfeng Yang, Hao Xue, Jianlin Wang, Zhenbing Zeng
+  url: https://doi.org/10.1109/ICPR56361.2022.9956608
+  venue: International Conference on Pattern Recognition
+  image_url: images/publications/robust-training-with-feature-based-adversarial-example.png
+  date: 2022-08-21
+- paper_id: 863171ed35ca0035074f73bb202b153cc346f2f3
+  title: "PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting"
+  authors: Hao Xue, Flora D.Salim
+  url: https://doi.org/10.1109/TKDE.2023.3342137
+  venue: IEEE Transactions on Knowledge and Data Engineering
+  image_url: images/publications/promptcast-a-new-prompt-based-learning-paradigm-for-time-series-forecasting.png
+  date: 2022-09-20
+- paper_id: c55407cb2fd2fff0c8298090e0f8c99a005d057b
+  title: Leveraging language foundation models for human mobility forecasting
+  authors: Hao Xue, Bhanu Prakash Voutharoja, Flora D. Salim
+  url: https://doi.org/10.1145/3557915.3561026
+  venue: SIGSPATIAL/GIS
+  image_url: images/publications/leveraging-language-foundation-models-for-human-mobility-forecasting.png
+  date: 2022-09-11
+- paper_id: 5f447bc454eb572374751576ee0932e5ecba7f8b
+  title: Event-Aware Multimodal Mobility Nowcasting
+  authors: Zhaonan Wang, Renhe Jiang, Hao Xue, Flora D. Salim, Xuan Song, R. Shibasaki
+  url: https://doi.org/10.1609/aaai.v36i4.20342
+  venue: AAAI Conference on Artificial Intelligence
+  image_url: images/publications/event-aware-multimodal-mobility-nowcasting.png
+  date: 2021-12-14
+- paper_id: a614eb8c01ef06c1731f76a70bf82b2c1c63e18c
+  title:
+    "MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility
+    Prediction"
+  authors: Hao Xue, F. Salim, Yongli Ren, Nuria Oliver
+  url: https://arxiv.org/abs/2110.01401
+  venue: Neural Information Processing Systems
+  image_url: images/publications/mobtcast-leveraging-auxiliary-trajectory-forecasting-for-human-mobility-prediction.png
+  date: 2021-09-30
+- paper_id: a9629aef7d60cff8088ecbbcb37bad54a75cac18
+  title:
+    "PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous
+    Time-Series"
+  authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
+  url: https://doi.org/10.1109/ICDM51629.2021.00109
+  venue: Industrial Conference on Data Mining
+  image_url: images/publications/piets-parallelised-irregularity-encoders-for-forecasting-with-heterogeneous-time-series.png
+  date: 2021-09-30
+- paper_id: a9ee1ca1f82a26fdb975d1cb7d0f7f0ed1e2ffff
+  title: Intelligent Vehicle Design based on PaddlePaddle and Deep Learning
+  authors: Song He, Hao Xue, Lejiang Guo, Xin Chen, Jun Hu
+  url: https://doi.org/10.1088/1742-6596/2132/1/012003
+  venue: "Journal of Physics: Conference Series"
+  image_url: images/publications/intelligent-vehicle-design-based-on-paddlepaddle-and-deep-learning.png
+  date: 2021-12-01
+- paper_id: ab7365df23f96cd11d72c3c538bf72d49fae6907
+  title: Translating Human Mobility Forecasting through Natural Language Generation
+  authors: Hao Xue, Flora D. Salim, Yongli Ren, C. Clarke
+  url: https://doi.org/10.1145/3488560.3498387
+  venue: Web Search and Data Mining
+  image_url: images/publications/translating-human-mobility-forecasting-through-natural-language-generation.png
+  date: 2021-12-13
+- paper_id: c18bc6583836a575420203f87f0ac6dba71e37a9
+  title: Exploring Self-Supervised Representation Ensembles for COVID-19 Cough Classification
+  authors: Hao Xue, Flora D. Salim
+  url: https://doi.org/10.1145/3447548.3467263
+  venue: Knowledge Discovery and Data Mining
+  image_url: images/publications/exploring-self-supervised-representation-ensembles-for-covid-19-cough-classification.png
+  date: 2021-05-17
+- paper_id: 3ee3794b25304f21d364b7389d91a37c989a35d5
+  title: "Generative Adversarial Networks for Spatio-temporal Data: A Survey"
+  authors:
+    Nan Gao, Hao Xue, Wei Shao, Sichen Zhao, K. K. Qin, Arian Prabowo, M. Rahaman,
+    Flora D. Salim
+  url: https://doi.org/10.1145/3474838
+  venue: ACM Transactions on Intelligent Systems and Technology
+  image_url: images/publications/generative-adversarial-networks-for-spatio-temporal-data-a-survey.png
+  date: 2020-08-18
+- paper_id: 854c93fdb747f1ed4905d0211e0419e91db27b45
+  title:
+    Time Series Change Point Detection with Self-Supervised Contrastive Predictive
+    Coding
+  authors: Shohreh Deldari, Daniel V. Smith, Hao Xue, F. Salim
+  url: https://doi.org/10.1145/3442381.3449903
+  venue: The Web Conference
+  image_url: images/publications/time-series-change-point-detection-with-self-supervised-contrastive-predictive-coding.png
+  date: 2020-11-28
+- paper_id: 8b2701d0e4201f7c0500f3a5c7b57d654b5c6450
+  title:
+    "Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic
+    Social Graphs and Scene Constraints"
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://arxiv.org/abs/2010.05507
+  venue: arXiv preprint arXiv:2010.05507
+  image_url: images/publications/scene-gated-social-graph-pedestrian-trajectory-prediction-based-on-dynamic-social-graphs-and-scene-constraints.png
+  date: 2020-10-12
+- paper_id: aa0c05b09ddab96ed332d8275fe3d9d51b5e42d4
+  title:
+    "TRAILER: Transformer-based Time-wise Long Term Relation Modeling for Citywide
+    Traffic Flow Prediction"
+  authors: Hao Xue, F. Salim
+  url: https://dblp.org/rec/journals/corr/abs-2011-05554
+  venue: arXiv.org
+  image_url: images/publications/trailer-transformer-based-time-wise-long-term-relation-modeling-for-citywide-traffic-flow-prediction.png
+  date: 2020-11-11
+- paper_id: c899e7a7ff5fdab6a79d28493d33bee0886c290b
+  title: "TERMCast: Temporal Relation Modeling for Effective Urban Flow Forecasting"
+  authors: Hao Xue, Flora D. Salim
+  url: https://doi.org/10.1007/978-3-030-75762-5_58
+  venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  image_url: images/publications/termcast-temporal-relation-modeling-for-effective-urban-flow-forecasting.png
+  date: 2020-11-11
+- paper_id: f39d6fb2e788670f38f10096967e40e62988d588
+  title: "Take a NAP: Non-Autoregressive Prediction for Pedestrian Trajectories"
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://doi.org/10.1007/978-3-030-63830-6_46
+  venue: International Conference on Neural Information Processing
+  image_url: images/publications/take-a-nap-non-autoregressive-prediction-for-pedestrian-trajectories.png
+  date: 2020-04-21
+- paper_id: 1bd501931eb770888605e8928eeee6d4d67b0280
+  title: Location-Velocity Attention for Pedestrian Trajectory Prediction
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://doi.org/10.1109/WACV.2019.00221
+  venue: IEEE Workshop/Winter Conference on Applications of Computer Vision
+  image_url: images/publications/location-velocity-attention-for-pedestrian-trajectory-prediction.png
+  date: 2019-01-01
+- paper_id: ee1e109ddd9fd3725818b15e526b7e041431f9cf
+  title: Pedestrian Tracking and Stereo Matching of Tracklets for Autonomous Vehicles
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://doi.org/10.1109/VTCSpring.2019.8746329
+  venue: IEEE Vehicular Technology Conference
+  image_url: images/publications/pedestrian-tracking-and-stereo-matching-of-tracklets-for-autonomous-vehicles.png
+  date: 2019-04-01
+- paper_id: 498c8abcef3b709be97167ea5870e85d0c586945
+  title: "SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction"
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://doi.org/10.1109/WACV.2018.00135
+  venue: IEEE Workshop/Winter Conference on Applications of Computer Vision
+  image_url: images/publications/ss-lstm-a-hierarchical-lstm-model-for-pedestrian-trajectory-prediction.png
+  date: 2018-03-01
+- paper_id: 06288dbcae43ebbc69353d5e3a3a5e2a224916d8
+  title:
+    "Bi-Prediction: Pedestrian Trajectory Prediction Based on Bidirectional LSTM
+    Classification"
+  authors: Hao Xue, D. Huynh, Mark Reynolds
+  url: https://doi.org/10.1109/DICTA.2017.8227412
+  venue: "International Conference on Digital Image Computing: Techniques and Applications"
+  image_url: images/publications/bi-prediction-pedestrian-trajectory-prediction-based-on-bidirectional-lstm-classification.png
+  date: 2017-11-01

@@ -1,0 +1,276 @@
+- paper_id: 460b2cb168a957c316943f73ff7168169fe72ac5
+  title:
+    Striking a Balance between Classical and Deep Learning Approaches in Natural
+    Language Processing Pedagogy
+  authors:
+    Aditya Joshi, Jake Renzella, Pushpak Bhattacharyya, Saurav Jha, Xiangyu
+    Zhang
+  url: https://doi.org/10.18653/v1/2024.teachingnlp-1.4
+  venue: TEACHINGNLP
+  image_url: images/publications/striking-a-balance-between-classical-and-deep-learning-approaches-in-natural-language-processing-pedagogy.png
+  date: 2024-05-16
+- paper_id: fabd6bcb507eb10d78d813113525bbb77eacbb90
+  title:
+    "Striking a Balance: Alleviating Inconsistency in Pre-trained Models for
+    Symmetric Classification Tasks"
+  authors: Ashutosh Kumar, Aditya Joshi
+  url: https://doi.org/10.48550/arXiv.2203.13491
+  venue: Findings
+  image_url: images/publications/striking-a-balance-alleviating-inconsistency-in-pre-trained-models-for-symmetric-classification-tasks.png
+  date: 2022-03-25
+- paper_id: 28fd7af53be7759b2c1ac15458361aebd4567725
+  title:
+    "Recommendation Chart of Domains for Cross-Domain Sentiment Analysis: Findings
+    of A 20 Domain Study"
+  authors: Akash Sheoran, Diptesh Kanojia, Aditya Joshi, P. Bhattacharyya
+  url: https://arxiv.org/abs/2004.04478
+  venue: International Conference on Language Resources and Evaluation
+  image_url: images/publications/recommendation-chart-of-domains-for-cross-domain-sentiment-analysis-findings-of-a-20-domain-study.png
+  date: 2020-04-09
+- paper_id: 11ac75303c9b7fa06411162c4a15cc240ee55c2f
+  title: "DCAT: A Deep Context-Aware Trust Prediction Approach for Online Social Networks"
+  authors:
+    S. Ghafari, Aditya Joshi, A. Beheshti, Cécile Paris, Shahpar Yakhchi, M.
+    Orgun
+  url: https://doi.org/10.1145/3365921.3365940
+  venue: Advances in Mobile Multimedia
+  image_url: images/publications/dcat-a-deep-context-aware-trust-prediction-approach-for-online-social-networks.png
+  date: 2019-12-02
+- paper_id: 541780501b792ac875063b0bb18beecdee8bf484
+  title:
+    Figurative Usage Detection of Symptom Words to Improve Personal Health Mention
+    Detection
+  authors: Adith Iyer, Aditya Joshi, Sarvnaz Karimi, R. Sparks, Cécile Paris
+  url: https://doi.org/10.18653/v1/P19-1108
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/figurative-usage-detection-of-symptom-words-to-improve-personal-health-mention-detection.png
+  date: 2019-06-13
+- paper_id: 5f277d2605a272c321615373254097939aae4fac
+  title: "“When Numbers Matter!”: Detecting Sarcasm in Numerical Portions of Text"
+  authors: Abhijeet Dubey, Lakshya Kumar, Arpan Somani, Aditya Joshi, P. Bhattacharyya
+  url: https://doi.org/10.18653/v1/W19-1309
+  venue: WASSA@NAACL-HLT
+  image_url: images/publications/when-numbers-matter-detecting-sarcasm-in-numerical-portions-of-text.png
+  date: 2019-06-01
+- paper_id: 8ffc75d9f2e1e3c2f77f37822b89cf3a5fcd5ff2
+  title:
+    A Comparison of Word-based and Context-based Representations for Classification
+    Problems in Health Informatics
+  authors: Aditya Joshi, Sarvnaz Karimi, R. Sparks, Cécile Paris, C. R. MacIntyre
+  url: https://doi.org/10.18653/v1/W19-5015
+  venue: BioNLP@ACL
+  image_url: images/publications/a-comparison-of-word-based-and-context-based-representations-for-classification-problems-in-health-informatics.png
+  date: 2019-06-13
+- paper_id: ffd74e6910f4ae59e52c39001bb135038b64c2df
+  title:
+    Deep Models for Converting Sarcastic Utterances into their Non Sarcastic
+    Interpretation
+  authors: Abhijeet Dubey, Aditya Joshi, P. Bhattacharyya
+  url: https://doi.org/10.1145/3297001.3297043
+  venue: COMAD/CODS
+  image_url: images/publications/deep-models-for-converting-sarcastic-utterances-into-their-non-sarcastic-interpretation.png
+  date: 2019-01-03
+- paper_id: 5ef6d4204258fc5bfa5575d4ec81b968f8b4dcdc
+  title:
+    Hate Speech Detection from Code-mixed Hindi-English Tweets Using Deep Learning
+    Models
+  authors: Satyajit Kamble, Aditya Joshi
+  url: https://arxiv.org/abs/1811.05145
+  venue: ICON
+  image_url: images/publications/hate-speech-detection-from-code-mixed-hindi-english-tweets-using-deep-learning-models.png
+  date: 2018-11-13
+- paper_id: 72afb6726d0107a645ca78a599fe1b812b71eba4
+  title: "Shot Or Not: Comparison of NLP Approaches for Vaccination Behaviour Detection"
+  authors:
+    Aditya Joshi, Xiang Dai, Sarvnaz Karimi, R. Sparks, Cécile Paris, C. R.
+    MacIntyre
+  url: https://doi.org/10.18653/v1/W18-5911
+  venue: SMM4H@EMNLP
+  image_url: images/publications/shot-or-not-comparison-of-nlp-approaches-for-vaccination-behaviour-detection.png
+  date: 2018-10-01
+- paper_id: 992389f6cca214347d813328af545eea91e759ea
+  title: "Sarcasm Target Identification: Dataset and An Introductory Approach"
+  authors: Aditya Joshi, Pranav Goel, P. Bhattacharyya, Mark J. Carman
+  url: https://dblp.org/rec/conf/lrec/JoshiGBC18
+  venue: International Conference on Language Resources and Evaluation
+  image_url: images/publications/sarcasm-target-identification-dataset-and-an-introductory-approach.png
+  date: 2018-05-01
+- paper_id: 29fbba2b163193d5072bfe1c536c7ac5376cd815
+  title: "Sarcasm Suite: A Browser-Based Engine for Sarcasm Detection and Generation"
+  authors: Aditya Joshi, Diptesh Kanojia, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.1609/aaai.v31i1.10532
+  venue: AAAI Conference on Artificial Intelligence
+  image_url: images/publications/sarcasm-suite-a-browser-based-engine-for-sarcasm-detection-and-generation.png
+  date: 2017-02-12
+- paper_id: f78b111cd9493a40b71b2b0d4434baf28e513f9c
+  title: "Expect the Unexpected: Harnessing Sentence Completion for Sarcasm Detection"
+  authors: Aditya Joshi, Samarth Agrawal, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.1007/978-981-10-8438-6_22
+  venue: International Conference of the Pacific Association for Computaitonal Linguistics
+  image_url: images/publications/expect-the-unexpected-harnessing-sentence-completion-for-sarcasm-detection.png
+  date: 2017-07-19
+- paper_id: 087dd61b603f293ac8673fd733c2e3f3fa84a847
+  title:
+    "‘Who would have thought of that!’: A Hierarchical Topic Model for Extraction
+    of Sarcasm-prevalent Topics and Sarcasm Detection"
+  authors: Aditya Joshi, Prayas Jain, P. Bhattacharyya, Mark James Carman
+  url: https://arxiv.org/abs/1611.04326
+  venue: arXiv preprint arXiv:1611.04326
+  image_url: images/publications/who-would-have-thought-of-that-a-hierarchical-topic-model-for-extraction-of-sarcasm-prevalent-topics-and-sarcasm-detection.png
+  date: 2016-11-14
+- paper_id: 1802d2bfee8a7b7b5ce6165d95d201a68c31e6b2
+  title:
+    Harnessing Sequence Labeling for Sarcasm Detection in Dialogue from TV Series
+    ‘Friends’
+  authors: Aditya Joshi, Vaibhav Tripathi, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.18653/v1/K16-1015
+  venue: Conference on Computational Natural Language Learning
+  image_url: images/publications/harnessing-sequence-labeling-for-sarcasm-detection-in-dialogue-from-tv-series-friends.png
+  date: 2016-08-01
+- paper_id: 5b85352b2dd72aed5b54ffaed3abefff4f055d56
+  title:
+    "How Do Cultural Differences Impact the Quality of Sarcasm Annotation?: A
+    Case Study of Indian Annotators and American Text"
+  authors:
+    Aditya Joshi, P. Bhattacharyya, Mark James Carman, Jaya Saraswati, Rajita
+    Shukla
+  url: https://doi.org/10.18653/v1/W16-2111
+  venue: LaTeCH@ACL
+  image_url: images/publications/how-do-cultural-differences-impact-the-quality-of-sarcasm-annotation-a-case-study-of-indian-annotators-and-american-text.png
+  date: 2016-08-01
+- paper_id: 641ed032fc5b69eb14cdd462410ebe05f9dcbfc7
+  title:
+    "Political Issue Extraction Model: A Novel Hierarchical Topic Model That
+    Uses Tweets By Political And Non-Political Authors"
+  authors: Aditya Joshi, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.18653/v1/W16-0415
+  venue: WASSA@NAACL-HLT
+  image_url: images/publications/political-issue-extraction-model-a-novel-hierarchical-topic-model-that-uses-tweets-by-political-and-non-political-authors.png
+  date: 2016-06-01
+- paper_id: 6bf34bd98572f9d245f7cc5f09c69c558c0e0f53
+  title:
+    "A Framework that Uses the Web for Named Entity Class Identification: Case
+    Study for Indian Classical Music Forums"
+  authors: Joe Cheri Ross, Aditya Joshi, P. Bhattacharyya
+  url: https://doi.org/10.13053/cys-20-3-2464
+  venue: Journal of Computacion y Sistemas
+  image_url: images/publications/a-framework-that-uses-the-web-for-named-entity-class-identification-case-study-for-indian-classical-music-forums.png
+  date: 2016-09-30
+- paper_id: 8c8a7513cfd1e66144a1771bf4e29b7388c57bb3
+  title: Are Word Embedding-based Features Useful for Sarcasm Detection?
+  authors:
+    Aditya Joshi, Vaibhav Tripathi, Kevin Patel, P. Bhattacharyya, Mark James
+    Carman
+  url: https://doi.org/10.18653/v1/D16-1104
+  venue: Conference on Empirical Methods in Natural Language Processing
+  image_url: images/publications/are-word-embedding-based-features-useful-for-sarcasm-detection.png
+  date: 2016-10-04
+- paper_id: a5105aa7e9388f15ccd6b832acd7e9c2c325d6d8
+  title: "Automatic Identification of Sarcasm Target: An Introductory Approach"
+  authors: Aditya Joshi, Pranav Goel, P. Bhattacharyya, Mark James Carman
+  url: https://arxiv.org/abs/1610.07091
+  venue: arXiv preprint arXiv:1610.07091
+  image_url: images/publications/automatic-identification-of-sarcasm-target-an-introductory-approach.png
+  date: 2016-10-22
+- paper_id: ae5ac9f446895d70ad3ad20e85ea3fe6dbaa923c
+  title: Automatic Sarcasm Detection
+  authors: Aditya Joshi, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.1145/3124420
+  venue: ACM Computing Surveys
+  image_url: images/publications/automatic-sarcasm-detection.png
+  date: 2016-02-10
+- paper_id: 1fd37138514a6a87511760bb775426970cc83615
+  title: A Computational Approach to Automatic Prediction of Drunk-Texting
+  authors:
+    Aditya Joshi, Abhijit Mishra, A. Balamurali, P. Bhattacharyya, Mark James
+    Carman
+  url: https://doi.org/10.3115/v1/P15-2100
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/a-computational-approach-to-automatic-prediction-of-drunk-texting.png
+  date: 2015-07-01
+- paper_id: 67c3cdefd06873f5424f84990f6b82dccce1e9ab
+  title: Using Multilingual Topic Models for Improved Alignment in English-Hindi MT
+  authors: Diptesh Kanojia, Aditya Joshi, P. Bhattacharyya, Mark James Carman
+  url: https://dblp.org/rec/conf/icon-nlp/KanojiaJBC15
+  venue: ICON
+  image_url: images/publications/using-multilingual-topic-models-for-improved-alignment-in-english-hindi-mt.png
+  date: 2015-12-01
+- paper_id: 6b45501d66dfad91b13b224096e4c08dc167c10a
+  title:
+    "Your Sentiment Precedes You: Using an author’s historical tweets to predict
+    sarcasm"
+  authors: Anupam Khattri, Aditya Joshi, P. Bhattacharyya, Mark James Carman
+  url: https://doi.org/10.18653/v1/W15-2905
+  venue: WASSA@EMNLP
+  image_url: images/publications/your-sentiment-precedes-you-using-an-authors-historical-tweets-to-predict-sarcasm.png
+  date: 2015-09-01
+- paper_id: df23eb69a75c52f8208d572b53551581e965fae5
+  title: Harnessing Context Incongruity for Sarcasm Detection
+  authors: Aditya Joshi, Vinita Sharma, P. Bhattacharyya
+  url: https://doi.org/10.3115/v1/P15-2124
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/harnessing-context-incongruity-for-sarcasm-detection.png
+  date: 2015-07-01
+- paper_id: e53c46473653b7cac26cea8bb7f3b6d58f7e0d6b
+  title: A temporal expression recognition system for medical documents by
+  authors: Naman K. Gupta, Aditya Joshi, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/icon-nlp/GuptaJB15
+  venue: ICON
+  image_url: images/publications/a-temporal-expression-recognition-system-for-medical-documents-by.png
+  date: 2015-12-01
+- paper_id: 169f6294894a419737ef90b125e27bd958f07ea7
+  title: Measuring Sentiment Annotation Complexity of Text
+  authors: Aditya Joshi, Abhijit Mishra, Nivvedan Senthamilselvan, P. Bhattacharyya
+  url: https://doi.org/10.3115/v1/P14-2007
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/measuring-sentiment-annotation-complexity-of-text.png
+  date: 2014-06-01
+- paper_id: a6979a57548ddfbdf73a25494b93e37cb186c60e
+  title: A cognitive study of subjectivity extraction in sentiment annotation
+  authors: Abhijit Mishra, Aditya Joshi, P. Bhattacharyya
+  url: https://doi.org/10.3115/v1/W14-2623
+  venue: WASSA@ACL
+  image_url: images/publications/a-cognitive-study-of-subjectivity-extraction-in-sentiment-annotation.png
+  date: 2014-06-01
+- paper_id: f9001689a516c0056c02af1fe31203279bb356e4
+  title: "Making Headlines in Hindi: Automatic English to Hindi News Headline Translation"
+  authors: Aditya Joshi, Kashyap Popat, Shubham Gautam, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/ijcnlp/JoshiPGB13
+  venue: International Joint Conference on Natural Language Processing
+  image_url: images/publications/making-headlines-in-hindi-automatic-english-to-hindi-news-headline-translation.png
+  date: 2013-10-01
+- paper_id: 3e699c2aee182bdfbdfc82d29a9a39c7ee69dcb6
+  title: Cross-Lingual Sentiment Analysis for Indian Languages using Linked WordNets
+  authors: A. Balamurali, Aditya Joshi, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/coling/RJB12
+  venue: International Conference on Computational Linguistics
+  image_url: images/publications/cross-lingual-sentiment-analysis-for-indian-languages-using-linked-wordnets.png
+  date: 2012-12-01
+- paper_id: e31b6b7a00913b7bb078a84b3698eef63e132ddd
+  title: Cost and Benefit of Using WordNet Senses for Sentiment Analysis
+  authors: A. Balamurali, Aditya Joshi, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/lrec/BalamuraliarJB12
+  venue: International Conference on Language Resources and Evaluation
+  image_url: images/publications/cost-and-benefit-of-using-wordnet-senses-for-sentiment-analysis.png
+  date: 2012-05-01
+- paper_id: 5f03c10575f5830d6e2a58044ad9ff5bd2c43f92
+  title: "C-Feel-It: A Sentiment Analyzer for Micro-blogs"
+  authors: Aditya Joshi, A. Balamurali, P. Bhattacharyya, R. Mohanty
+  url: https://dblp.org/rec/conf/acl/JoshiABM11
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/c-feel-it-a-sentiment-analyzer-for-micro-blogs.png
+  date: 2011-06-21
+- paper_id: a3df564767915ea1f8321ca8f8ee9274521f4d39
+  title: Robust Sense-based Sentiment Classification
+  authors: A. Balamurali, Aditya Joshi, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/wassa/BalamuraliJB11
+  venue: WASSA@ACL
+  image_url: images/publications/robust-sense-based-sentiment-classification.png
+  date: 2011-06-24
+- paper_id: f95f50eaa23154d2ae6c1757312fe8032108fb75
+  title: Harnessing WordNet Senses for Supervised Sentiment Classification
+  authors: A. Balamurali, Aditya Joshi, P. Bhattacharyya
+  url: https://dblp.org/rec/conf/emnlp/RJB11
+  venue: Conference on Empirical Methods in Natural Language Processing
+  image_url: images/publications/harnessing-wordnet-senses-for-supervised-sentiment-classification.png
+  date: 2011-07-27

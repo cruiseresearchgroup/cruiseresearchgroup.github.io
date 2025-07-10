@@ -7,33 +7,46 @@ For a more comprehensive list of publications, please refer to the Google Schola
 
 <hr>
 
-{% assign all_publications = site.data.publications | sort: 'date' | reverse %}
+{% assign publications = site.data.publications %}
+{% assign publications_flora = site.data.publications_flora %}
+{% assign publications_aditya = site.data.publications_aditya %}
+{% assign publications_hao = site.data.publications_hao %}
+{% assign publications_benjamin = site.data.publications_benjamin %}
+
+{% assign all_publications = publications | concat: publications_flora | concat: publications_aditya | concat: publications_hao | concat: publications_benjamin %}
+
+{% assign filtered_publications = all_publications | where_exp: "item", "item.date != null" %}
+{% assign sorted_publications = filtered_publications | sort: "date" | reverse %}
 {% assign current_year = "" %}
+{% assign seen_titles = "" %}
 
-{% for pub in all_publications %}
-  {% assign pub_year = pub.date | slice: 0, 4 %}
-  {% assign next_pub = all_publications[forloop.index] %}
-  {% if next_pub %}
-    {% assign next_pub_year = next_pub.date | slice: 0, 4 %}
-  {% else %}
-    {% assign next_pub_year = "" %}
-  {% endif %}
+{% for pub in sorted_publications %}
+  {% unless seen_titles contains pub.title %}
+    {% assign seen_titles = seen_titles | append: pub.title | append: "," %}
+    {% assign pub_year = pub.date | slice: 0, 4 %}
+    {% assign next_pub = sorted_publications[forloop.index] %}
+    {% if next_pub and next_pub.date %}
+      {% assign next_pub_year = next_pub.date | slice: 0, 4 %}
+    {% else %}
+      {% assign next_pub_year = "" %}
+    {% endif %}
 
-  {% if pub_year != current_year %}
+    {% if pub_year != current_year %}
 ### {{ pub_year }}
-    {% assign current_year = pub_year %}
-  {% endif %}
+      {% assign current_year = pub_year %}
+    {% endif %}
 
-  <div class="publication">
-      <a href="{{ pub.url }}"><img src="{{ site.baseurl }}/{{ pub.image_url }}"></a>
-      <p>
-      <em>{{ pub.title }}</em><br>
-      {{ pub.authors }}<br>
-      <a href="{{ pub.url }}">{{ pub.venue }}</a>
-      </p>
-  </div>
+<div class="publication">
+    <a href="{{ pub.url }}"><img src="{{ site.baseurl }}/{{ pub.image_url }}"></a>
+    <p>
+    <em>{{ pub.title }}</em><br>
+    {{ pub.authors }}<br>
+    <a href="{{ pub.url }}">{{ pub.venue }}</a>
+    </p>
+</div>
 
-  {% if pub_year != next_pub_year %}
+    {% if pub_year != next_pub_year %}
 <hr>
-  {% endif %}
+    {% endif %}
+  {% endunless %}
 {% endfor %}
