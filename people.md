@@ -8,7 +8,7 @@ permalink: /people/
 {% assign others_sorted = others | sort: "name" %}
 {% assign people_sorted = flora | concat: others_sorted %}
 
-{% assign role_array = "academics|postdoc|gradstudent|mphil" | split: "|" %}
+{% assign role_array = "academics|postdoc|visitingfellow|gradstudent|mphil|masterstudent|ugstudent|alumni" | split: "|" %}
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
@@ -27,6 +27,14 @@ permalink: /people/
 <h3>PhD Students</h3>
  {% elsif role == 'mphil' %}
 <h3>MPhil Students</h3>
+ {% elsif role == 'masterstudent' %}
+<h3>Master's Students</h3>
+ {% elsif role == 'ugstudent' %}
+<h3>Undergraduate & Honours Students</h3>
+ {% elsif role == 'visitingfellow' %}
+<h3>Visiting Fellows</h3>
+ {% elsif role == 'alumni' %}
+<h3>Alumni</h3>
 {% endif %}
 </div>
 
@@ -51,5 +59,25 @@ permalink: /people/
 
 {% else %}
 
+<br>
+
+| Name                     | Former Position       | Where they went                                                  |
+| ------------------------ | --------------------- | ---------------------------------------------------------------- |
+| Yonchanok (Pro) Khaokaew | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
+| Imran Razzak             | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
+| Matthew Low              | Honours               | Atlassian                                                        |
+| Maodong Li               | Master's              | JD.com                                                           |
+| Chenlu Ju                | Honours               |                                                                  |
+| Jiaxin Liu               | Master's              |                                                                  |
+| Shohreh Deldari          | Postdoc               | Bain & Company                                                   |
+| Dhruv Agrawal            | Honours               |                                                                  |
+| Hamada Rizk              | Visiting Fellow       | Osaka University                                                 |
+| Luan Pham                | Visiting PhD Student  | Amazon United States                                             |
+| Si Zuo                   | Visiting PhD Student  | Aalto University                                                 |
+| Tianqi Tang              | Postdoc               | ByteDance Singapore                                              |
+| Francis Zac dela Cruz    | Master's              | Freelancer.com                                                   |
+
 {% endif %}
 {% endfor %}
+
+<hr>

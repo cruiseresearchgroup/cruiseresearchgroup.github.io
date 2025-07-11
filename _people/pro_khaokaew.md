@@ -1,7 +1,7 @@
 ---
 name: Dr Yonchanok (Pro) Khaokaew
 title: Dr Yonchanok (Pro) Khaokaew
-position: postdoc
+position: alumni
 avatar: yonchanok_khaokaew.png
 ---
 
