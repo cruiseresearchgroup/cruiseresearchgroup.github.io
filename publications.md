@@ -37,7 +37,7 @@ For a more comprehensive list of publications, please refer to the Google Schola
     {% endif %}
 
 <div class="publication">
-    <a href="{{ pub.url }}"><img src="{{ site.baseurl }}/{{ pub.image_url }}"></a>
+    <a href="{{ pub.url }}"><img src="{{ site.baseurl }}/{{ pub.image_url }}" loading="lazy"></a>
     <p>
     <em>{{ pub.title }}</em><br>
     {{ pub.authors }}<br>
