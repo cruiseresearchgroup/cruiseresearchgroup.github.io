@@ -79,14 +79,14 @@
   authors: "Yuncheng Hua, Ji Miao, Mehdi Jafari, Jianxiang Xie, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2505.12006"
   venue: "arXiv preprint arXiv:2505.12006"
-  image_url: "images/publications/socia.png"
+  image_url: "images/publications/socia-an-end-to-end-agentic-framework-for-automated-cyber-physical-social-simulator-generation.png"
   date: 2025-05-17
 
 - title: "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks"
   authors: "Wilson Wongso, Hao Xue, Flora D Salim"
   url: "https://arxiv.org/abs/2505.11239"
   venue: "arXiv preprint arXiv:2505.11239"
-  image_url: "images/publications/massive_steps.png"
+  image_url: "images/publications/massive-steps-massive-semantic-trajectories-for-understanding-poi-check-ins-dataset-and-benchmarks.png"
   date: 2025-05-16
 
 - title: "BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English"
