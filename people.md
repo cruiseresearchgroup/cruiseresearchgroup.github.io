@@ -80,9 +80,9 @@ permalink: /people/
 | Thuc Hanh (Grace) Nguyen   | Master Thesis         | Ericsson                                                         |
 | Justin Luong               | Honours               | Adora                                                            |
 | ***University of Kassel*** |
-| Judith Heinisch            | PhD Student           | University of Florida                                            |
+| Judith Heinisch            | PhD Student           | University of Kassel                                             |
 | ***Flinders University***  |
-| Lorenzo Yuxi Liu           | PhD Student           | University of Kassel                                             |
+| Lorenzo Yuxi Liu           | PhD Student           | University of Florida                                            |
 | ***RMIT***                 |
 | Yufan Kang                 | PhD Student           | Monash University                                                |
 | Futoon Abu Shaqra          | PhD Student           |                                                                  |
