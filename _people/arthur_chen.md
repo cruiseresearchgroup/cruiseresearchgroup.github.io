@@ -1,7 +1,7 @@
 ---
 name: Arthur Chen
 title: Arthur Chen
-position: mphil
+position: alumni
 avatar: arthur_chen.png
 ---
 

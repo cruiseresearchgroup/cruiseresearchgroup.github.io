@@ -28,7 +28,7 @@ permalink: /people/
  {% elsif role == 'mphil' %}
 <h3>MPhil Students</h3>
  {% elsif role == 'masterstudent' %}
-<h3>Master's Students</h3>
+<h3>Master Thesis Students</h3>
  {% elsif role == 'ugstudent' %}
 <h3>Undergraduate & Honours Students</h3>
  {% elsif role == 'visitingfellow' %}
@@ -61,21 +61,41 @@ permalink: /people/
 
 <br>
 
-| Name                     | Former Position       | Where they went                                                  |
-| ------------------------ | --------------------- | ---------------------------------------------------------------- |
-| Yonchanok (Pro) Khaokaew | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
-| Imran Razzak             | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
-| Matthew Low              | Honours               | Atlassian                                                        |
-| Maodong Li               | Master's              | JD.com                                                           |
-| Chenlu Ju                | Honours               |                                                                  |
-| Jiaxin Liu               | Master's              |                                                                  |
-| Shohreh Deldari          | Postdoc               | Bain & Company                                                   |
-| Dhruv Agrawal            | Honours               |                                                                  |
-| Hamada Rizk              | Visiting Fellow       | Osaka University                                                 |
-| Luan Pham                | Visiting PhD Student  | Amazon United States                                             |
-| Si Zuo                   | Visiting PhD Student  | Aalto University                                                 |
-| Tianqi Tang              | Postdoc               | ByteDance Singapore                                              |
-| Francis Zac dela Cruz    | Master's              | Freelancer.com                                                   |
+| Name                       | Former Position       | Where they went                                                  |
+| -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Arthur Chen                | MPhil Student         |                                                                  |
+| Yonchanok (Pro) Khaokaew   | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
+| Imran Razzak               | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
+| Matthew Low                | Honours               | Atlassian                                                        |
+| Maodong Li                 | Master Thesis         | JD.com                                                           |
+| Chenlu Ju                  | Honours               |                                                                  |
+| Jiaxin Liu                 | Master Thesis         |                                                                  |
+| Shohreh Deldari            | Postdoc               | Bain & Company                                                   |
+| Dhruv Agrawal              | Honours               | Citadel Securities                                               |
+| Hamada Rizk                | Visiting Fellow       | Osaka University                                                 |
+| Luan Pham                  | Visiting PhD Student  | Amazon United States                                             |
+| Si Zuo                     | Visiting PhD Student  | Aalto University                                                 |
+| Tianqi Tang                | Postdoc               | ByteDance Singapore                                              |
+| Francis Zac dela Cruz      | Master Thesis         | Dataro                                                           |
+| Thuc Hanh (Grace) Nguyen   | Master Thesis         | Ericsson                                                         |
+| Justin Luong               | Honours               | Adora                                                            |
+| ***University of Kassel*** |
+| Judith Heinisch            | PhD Student           | University of Florida                                            |
+| ***Flinders University***  |
+| Lorenzo Yuxi Liu           | PhD Student           | University of Kassel                                             |
+| ***RMIT***                 |
+| Yufan Kang                 | PhD Student           | Monash University                                                |
+| Futoon Abu Shaqra          | PhD Student           |                                                                  |
+| Sichen Zhao                | PhD Student           | An energy company in China                                       |
+| Kai Qin                    | PhD Student           | Data Engineering Lead at an AI Startup                           |
+| Ali Hamdi Ali              | PhD Student           | MSA University, Egypt                                            |
+| Shakila Khan Rumi          | PhD Student           | Australian Institute of Health and Welfare                       |
+| Jonathan Liono             | PhD Student           | tiket.com                                                        |
+| Hui Song                   | PhD Student           | Hangzhou Dianzi University                                       |
+| Saiedur Rahaman            | PhD Student           | CQU                                                              |
+| Irvan Bastian Arief        | PhD Student           | tiket.com                                                        |
+| Wei Shao                   | PhD Student           | Data61                                                           |
+| Amin Sadri                 | PhD Student           | ANZ                                                              |
 
 {% endif %}
 {% endfor %}
