@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,45 +13,54 @@
             line-height: 1.6;
             color: #333;
         }
+
         header {
             background: #0073e6;
             color: white;
             padding: 1em 0;
             text-align: center;
         }
+
         nav {
             background: #005bb5;
             padding: 0.5em;
             text-align: center;
         }
+
         nav a {
             color: white;
             text-decoration: none;
             margin: 0 1em;
             font-weight: bold;
         }
+
         nav a:hover {
             text-decoration: underline;
         }
+
         .container {
             max-width: 1200px;
             margin: auto;
             padding: 2em;
         }
+
         section {
             margin-bottom: 2em;
         }
+
         footer {
             text-align: center;
             background: #0073e6;
             color: white;
             padding: 1em 0;
         }
+
         .topic-container {
             display: flex;
             justify-content: space-between;
             gap: 1em;
         }
+
         .topic {
             flex: 1;
             border: 1px solid #ddd;
@@ -60,20 +70,24 @@
             background-color: #f9f9f9;
             text-align: left;
         }
+
         .topic h3 {
             color: #1173e6;
             text-align: center;
         }
+
         .organizers-container {
             display: flex;
             flex-wrap: wrap;
             gap: 1em;
             justify-content: center;
         }
+
         .organizer {
             text-align: center;
             width: 180px;
         }
+
         .organizer img {
             width: 150px;
             height: 150px;
@@ -81,6 +95,7 @@
             border-radius: 50%;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
+
         .organizer a {
             text-decoration: none;
             color: #0073e6;
@@ -88,32 +103,40 @@
             display: block;
             margin-top: 0.5em;
         }
+
         .schedule-day {
             margin-bottom: 1em;
         }
+
         .schedule-day h3 {
             cursor: pointer;
             color: #0073e6;
             margin: 0;
         }
+
         .schedule-details {
             display: none;
             margin-top: 0.5em;
             border-left: 3px solid #0073e6;
             padding-left: 1em;
         }
+
         .schedule-details.active {
             display: block;
         }
+
         .participants-table {
             width: 100%;
             border-collapse: collapse;
         }
-        .participants-table th, .participants-table td {
+
+        .participants-table th,
+        .participants-table td {
             border: 1px solid #ddd;
             padding: 8px;
             text-align: center;
         }
+
         .participants-table th {
             background-color: #0073e6;
             color: white;
@@ -126,6 +149,7 @@
         }
     </script>
 </head>
+
 <body>
     <header>
         <h1>Shonan Seminar</h1>
@@ -140,13 +164,23 @@
         <a href="#outcomes">Meeting Outcomes</a>
         <a href="#participants">Participants</a>
         <a href="#venue">Venue</a>
-        
+
     </nav>
 
     <div class="container">
         <section id="overview">
             <h2>Overview</h2>
-            <p>The proliferation of handheld GPS enabled devices, spatial and spatio-temporal data is generated, stored, and published by billions of users in a plethora of applications. Multiple communities, in computer science, outside computer science, and in industry, have responded to the pertinent challenges and proposed solutions to individual problems. These communities include mobile data management, spatial data mining, geography, transportation engineering, spatial privacy, and spatial epidemiology. In addition, the AI and machine learning communities have also started exploring spatio-temporal and mobility data. Integrating these communities around the common interest of AI and data science around spatio-temporal and mobility-related problems is the best chance to achieve impactful end-to-end solutions to real world problems in our cities. This Shonan meeting will follow the success of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22021">Seminar on Mobility Data Science</a> held in January 2022, and expand it to the Mobility AI (or GeoAI) community.</p>
+            <p>The proliferation of handheld GPS enabled devices, spatial and spatio-temporal data is generated, stored,
+                and published by billions of users in a plethora of applications. Multiple communities, in computer
+                science, outside computer science, and in industry, have responded to the pertinent challenges and
+                proposed solutions to individual problems. These communities include mobile data management, spatial
+                data mining, geography, transportation engineering, spatial privacy, and spatial epidemiology. In
+                addition, the AI and machine learning communities have also started exploring spatio-temporal and
+                mobility data. Integrating these communities around the common interest of AI and data science around
+                spatio-temporal and mobility-related problems is the best chance to achieve impactful end-to-end
+                solutions to real world problems in our cities. This Shonan meeting will follow the success of the <a
+                    href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22021">Seminar on Mobility Data
+                    Science</a> held in January 2022, and expand it to the Mobility AI (or GeoAI) community.</p>
         </section>
 
         <section id="topics">
@@ -154,17 +188,26 @@
             <div class="topic-container">
                 <div class="topic">
                     <h3>Open Large-scale Datasets</h3>
-                    <p>The success of developing advanced models for various applications largely depends on high-quality large-scale datasets. In mobility data science and mobility AI research, most research works still rely on traditional datasets like Geolife, Gowalla, TaxiPorto, and FourSquare, which were introduced a decade ago. The meeting will discuss the challenges and questions towards developing large-scale open datasets such as:</p>
+                    <p>The success of developing advanced models for various applications largely depends on
+                        high-quality large-scale datasets. In mobility data science and mobility AI research, most
+                        research works still rely on traditional datasets like Geolife, Gowalla, TaxiPorto, and
+                        FourSquare, which were introduced a decade ago. The meeting will discuss the challenges and
+                        questions towards developing large-scale open datasets such as:</p>
                     <ul>
                         <li>What are the challenges of collecting and publishing modern mobility data?</li>
                         <li>How to assess the quality of mobility data?</li>
                         <li>How to address the privacy concerns in releasing large-scale mobility data?</li>
-                        <li>Which data models facilitate the integration of heterogeneous data from multiple sources?</li>
+                        <li>Which data models facilitate the integration of heterogeneous data from multiple sources?
+                        </li>
                     </ul>
                 </div>
                 <div class="topic">
                     <h3>Reproducibility</h3>
-                    <p>In comparison to other research communities such as CV and NLP, the reproducibility in the mobility data science/AI research area is overlooked. For example, a proposed model or algorithm is rarely evaluated globally. We cannot guarantee the utility of a model in a new scenario even if its implementation is available. We will discuss questions related to the reproducibility, including:</p>
+                    <p>In comparison to other research communities such as CV and NLP, the reproducibility in the
+                        mobility data science/AI research area is overlooked. For example, a proposed model or algorithm
+                        is rarely evaluated globally. We cannot guarantee the utility of a model in a new scenario even
+                        if its implementation is available. We will discuss questions related to the reproducibility,
+                        including:</p>
                     <ul>
                         <li>What are the main reproducibility issues in the community?</li>
                         <li>Can we develop a centralized platform for cross-region reproduction?</li>
@@ -174,11 +217,17 @@
                 </div>
                 <div class="topic">
                     <h3>New Directions</h3>
-                    <p>Another important aspect of this meeting is to shape the future of mobility data science and mobility AI (e.g., in the next 10 years). We believe with proper designing, the research of mobility could bring many benefits to our daily life in multiple ways. Research questions discussed will include:</p>
+                    <p>Another important aspect of this meeting is to shape the future of mobility data science and
+                        mobility AI (e.g., in the next 10 years). We believe with proper designing, the research of
+                        mobility could bring many benefits to our daily life in multiple ways. Research questions
+                        discussed will include:</p>
                     <ul>
                         <li>What are the priority areas of focus for the advancement of mobility data science/AI?</li>
-                        <li>How can we conduct responsible mobility data science/AI research for other disciplines such as for Intelligent Transportation, business intelligence, emergency and disaster response?</li>
-                        <li>How can we strengthen the cross-country collaborations to leverage data with more diverse geographical characteristics?</li>
+                        <li>How can we conduct responsible mobility data science/AI research for other disciplines such
+                            as for Intelligent Transportation, business intelligence, emergency and disaster response?
+                        </li>
+                        <li>How can we strengthen the cross-country collaborations to leverage data with more diverse
+                            geographical characteristics?</li>
                         <li>How to foster interdisciplinary collaborations on a regular basis?</li>
                     </ul>
                 </div>
@@ -189,27 +238,27 @@
             <h2>Organizers</h2>
             <div class="organizers-container">
                 <div class="organizer">
-                    <img src="img/shonan_img/Flora.png" alt="Flora Salim">
+                    <img src="images/others/shonan_img/Flora.png" alt="Flora Salim">
                     <a href="https://fsalim.github.io/" target="_blank">Flora Salim</a>
                     <p>University of New South Wales Sydney, Australia</p>
                 </div>
                 <div class="organizer">
-                    <img src="img/shonan_img/Andreas.png" alt="Andreas Zufle">
+                    <img src="images/others/shonan_img/Andreas.png" alt="Andreas Zufle">
                     <a href="https://www.zuefle.org/" target="_blank">Andreas Zufle</a>
                     <p>Emory University, USA</p>
                 </div>
                 <div class="organizer">
-                    <img src="img/shonan_img/Mahmoud.png" alt="Mahmoud Sakr">
+                    <img src="images/others/shonan_img/Mahmoud.png" alt="Mahmoud Sakr">
                     <a href="https://cs.ulb.ac.be/members/mahmoud/" target="_blank">Mahmoud Sakr</a>
                     <p>Université libre de Bruxelles, Belgium</p>
                 </div>
                 <div class="organizer">
-                    <img src="img/shonan_img/Kyoungsook.png" alt="Kyoung-Sook Kim">
+                    <img src="images/others/shonan_img/Kyoungsook.png" alt="Kyoung-Sook Kim">
                     <a href="https://staff.aist.go.jp/ks.kim/" target="_blank">Kyoung-Sook Kim</a>
                     <p>National Institute of Advanced Industrial Science and Technology (AIST), Japan</p>
                 </div>
                 <div class="organizer">
-                    <img src="img/shonan_img/Peer.png" alt="Peer Kroger">
+                    <img src="images/others/shonan_img/Peer.png" alt="Peer Kroger">
                     <a href="https://www.isdm.informatik.uni-kiel.de/de?set_language=de" target="_blank">Peer Kroger</a>
                     <p>University of Kiel, Germany</p>
                 </div>
@@ -233,7 +282,8 @@
                 </div>
             </div>
             <div class="schedule-day">
-                <h3 onclick="toggleScheduleDetails('day-1')">Monday (Day 1, February 17, Session 1: Introduction and Lighting Talks & Session 2: Workshop on Datasets)</h3>
+                <h3 onclick="toggleScheduleDetails('day-1')">Monday (Day 1, February 17, Session 1: Introduction and
+                    Lighting Talks & Session 2: Workshop on Datasets)</h3>
                 <div class="schedule-details" id="day-1">
                     <p>7:00-8:30: Breakfast</p>
                     <p>8:30-9:00: Pre-Meeting with Shonan Staff (Organizers only)</p>
@@ -251,7 +301,8 @@
                 </div>
             </div>
             <div class="schedule-day">
-                <h3 onclick="toggleScheduleDetails('day-2')">Tuesday (Day 2, February 18, Session 3: Workshop on Models & Session 4: Hands on Tooling, Quick Prototyping)</h3>
+                <h3 onclick="toggleScheduleDetails('day-2')">Tuesday (Day 2, February 18, Session 3: Workshop on Models
+                    & Session 4: Hands on Tooling, Quick Prototyping)</h3>
                 <div class="schedule-details" id="day-2">
                     <p>7:00-9:00: Breakfast</p>
                     <p>9:00-10:30: Workshop on Models</p>
@@ -266,7 +317,8 @@
                 </div>
             </div>
             <div class="schedule-day">
-                <h3 onclick="toggleScheduleDetails('day-3')">Wednesday (Day 3, February 19, Session 5: Shut up and Write!)</h3>
+                <h3 onclick="toggleScheduleDetails('day-3')">Wednesday (Day 3, February 19, Session 5: Shut up and
+                    Write!)</h3>
                 <div class="schedule-details" id="day-3">
                     <p>7:00-9:00: Breakfast</p>
                     <p>9:00-10:30: Paper and Proposal Writing</p>
@@ -279,7 +331,8 @@
                 </div>
             </div>
             <div class="schedule-day">
-                <h3 onclick="toggleScheduleDetails('day-4')">Thursday (Day 4, February 20, Session 6: Report and Next Steps)</h3>
+                <h3 onclick="toggleScheduleDetails('day-4')">Thursday (Day 4, February 20, Session 6: Report and Next
+                    Steps)</h3>
                 <div class="schedule-details" id="day-4">
                     <p>7:00-10:00: Check-Out</p>
                     <p>7:00-9:00: Breakfast</p>
@@ -295,7 +348,9 @@
 
         <section id="outcomes">
             <h2>Meeting Outcomes</h2>
-            <p>One of the main discussion topic of the meeting will be around the large-scale datasets for mobility data science and mobility AI research. We therefore intend to compile a practical agenda for establishing such a dataset in the next few years.</p>
+            <p>One of the main discussion topic of the meeting will be around the large-scale datasets for mobility data
+                science and mobility AI research. We therefore intend to compile a practical agenda for establishing
+                such a dataset in the next few years.</p>
             <ul>
                 <li>Joint Project Initiatives</li>
                 <li>A Journal Special Issue</li>
@@ -303,62 +358,184 @@
             </ul>
         </section>
 
-        
-            <section id="participants">
-                <h2>Participants</h2>
-                <div class="container">
-                    <table class="participants-table">
-                        <tr>
-                            <th>Name</th>
-                            <th>Affiliation</th>
-                            <th>Country</th>
-                        </tr>
-                        <tr><td>Dr. Taylor Anderson</td><td>George Mason University</td><td>USA</td></tr>
-                        <tr><td>Mr. Hossein Amiri</td><td>Emory University</td><td>USA</td></tr>
-                        <tr><td>Dr. Yang Cao</td><td>Institute of Science Tokyo</td><td>Japan</td></tr>
-                        <tr><td>Dr. Gilles Dejaegere</td><td>Universite Libre de Bruxelles</td><td>Belgium</td></tr>
-                        <tr><td>Prof. Zeinalipour Demetris</td><td>University of Cyprus</td><td>Cyprus</td></tr>
-                        <tr><td>Dr. Renhe Jiang</td><td>University of Tokyo</td><td>Japan</td></tr>
-                        <tr><td>Dr. Joon-Seok Kim</td><td>Emory University</td><td>USA</td></tr>
-                        <tr><td>Dr. Yuxuan Liang</td><td>The Hong Kong University of Science and Technology (Guangzhou)</td><td>Hong Kong</td></tr>
-                        <tr><td>Prof. Hua Lu</td><td>Aalborg University</td><td>Denmark</td></tr>
-                        <tr><td>Dr. Amr Magdy</td><td>University of California, Riverside</td><td>USA</td></tr>
-                        <tr><td>Mr. Gaspard Merten</td><td>Universite Libre de Bruxelles</td><td>Belgium</td></tr>
-                        <tr><td>Prof. Mohamed Mokbel</td><td>University of Minnesota</td><td>USA</td></tr>
-                        <tr><td>Ms. Chiara Pugliese</td><td>CNR-lit and CNR-Isti in Pisa</td><td>Italy</td></tr>
-                        <tr><td>Dr. Jianzhong Qi</td><td>The University of Melbourne</td><td>Australia</td></tr>
-                        <tr><td>Dr. Chiara Renso</td><td>ISTI - CNR</td><td>Italy</td></tr>
-                        <tr><td>Prof. Matthias Renz</td><td>Kiel University</td><td>Germany</td></tr>
-                        <tr><td>Dr. Hamada Rizk</td><td>Osaka University</td><td>Japan</td></tr>
-                        <tr><td>Prof. Cyrus Shahabi</td><td>University of Southern California</td><td>USA</td></tr>
-                        <tr><td>Prof. Goce Trajcevski</td><td>Iowa State University</td><td>USA</td></tr>
-                        <tr><td>Prof. Ranga Raju Vatsavai</td><td>North Carolina State University</td><td>USA</td></tr>
-                        <tr><td>Dr. Li Xiong</td><td>Emory University</td><td>USA</td></tr>
-                        <tr><td>Prof. Jianqiu Xu</td><td>Nanjing University of Aeronautics and Astronautics</td><td>China</td></tr>
-                        <tr><td>Dr. Hao Xue</td><td>University of New South Wales</td><td>Australia</td></tr>
-                        <tr><td>Prof. Daisuke Yamamoto</td><td>Nagoya Institute of Technology</td><td>Japan</td></tr>
-                        <tr><td>Dr. Takahiro Yabe</td><td>New York University</td><td>USA</td></tr>
-                        <tr><td>Mr. Du Yin</td><td>University of New South Wales</td><td>Australia</td></tr>
-                        <tr><td>Prof. Takuro Yonezawa</td><td>Nagoya University</td><td>Japan</td></tr>
-                        <tr><td>Prof. Yang Yue</td><td>Shenzhen University</td><td>China</td></tr>
-                        <tr><td>Dr.-Ing. Claudius Zelenka</td><td>Christian-Albrechts-Universität zu Kiel</td><td>Germany</td></tr>
-                        <tr><td>Dr. Liang Zhao</td><td>Emory University</td><td>USA</td></tr>
-                        
-                    </table>
-            
+
+        <section id="participants">
+            <h2>Participants</h2>
+            <div class="container">
+                <table class="participants-table">
+                    <tr>
+                        <th>Name</th>
+                        <th>Affiliation</th>
+                        <th>Country</th>
+                    </tr>
+                    <tr>
+                        <td>Dr. Taylor Anderson</td>
+                        <td>George Mason University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Mr. Hossein Amiri</td>
+                        <td>Emory University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Yang Cao</td>
+                        <td>Institute of Science Tokyo</td>
+                        <td>Japan</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Gilles Dejaegere</td>
+                        <td>Universite Libre de Bruxelles</td>
+                        <td>Belgium</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Zeinalipour Demetris</td>
+                        <td>University of Cyprus</td>
+                        <td>Cyprus</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Renhe Jiang</td>
+                        <td>University of Tokyo</td>
+                        <td>Japan</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Joon-Seok Kim</td>
+                        <td>Emory University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Yuxuan Liang</td>
+                        <td>The Hong Kong University of Science and Technology (Guangzhou)</td>
+                        <td>Hong Kong</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Hua Lu</td>
+                        <td>Aalborg University</td>
+                        <td>Denmark</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Amr Magdy</td>
+                        <td>University of California, Riverside</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Mr. Gaspard Merten</td>
+                        <td>Universite Libre de Bruxelles</td>
+                        <td>Belgium</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Mohamed Mokbel</td>
+                        <td>University of Minnesota</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Ms. Chiara Pugliese</td>
+                        <td>CNR-lit and CNR-Isti in Pisa</td>
+                        <td>Italy</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Jianzhong Qi</td>
+                        <td>The University of Melbourne</td>
+                        <td>Australia</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Chiara Renso</td>
+                        <td>ISTI - CNR</td>
+                        <td>Italy</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Matthias Renz</td>
+                        <td>Kiel University</td>
+                        <td>Germany</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Hamada Rizk</td>
+                        <td>Osaka University</td>
+                        <td>Japan</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Cyrus Shahabi</td>
+                        <td>University of Southern California</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Goce Trajcevski</td>
+                        <td>Iowa State University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Ranga Raju Vatsavai</td>
+                        <td>North Carolina State University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Li Xiong</td>
+                        <td>Emory University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Jianqiu Xu</td>
+                        <td>Nanjing University of Aeronautics and Astronautics</td>
+                        <td>China</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Hao Xue</td>
+                        <td>University of New South Wales</td>
+                        <td>Australia</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Daisuke Yamamoto</td>
+                        <td>Nagoya Institute of Technology</td>
+                        <td>Japan</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Takahiro Yabe</td>
+                        <td>New York University</td>
+                        <td>USA</td>
+                    </tr>
+                    <tr>
+                        <td>Mr. Du Yin</td>
+                        <td>University of New South Wales</td>
+                        <td>Australia</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Takuro Yonezawa</td>
+                        <td>Nagoya University</td>
+                        <td>Japan</td>
+                    </tr>
+                    <tr>
+                        <td>Prof. Yang Yue</td>
+                        <td>Shenzhen University</td>
+                        <td>China</td>
+                    </tr>
+                    <tr>
+                        <td>Dr.-Ing. Claudius Zelenka</td>
+                        <td>Christian-Albrechts-Universität zu Kiel</td>
+                        <td>Germany</td>
+                    </tr>
+                    <tr>
+                        <td>Dr. Liang Zhao</td>
+                        <td>Emory University</td>
+                        <td>USA</td>
+                    </tr>
+
+                </table>
+
             </div>
         </section>
 
         <section id="venue">
             <h2>Venue</h2>
-            <p>The meeting will be held at the <strong>Shonan Village Center</strong>, a serene location designed for collaborative academic events.</p>
+            <p>The meeting will be held at the <strong>Shonan Village Center</strong>, a serene location designed for
+                collaborative academic events.</p>
             <p>Address: 1560-39 Kamiyamaguchi, Hayama, Kanagawa, Japan</p>
             <p><a href="https://shonan.nii.ac.jp/seminars/210/" target="_blank">More Information</a></p>
         </section>
 
 
-    <footer>
-        <p>&copy; 2025 Flora Salim. All Rights Reserved.</p>
-    </footer>
+        <footer>
+            <p>&copy; 2025 Flora Salim. All Rights Reserved.</p>
+        </footer>
 </body>
+
 </html>
