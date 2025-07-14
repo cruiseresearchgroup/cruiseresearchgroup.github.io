@@ -63,7 +63,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
-| Arthur Chen                | MPhil Student         |                                                                  |
+| Arthur Chen                | MPhil Student         | UNSW                                                             |
 | Yonchanok (Pro) Khaokaew   | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
 | Imran Razzak               | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
 | Matthew Low                | Honours               | Atlassian                                                        |
@@ -85,7 +85,7 @@ permalink: /people/
 | Lorenzo Yuxi Liu           | PhD Student           | University of Florida                                            |
 | ***RMIT***                 |
 | Yufan Kang                 | PhD Student           | Monash University                                                |
-| Futoon Abu Shaqra          | PhD Student           |                                                                  |
+| Futoon Abu Shaqra          | PhD Student           | RMIT                                                             |
 | Sichen Zhao                | PhD Student           | An energy company in China                                       |
 | Kai Qin                    | PhD Student           | Data Engineering Lead at an AI Startup                           |
 | Ali Hamdi Ali              | PhD Student           | MSA University, Egypt                                            |
