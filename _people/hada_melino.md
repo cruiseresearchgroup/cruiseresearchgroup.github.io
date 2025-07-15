@@ -1,12 +1,12 @@
 ---
-name: Ji Miao
-title: Ji Miao
+name: Hada Melino
+title: Hada Melino
 position: masterstudent
-avatar: ji_miao.png
+# avatar: hada_melino.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=9orIctEAAAAJ)
+<!-- <i class="fa fa-bar-chart"></i> [Google Scholar]() -->
 <br>
 <!-- <i class="fa fa-home"></i> [Homepage]() -->
