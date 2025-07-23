@@ -2,7 +2,7 @@
 name: Hada Melino
 title: Hada Melino
 position: masterstudent
-# avatar: hada_melino.jpg
+avatar: hada_melino.jpeg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
