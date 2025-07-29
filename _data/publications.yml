@@ -1,3 +1,10 @@
+- title: Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG
+  authors: "Baiyu Chen, Wilson Wongso, Xiaoqian Hu, Yue Tan, Flora Salim"
+  url: https://arxiv.org/abs/2507.20136
+  venue: "arXiv preprint arXiv:2507.20136"
+  image_url: "images/publications/multi-stage-verification-centric-framework-for-mitigating-hallucination-in-multi-modal-rag.png"
+  date: 2025-07-27
+
 - title: "Bisecle: Binding and Separation in Continual Learning for Video Language Understanding"
   authors: "Yue Tan, Xiaoqian Hu, Hao Xue, Celso De Melo, Flora D Salim"
   url: "https://arxiv.org/abs/2507.00469"
