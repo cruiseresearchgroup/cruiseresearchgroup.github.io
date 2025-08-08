@@ -2,7 +2,7 @@
 name: Minjie Liu
 title: Minjie Liu
 position: gradstudent
-# avatar: minjie_liu.png
+avatar: minjie_liu.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
