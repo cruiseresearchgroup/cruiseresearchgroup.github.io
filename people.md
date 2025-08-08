@@ -8,7 +8,7 @@ permalink: /people/
 {% assign others_sorted = others | sort: "name" %}
 {% assign people_sorted = flora | concat: others_sorted %}
 
-{% assign role_array = "academics|postdoc|visitingfellow|gradstudent|mphil|masterstudent|ugstudent|alumni" | split: "|" %}
+{% assign role_array = "academics|postdoc|visitingfellow|softwareengineer|gradstudent|mphil|masterstudent|ugstudent|alumni" | split: "|" %}
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
@@ -33,6 +33,8 @@ permalink: /people/
 <h3>Undergraduate & Honours Students</h3>
  {% elsif role == 'visitingfellow' %}
 <h3>Visiting Fellows</h3>
+ {% elsif role == 'softwareengineer' %}
+<h3>Software Engineers</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -63,6 +65,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Yue Tan                    | Postdoc               |                                                                  |
 | Arthur Chen                | MPhil Student         | UNSW                                                             |
 | Yonchanok (Pro) Khaokaew   | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
 | Imran Razzak               | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
