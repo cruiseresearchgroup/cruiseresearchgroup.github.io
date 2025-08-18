@@ -65,6 +65,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Haley Stone                | Postdoc               | University of Glasgow                                            |
 | Yue Tan                    | Postdoc               | Ninja AI                                                         |
 | Arthur Chen                | MPhil Student         | UNSW                                                             |
 | Yonchanok (Pro) Khaokaew   | PhD Student & Postdoc | King Mongkut's University of Technology North Bangkok            |
