@@ -9,11 +9,10 @@
   date: 2025-05-17
 - paper_id: 29e063b3eed4fcc31eb73d6ab8a7218e7174d0d0
   title:
-    "Enhancing Conversational Agents with Theory of Mind: Aligning Beliefs, Desires,
-    and Intentions for Human-Like Interaction"
+    "Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment"
   authors: Mohammadmahdi Jafari, Devin Yuncheng Hua, Hao Xue, Flora D. Salim
-  url: https://doi.org/10.48550/arXiv.2502.14171
-  venue: arXiv preprint arXiv:2502.14171
+  url: https://aclanthology.org/2025.findings-acl.287/
+  venue: "Findings of the Association for Computational Linguistics: ACL 2025"
   image_url: images/publications/enhancing-conversational-agents-with-theory-of-mind-aligning-beliefs-desires-and-intentions-for-human-like-interaction.png
   date: 2025-02-20
 - paper_id: 3b541923e2c017bd40caf5390b87c5febeeda183

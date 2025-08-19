@@ -1,3 +1,45 @@
+- title: "A Survey on Multimodal Music Emotion Recognition"
+  authors: Rashini Liyanarachchi, Aditya Joshi, Erik Meijering
+  url: https://arxiv.org/abs/2504.18799
+  venue: arXiv preprint arXiv:2504.18799
+  image_url: images/publications/a-survey-on-multimodal-music-emotion-recognition.png
+  date: 2025-04-26
+
+- title: "Nek Minit: Harnessing Pragmatic Metacognitive Prompting for Explainable Sarcasm Detection of Australian and Indian English"
+  authors: Ishmanbir Singh, Dipankar Srirag, Aditya Joshi
+  url: https://arxiv.org/abs/2505.15095
+  venue: arXiv preprint arXiv:2505.15095
+  image_url: images/publications/nek-minit-harnessing-pragmatic-metacognitive-prompting-for-explainable-sarcasm-detection-of-australian-and-indian-english.png
+  date: 2025-05-21
+
+- title: "A Survey of Classification Tasks and Approaches for Legal Contracts"
+  authors: Amrita Singh, Aditya Joshi, Jiaojiao Jiang, Hye-young Paik
+  url: https://arxiv.org/abs/2507.21108
+  venue: arXiv preprint arXiv:2507.21108
+  image_url: images/publications/a-survey-of-classification-tasks-and-approaches-for-legal-contracts.png
+  date: 2025-07-09
+
+- title: "Harnessing Test-time Adaptation for NLU tasks Involving Dialects of English"
+  authors: Duke Nguyen, Aditya Joshi, Flora Salim
+  url: https://arxiv.org/abs/2503.12858
+  venue: arXiv preprint arXiv:2503.12858
+  image_url: images/publications/harnessing-test-time-adaptation-for-nlu-tasks-involving-dialects-of-english.png
+  date: 2025-03-17
+
+- title: "ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"
+  authors: Zechen Li, Baiyu Chen, Hao Xue, Flora D. Salim
+  url: https://arxiv.org/abs/2508.04038
+  venue: arXiv preprint arXiv:2508.04038
+  image_url: images/publications/zara-zero-shot-motion-time-series-analysis-via-knowledge-and-retrieval-driven-llm-agents.png
+  date: 2025-08-06
+
+- title: "CoughViT: A Self-Supervised Vision Transformer for Cough Audio Representation Learning"
+  authors: Justin Luong, Hao Xue, Flora D. Salim
+  url: https://arxiv.org/abs/2508.03764
+  venue: arXiv preprint arXiv:2508.03764
+  image_url: images/publications/coughvit-a-self-supervised-vision-transformer-for-cough-audio-representation-learning.png
+  date: 2025-08-04
+
 - title: Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG
   authors: "Baiyu Chen, Wilson Wongso, Xiaoqian Hu, Yue Tan, Flora Salim"
   url: https://arxiv.org/abs/2507.20136
