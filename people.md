@@ -65,6 +65,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Xiaoqian Hu                | Master Thesis         |                                                                  |
 | Haley Stone                | Postdoc               | University of Glasgow                                            |
 | Yue Tan                    | Postdoc               | Ninja AI                                                         |
 | Arthur Chen                | MPhil Student         | UNSW                                                             |

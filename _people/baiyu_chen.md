@@ -1,7 +1,7 @@
 ---
 name: Baiyu (Breeze) Chen
 title: Baiyu (Breeze) Chen
-position: masterstudent
+position: gradstudent
 avatar: baiyu_chen.png
 ---
 
