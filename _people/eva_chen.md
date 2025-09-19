@@ -1,8 +1,8 @@
 ---
-name: Eva Chen
-title: Eva Chen
+name: Yiwen (Eva) Chen
+title: Yiwen (Eva) Chen
 position: softwareengineer
-# avatar: eva_chen.png
+avatar: yiwen_chen.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
