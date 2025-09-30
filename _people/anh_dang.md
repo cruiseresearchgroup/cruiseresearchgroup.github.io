@@ -2,7 +2,7 @@
 name: Anh Dang
 title: Anh Dang
 position: softwareengineer
-# avatar: anh_dang.png
+avatar: anh_dang.jpeg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
