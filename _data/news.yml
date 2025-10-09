@@ -1,11 +1,14 @@
+- date: 2025-10-09
+  details: 'Flora gave a keynote talk at <a href="https://acii-conf.net/2025/">13th International Conference on Affective Computing and Intelligent Interaction (ACII 2025)</a> titled “Modelling and Simulating Cyber-Physical-Social Behaviours with Multimodal Data”.'
+
 - date: 2025-09-11
   details: 'Flora''s co-authored paper <a href="https://arxiv.org/abs/2502.12207">PAR-AdvGAN: Improving Adversarial Attack Capability with Progressive Auto-Regression AdvGAN</a> by Zhang et al. won the <a href="https://ecmlpkdd.org/2025/awards/">Best Paper Award (Research Track)</a> at <a href="https://ecmlpkdd.org/2025/">ECML PKDD 2025</a>!'
 
 - date: 2025-08-22
-  details: Flora is co-organizing and giving an invited talk titled “Understanding and Simulating Complex Behaviours in Dynamic Cyber-Physical-Social Systems” at <a href='https://fi.ee.tsinghua.edu.cn/RSUSHD2025/'>The 3rd International Conference on Urban Science and Intelligence</a>, hosted at Tsinghua University Southeast Asia Center.
+  details: Flora co-organized and gave an invited talk titled “Understanding and Simulating Complex Behaviours in Dynamic Cyber-Physical-Social Systems” at <a href='https://fi.ee.tsinghua.edu.cn/RSUSHD2025/'>The 3rd International Conference on Urban Science and Intelligence</a>, hosted at Tsinghua University Southeast Asia Center.
 
 - date: 2025-07-29
-  details: Flora is giving a plenary keynote at <a href='https://tpc25.org/agenda/'>The Trillion Parameter Consortium (TPC) 2025</a>, titled “Modeling and Simulating Complex Behavior in Dynamic Cyber-Physical-Social Systems”.
+  details: Flora gave a plenary keynote at <a href='https://tpc25.org/agenda/'>The Trillion Parameter Consortium (TPC) 2025</a>, titled “Modeling and Simulating Complex Behavior in Dynamic Cyber-Physical-Social Systems”.
 
 - date: 2025-07-09
   details: "CRUISE won <a href='https://discourse.aicrowd.com/t/meta-crag-challenge-2024-winners-announcement/17308'>3rd Place (US$1500)</a> at <a href='https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025'>Meta Comprehensive RAG Multi-modal Challenge</a>, Task 1: Single-source Augmentation (KDD Cup 2025)!"
