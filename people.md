@@ -65,6 +65,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Zefan Sramek               | Visiting PhD Student  | University of Tokyo                                              |
 | Xiaoqian Hu                | Master Thesis         | University of Queensland                                         |
 | Haley Stone                | Postdoc               | University of Glasgow                                            |
 | Yue Tan                    | Postdoc               | Ninja AI                                                         |
