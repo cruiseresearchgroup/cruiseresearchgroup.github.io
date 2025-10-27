@@ -1,7 +1,7 @@
 ---
 name: Marco Bustaffa
 title: Marco Bustaffa
-position: masterstudent
+position: visitor
 # avatar: marco_bustaffa.png
 ---
 

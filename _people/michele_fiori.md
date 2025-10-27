@@ -1,7 +1,7 @@
 ---
 name: Michele Fiori
 title: Michele Fiori
-position: gradstudent
+position: visitor
 avatar: michele_fiori.png
 ---
 

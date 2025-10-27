@@ -8,13 +8,13 @@ permalink: /people/
 {% assign others_sorted = others | sort: "name" %}
 {% assign people_sorted = flora | concat: others_sorted %}
 
-{% assign role_array = "academics|postdoc|visitingfellow|softwareengineer|gradstudent|mphil|masterstudent|ugstudent|alumni" | split: "|" %}
+{% assign role_array = "academics|postdoc|visitingfellow|softwareengineer|gradstudent|mphil|masterstudent|ugstudent|visitor|alumni|former_visitors" | split: "|" %}
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
 
 <!-- Skip section if there's nobody -->
-{% if people_in_role.size == 0 %}
+{% if people_in_role.size == 0 and role != 'alumni' and role != 'former_visitors' %}
   {% continue %}
 {% endif %}
 
@@ -37,10 +37,14 @@ permalink: /people/
 <h3>Software Engineers</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
+ {% elsif role == 'visitor' %}
+<h3>Current Visitors</h3>
+ {% elsif role == 'former_visitors' %}
+<h3>Past Visiting Fellows & Students</h3>
 {% endif %}
 </div>
 
-{% if role != 'alumni' %}
+{% if role != 'alumni' and role != 'former_visitors' %}
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -59,13 +63,29 @@ permalink: /people/
 </div>
 <hr>
 
-{% else %}
+{% elsif role == 'former_visitors' %}
+
+<br>
+
+| Name            | Where they came from                   |
+| --------------- | -------------------------------------- |
+| Zefan Sramek    | University of Tokyo                    |
+| Hamada Rizk     | Osaka University                       |
+| Luan Pham       | RMIT                                   |
+| Si Zuo          | Aalto University                       |
+| Lorenzo Lamazzi | University of Modena and Reggio Emilia |
+
+{% elsif role == 'alumni' %}
 
 <br>
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
-| Zefan Sramek               | Visiting PhD Student  | University of Tokyo                                              |
+| Caike Lin                  | Master Thesis         |                                                                  |
+| Emma Casolin               | Honours               | AWS                                                              |
+| Bohan Zhang                | Honours               |                                                                  |
+| Hongkun Wang               | Honours               |                                                                  |
+| Shiqi Su                   | Master Thesis         |                                                                  |
 | Xiaoqian Hu                | Master Thesis         | University of Queensland                                         |
 | Haley Stone                | Postdoc               | University of Glasgow                                            |
 | Yue Tan                    | Postdoc               | Ninja AI                                                         |
@@ -78,9 +98,6 @@ permalink: /people/
 | Jiaxin Liu                 | Master Thesis         |                                                                  |
 | Shohreh Deldari            | Postdoc               | Bain & Company                                                   |
 | Dhruv Agrawal              | Honours               | Citadel Securities                                               |
-| Hamada Rizk                | Visiting Fellow       | Osaka University                                                 |
-| Luan Pham                  | Visiting PhD Student  | Amazon United States                                             |
-| Si Zuo                     | Visiting PhD Student  | Aalto University                                                 |
 | Tianqi Tang                | Postdoc               | ByteDance Singapore                                              |
 | Francis Zac dela Cruz      | Master Thesis         | Dataro                                                           |
 | Thuc Hanh (Grace) Nguyen   | Master Thesis         | Ericsson                                                         |
@@ -102,6 +119,8 @@ permalink: /people/
 | Irvan Bastian Arief        | PhD Student           | tiket.com                                                        |
 | Wei Shao                   | PhD Student           | Data61                                                           |
 | Amin Sadri                 | PhD Student           | ANZ                                                              |
+
+<hr>
 
 {% endif %}
 {% endfor %}
