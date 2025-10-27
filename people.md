@@ -79,13 +79,15 @@ permalink: /people/
 
 <br>
 
+<!-- | Caike Lin                  | Master Thesis         |                                                                  | -->
+<!-- | Bohan Zhang                | Honours               |                                                                  | -->
+<!-- | Hongkun Wang               | Honours               |                                                                  | -->
+<!-- | Shiqi Su                   | Master Thesis         |                                                                  | -->
+<!-- | Jiaxin Liu                 | Master Thesis         |                                                                  | -->
+
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
-| Caike Lin                  | Master Thesis         |                                                                  |
 | Emma Casolin               | Honours               | AWS                                                              |
-| Bohan Zhang                | Honours               |                                                                  |
-| Hongkun Wang               | Honours               |                                                                  |
-| Shiqi Su                   | Master Thesis         |                                                                  |
 | Xiaoqian Hu                | Master Thesis         | University of Queensland                                         |
 | Haley Stone                | Postdoc               | University of Glasgow                                            |
 | Yue Tan                    | Postdoc               | Ninja AI                                                         |
@@ -94,8 +96,6 @@ permalink: /people/
 | Imran Razzak               | Senior Lecturer       | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) |
 | Matthew Low                | Honours               | Atlassian                                                        |
 | Maodong Li                 | Master Thesis         | JD.com                                                           |
-| Chenlu Ju                  | Honours               |                                                                  |
-| Jiaxin Liu                 | Master Thesis         |                                                                  |
 | Shohreh Deldari            | Postdoc               | Bain & Company                                                   |
 | Dhruv Agrawal              | Honours               | Citadel Securities                                               |
 | Tianqi Tang                | Postdoc               | ByteDance Singapore                                              |
