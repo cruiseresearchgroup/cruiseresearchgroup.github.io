@@ -1,3 +1,129 @@
+- title: "Electric Vehicle Charging Load Modeling: A Survey, Trends, Challenges and Opportunities"
+  authors: Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens, Flora D Salim
+  url: https://arxiv.org/abs/2511.03741
+  venue: arXiv preprint arXiv:2511.03741
+  image_url: images/publications/electric-vehicle-charging-load-modeling.png
+  date: 2025-10-30
+
+- title: "There is No 'Apple' in Timeseries: Rethinking TSFM through the Lens of Invariance"
+  authors: Arian Prabowo, Flora D Salim
+  url: https://arxiv.org/abs/2510.20119
+  venue: arXiv preprint arXiv:2510.20119
+  image_url: images/publications/there-is-no-apple-in-timeseries.png
+  date: 2025-10-23
+
+- title: "Classical Feature Embeddings Help in BERT-Based Human Mobility Prediction"
+  authors: Yunzhi Liu, Haokai Tan, Rushi Kanjaria, Lihuan Li, Flora D Salim
+  url: https://arxiv.org/abs/2510.20275
+  venue: arXiv preprint arXiv:2510.20275
+  image_url: images/publications/classical-feature-embeddings-bert-mobility.png
+  date: 2025-10-23
+
+- title: "Hierarchical Sequence Iteration for Heterogeneous Question Answering"
+  authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D Salim
+  url: https://arxiv.org/abs/2510.20505
+  venue: arXiv preprint arXiv:2510.20505
+  image_url: images/publications/hierarchical-sequence-iteration-hqa.png
+  date: 2025-10-23
+
+- title: "Illusions of Reflection: Open-Ended Task Reveals Systematic Failures in Large Language Models' Reflective Reasoning"
+  authors: Sion Weatherhead, Flora Salim, Aaron Belbasis
+  url: https://arxiv.org/abs/2510.18254
+  venue: arXiv preprint arXiv:2510.18254
+  image_url: images/publications/illusions-of-reflection.png
+  date: 2025-10-21
+
+- title: "SOCIA-Nabla: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation"
+  authors: Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, Flora D Salim
+  url: https://arxiv.org/abs/2510.18551
+  venue: arXiv preprint arXiv:2510.18551
+  image_url: images/publications/socia-nabla.png
+  date: 2025-10-21
+
+- title: "Feel the Pain: An Interpretable Multimodal Approach for Physiological Signal-Based Pain Detection"
+  authors: Tahia Tazin, Tahera Hossain, Keiko Yamashita, Tamaki Kinoshita, Benjamin Tag, Shintaro Oyama, Takuro Yonezawa, Flora Salim
+  url: https://dl.acm.org/doi/full/10.1145/3747327.3764786
+  venue: Companion Proceedings of the 27th International Conference on Multimodal Interaction
+  image_url: images/publications/feel-the-pain.png
+  date: 2025-10-13
+
+- title: "DRIFT-Net: A Spectral-Coupled Neural Operator for PDEs Learning"
+  authors: Jiayi Li, Flora D Salim
+  url: https://arxiv.org/abs/2509.24868
+  venue: arXiv preprint arXiv:2509.24868
+  image_url: images/publications/drift-net.png
+  date: 2025-09-29
+
+- title: "Alternatives to Next Token Prediction in Text Generation — A Survey"
+  authors: Charlie Wyatt, Aditya Joshi, Flora Salim
+  url: https://arxiv.org/abs/2509.24435
+  venue: arXiv preprint arXiv:2509.24435
+  image_url: images/publications/alternatives-to-next-token-prediction.png
+  date: 2025-09-29
+
+- title: "Resolving Ambiguity in Gaze-Facilitated Visual Assistant Interaction Paradigm"
+  authors: Zeyu Wang, Baiyu Chen, Kun Yan, Hongjing Piao, Hao Xue, Flora D Salim, Yuanchun Shi, Yuntao Wang
+  url: https://arxiv.org/abs/2509.21980
+  venue: arXiv preprint arXiv:2509.21980
+  image_url: images/publications/gaze-facilitated-visual-assistant.png
+  date: 2025-09-26
+
+- title: "When Ads Become Profiles: Large-Scale Audit of Algorithmic Biases and LLM Profiling Risks"
+  authors: Baiyu Chen, Benjamin Tag, Hao Xue, Daniel Angus, Flora Salim
+  url: https://arxiv.org/abs/2509.18874
+  venue: arXiv preprint arXiv:2509.18874
+  image_url: images/publications/when-ads-become-profiles.png
+  date: 2025-09-23
+
+- title: '"Nuisance is Better Than Nothing?": Exploring How Pedestrians and Cyclists Perceive Automated E-Scooter Alerts in Shared Spaces'
+  authors: Hiruni Nuwanthika Kegalle, Danula Hettiachchi, Jeffrey Chan, Flora D Salim, Mark Sanderson
+  url: https://dl.acm.org/doi/abs/10.1145/3743732
+  venue: Proceedings of the ACM on Human-Computer Interaction
+  image_url: images/publications/nuisance-is-better-than-nothing.png
+  date: 2025-09-10
+
+- title: "SenseSeek Dataset: Multimodal Sensing to Study Information Seeking Behaviors"
+  authors: Kaixin Ji, Danula Hettiachchi, Falk Scholer, Flora D Salim, Damiano Spina
+  url: https://dl.acm.org/doi/abs/10.1145/3749501
+  venue: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Computing
+  image_url: images/publications/senseseek-dataset.png
+  date: 2025-09-03
+
+- title: "The Homework Wars: Exploring Emotions, Behaviours, and Conflicts in Parent-Child Homework Interactions"
+  authors: Nan Gao, Yibin Liu, Xin Tang, Yanyan Liu, Chun Yu, Yun Huang, Yuntao Wang, Flora D Salim, Xuhai Xu, Jun Wei, Yuanchun Shi
+  url: https://dl.acm.org/doi/abs/10.1145/3749517
+  venue: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Computing
+  image_url: images/publications/the-homework-wars.png
+  date: 2025-09-03
+
+- title: "TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"
+  authors: Feng Tian, Flora D Salim, Hao Xue
+  url: https://arxiv.org/abs/2508.17565
+  venue: arXiv preprint arXiv:2508.17565
+  image_url: images/publications/tradinggroup.png
+  date: 2025-08-25
+
+- title: "What am I Missing Here?: Evaluating Large Language Models for Masked Sentence Prediction"
+  authors: Charlie Wyatt, Aditya Joshi, Flora Salim
+  url: https://arxiv.org/abs/2508.07702
+  venue: arXiv preprint arXiv:2508.07702
+  image_url: images/publications/what-am-i-missing-here.png
+  date: 2025-08-11
+
+- title: "Simulated Infectious Diseases Datasets with Controlled Data Bias"
+  authors: Ruochen Kong, Taylor Anderson, Matthew Scotch, David J Heslop, Yonchanok Khaokaew, Hao Xue, Li Xiong, Chandini Raina MacIntyre, Flora D Salim, Andreas Züfle
+  url: https://dl.acm.org/doi/abs/10.1145/3711896.3737401
+  venue: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  image_url: images/publications/simulated-infectious-diseases-datasets.png
+  date: 2025-08-03
+
+- title: "Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey"
+  authors: Yuxuan Liang, Haomin Wen, Yutong Xia, Ming Jin, Bin Yang, Flora Salim, Qingsong Wen, Shirui Pan, Gao Cong
+  url: https://dl.acm.org/doi/abs/10.1145/3711896.3736552
+  venue: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  image_url: images/publications/foundation-models-for-spatiotemporal-data.png
+  date: 2025-08-03
+
 - title: "A Survey on Multimodal Music Emotion Recognition"
   authors: Rashini Liyanarachchi, Aditya Joshi, Erik Meijering
   url: https://arxiv.org/abs/2504.18799
@@ -35,10 +161,10 @@
 
 - title: "CoughViT: A Self-Supervised Vision Transformer for Cough Audio Representation Learning"
   authors: Justin Luong, Hao Xue, Flora D. Salim
-  url: https://arxiv.org/abs/2508.03764
-  venue: arXiv preprint arXiv:2508.03764
+  url: https://dl.acm.org/doi/abs/10.1145/3715071.3750404
+  venue: Proceedings of the 2025 ACM International Symposium on Wearable Computers
   image_url: images/publications/coughvit-a-self-supervised-vision-transformer-for-cough-audio-representation-learning.png
-  date: 2025-08-04
+  date: 2025-10-07
 
 - title: Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG
   authors: "Baiyu Chen, Wilson Wongso, Xiaoqian Hu, Yue Tan, Flora Salim"
