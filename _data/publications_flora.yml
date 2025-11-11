@@ -8,8 +8,7 @@
   image_url: images/publications/socia-an-end-to-end-agentic-framework-for-automated-cyber-physical-social-simulator-generation.png
   date: 2025-05-17
 - paper_id: 29e063b3eed4fcc31eb73d6ab8a7218e7174d0d0
-  title:
-    "Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment"
+  title: "Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment"
   authors: Mohammadmahdi Jafari, Devin Yuncheng Hua, Hao Xue, Flora D. Salim
   url: https://aclanthology.org/2025.findings-acl.287/
   venue: "Findings of the Association for Computational Linguistics: ACL 2025"
@@ -182,14 +181,12 @@
   image_url: images/publications/xxltraffic-expanding-and-extremely-long-traffic-forecasting-beyond-test-adaptation.png
   date: 2024-06-18
 - paper_id: 31670680ac3fec718b300ae117bded8f1d6bbda2
-  title:
-    "SensorLLM: Human-Intuitive Alignment of Multivariate Sensor Data with LLMs
-    for Activity Recognition"
+  title: "SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"
   authors: Zechen Li, Shohreh Deldari, Linyao Chen, Hao Xue, Flora D. Salim
-  url: https://arxiv.org/abs/2410.10624
-  venue: arXiv preprint arXiv:2410.10624
+  url: https://aclanthology.org/2025.emnlp-main.19/
+  venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
   image_url: images/publications/sensorllm-human-intuitive-alignment-of-multivariate-sensor-data-with-llms-for-activity-recognition.png
-  date: 2024-10-14
+  date: 2025-11-04
 - paper_id: 37735a8a1c0b60af4449e7367f92e9740a10f03d
   title:
     "T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity
