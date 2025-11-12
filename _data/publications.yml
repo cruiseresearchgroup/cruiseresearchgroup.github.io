@@ -33,12 +33,12 @@
   image_url: images/publications/illusions-of-reflection.png
   date: 2025-10-21
 
-- title: "SOCIA-Nabla: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation"
+- title: "SOCIA-∇: Textual Gradient Meets Multi-Agent Orchestration for Automated Simulator Generation"
   authors: Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, Flora D Salim
-  url: https://arxiv.org/abs/2510.18551
-  venue: arXiv preprint arXiv:2510.18551
+  url: https://arxiv.org/abs/2505.12006
+  venue: arXiv preprint arXiv:2505.12006
   image_url: images/publications/socia-nabla.png
-  date: 2025-10-21
+  date: 2025-11-11
 
 - title: "Feel the Pain: An Interpretable Multimodal Approach for Physiological Signal-Based Pain Detection"
   authors: Tahia Tazin, Tahera Hossain, Keiko Yamashita, Tamaki Kinoshita, Benjamin Tag, Shintaro Oyama, Takuro Yonezawa, Flora Salim
@@ -249,13 +249,6 @@
   venue: "arXiv preprint arXiv:2505.13994"
   image_url: "images/publications/split_rag.png"
   date: 2025-05-20
-
-- title: "SOCIA: An End-to-End Agentic Framework for Automated Cyber-Physical-Social Simulator Generation"
-  authors: "Yuncheng Hua, Ji Miao, Mehdi Jafari, Jianxiang Xie, Hao Xue, Flora D Salim"
-  url: "https://arxiv.org/abs/2505.12006"
-  venue: "arXiv preprint arXiv:2505.12006"
-  image_url: "images/publications/socia-an-end-to-end-agentic-framework-for-automated-cyber-physical-social-simulator-generation.png"
-  date: 2025-05-17
 
 - title: "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks"
   authors: "Wilson Wongso, Hao Xue, Flora D Salim"
