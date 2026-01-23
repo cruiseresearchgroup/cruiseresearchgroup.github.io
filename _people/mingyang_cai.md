@@ -1,8 +1,8 @@
 ---
-name: Freya Stevens
-title: Freya Stevens
-position: masterstudent
-avatar: freya_stevens.jpeg
+name: Minyang Cai
+title: Minyang Cai
+position: ugstudent
+# avatar: mingyang_cai.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

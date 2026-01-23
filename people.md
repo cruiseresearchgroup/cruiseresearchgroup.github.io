@@ -79,6 +79,11 @@ permalink: /people/
 
 <br>
 
+<!-- | Declan Curran | MPhil Student |                                | -->
+<!-- | Freya Stevens | Master Thesis |   | -->
+<!-- | Hada Melino | Master Thesis |     | -->
+<!-- | Xiheng Chen | Master Thesis |   | -->
+<!-- | Quoc (Peter) Pham | Honours |   | -->
 <!-- | Caike Lin                  | Master Thesis         |                                                                  | -->
 <!-- | Bohan Zhang                | Honours               |                                                                  | -->
 <!-- | Hongkun Wang               | Honours               |                                                                  | -->
@@ -87,6 +92,8 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Arian Prabowo              | Postdoc               | Oracle                                                           |
+| Ji Miao                    | Master Thesis         | JD.com                                                           |
 | Emma Casolin               | Honours               | AWS                                                              |
 | Xiaoqian Hu                | Master Thesis         | University of Queensland                                         |
 | Haley Stone                | Postdoc               | University of Glasgow                                            |

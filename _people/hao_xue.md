@@ -1,7 +1,7 @@
 ---
 name: Dr Hao Xue
 title: Dr Hao Xue
-position: academics
+position: visitingfellow
 avatar: hao_xue.png
 ---
 
