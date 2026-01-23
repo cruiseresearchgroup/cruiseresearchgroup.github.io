@@ -84,6 +84,7 @@ permalink: /people/
 <!-- | Hada Melino | Master Thesis |     | -->
 <!-- | Xiheng Chen | Master Thesis |   | -->
 <!-- | Quoc (Peter) Pham | Honours |   | -->
+<!-- | Yunzhi Liu | Master Thesis |  | -->
 <!-- | Caike Lin                  | Master Thesis         |                                                                  | -->
 <!-- | Bohan Zhang                | Honours               |                                                                  | -->
 <!-- | Hongkun Wang               | Honours               |                                                                  | -->
