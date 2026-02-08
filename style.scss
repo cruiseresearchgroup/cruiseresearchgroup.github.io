@@ -524,7 +524,7 @@ tbody tr:nth-child(odd) th {
   font-size: 80%;
 }
 
-.publication {
+.publication, .talk {
   display: inline-block;
   width: 100%;
   border: rgba(0,0,0,0.3) 1px solid;
@@ -534,6 +534,16 @@ tbody tr:nth-child(odd) th {
 }
 
 .publication img {
+  float: left;
+  width: 444px;
+  height: 250px;
+  margin-bottom: 0;
+  margin-right: 1.5em;
+  object-fit: contain;
+  padding: 3px;
+}
+
+.talk div.video-container {
   float: left;
   width: 444px;
   height: 250px;

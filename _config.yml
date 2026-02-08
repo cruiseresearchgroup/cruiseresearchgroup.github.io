@@ -28,10 +28,12 @@ nav:
     href: "/projects"
   - name: "publications"
     href: "/publications"
+  - name: "talks"
+    href: "/talks"
   - name: "people"
     href: "/people"
-  - name: "Brick By Brick"
-    href: /bbb.html
+  # - name: "Brick By Brick"
+  #   href: /bbb.html
   - name: "<i class='fa fa-github'></i>"
     href: https://github.com/CRUISEResearchGroup
   - name: "🤗"
