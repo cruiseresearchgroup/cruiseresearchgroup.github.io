@@ -116,6 +116,7 @@ permalink: /people/
 | ***Flinders University***  |
 | Lorenzo Yuxi Liu           | PhD Student           | University of Florida                                            |
 | ***RMIT***                 |
+| Hiruni Kegalle             | PhD Student           | University of Melbourne                                          |
 | Yufan Kang                 | PhD Student           | Monash University                                                |
 | Futoon Abu Shaqra          | PhD Student           | RMIT                                                             |
 | Sichen Zhao                | PhD Student           | An energy company in China                                       |
