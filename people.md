@@ -69,6 +69,7 @@ permalink: /people/
 
 | Name            | Where they came from                   |
 | --------------- | -------------------------------------- |
+| Marco Bustaffa  | University of Padova                   |
 | Zefan Sramek    | University of Tokyo                    |
 | Hamada Rizk     | Osaka University                       |
 | Luan Pham       | RMIT                                   |
