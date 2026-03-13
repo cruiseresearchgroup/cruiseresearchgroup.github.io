@@ -8,7 +8,7 @@ permalink: /people/
 {% assign others_sorted = others | sort: "name" %}
 {% assign people_sorted = flora | concat: others_sorted %}
 
-{% assign role_array = "academics|postdoc|visitingfellow|softwareengineer|gradstudent|mphil|masterstudent|ugstudent|visitor|alumni|former_visitors" | split: "|" %}
+{% assign role_array = "academics|postdoc|visitingfellow|softwareengineer|researchassistant|gradstudent|mphil|masterstudent|ugstudent|visitor|alumni|former_visitors" | split: "|" %}
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
@@ -35,6 +35,8 @@ permalink: /people/
 <h3>Visiting Fellows</h3>
  {% elsif role == 'softwareengineer' %}
 <h3>Software Engineers</h3>
+ {% elsif role == 'researchassistant' %}
+<h3>Research Assistants</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
  {% elsif role == 'visitor' %}
@@ -94,6 +96,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Shuang Ao                  | Postdoc               | Zhejiang University of Technology                                |
 | Arian Prabowo              | Postdoc               | Oracle                                                           |
 | Ji Miao                    | Master Thesis         | JD.com                                                           |
 | Emma Casolin               | Honours               | AWS                                                              |
