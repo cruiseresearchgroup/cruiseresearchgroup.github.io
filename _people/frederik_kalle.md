@@ -2,7 +2,7 @@
 name: Frederik Kalle
 title: Frederik Kalle
 position: gradstudent
-# avatar: frederik_kalle.png
+avatar: frederik_kalle.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
