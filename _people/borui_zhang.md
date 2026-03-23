@@ -1,6 +1,6 @@
 ---
-name: Borui Zhang
-title: Borui Zhang
+name: Dr Borui Zhang
+title: Dr Borui Zhang
 position: postdoc
 avatar: borui_zhang.png
 ---

@@ -84,7 +84,6 @@ permalink: /people/
 
 <!-- | Declan Curran | MPhil Student |                                | -->
 <!-- | Freya Stevens | Master Thesis |   | -->
-<!-- | Hada Melino | Master Thesis |     | -->
 <!-- | Xiheng Chen | Master Thesis |   | -->
 <!-- | Quoc (Peter) Pham | Honours |   | -->
 <!-- | Yunzhi Liu | Master Thesis |  | -->
