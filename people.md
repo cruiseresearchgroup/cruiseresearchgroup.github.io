@@ -71,6 +71,7 @@ permalink: /people/
 
 | Name            | Where they came from                   |
 | --------------- | -------------------------------------- |
+| Michele Fiori   | University of Milan                    |
 | Marco Bustaffa  | University of Padova                   |
 | Zefan Sramek    | University of Tokyo                    |
 | Hamada Rizk     | Osaka University                       |
@@ -95,6 +96,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Yiwen Chen                 | Software Engineer     | UNSW                                                             |
 | Shuang Ao                  | Postdoc               | Zhejiang University of Technology                                |
 | Arian Prabowo              | Postdoc               | Oracle                                                           |
 | Ji Miao                    | Master Thesis         | JD.com                                                           |
