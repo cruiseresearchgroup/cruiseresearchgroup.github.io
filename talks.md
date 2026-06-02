@@ -36,7 +36,7 @@ permalink: /talks/
     <em>{{ talk.title }}</em><br>
     {{ talk.authors }}<br>
     {{ talk.venue }}<br>
-    <a href="{{ pub.url }}">Watch Talk</a>
+    <a href="{{ talk.url }}">Watch Talk</a>
     </p>
 </div>
 
