@@ -9,7 +9,7 @@ avatar: flora_salim.png
 
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com.au/citations?user=Yz35RSYAAAAJ&hl=en)
 <br>
-<i class="fa fa-home"></i> [Homepage](https://www.unsw.edu.au/staff/flora-salim)
+<i class="fa fa-home"></i> [Homepage](https://fsalim.github.io/)
 
 Flora Salim a full Professor in the School of Computer Science and Engineering at the University of New South Wales (UNSW) Sydney, where she also serves as the Deputy Director (Engagement) of the UNSW AI Institute. Her work focuses on multimodal machine learning and foundation models for time-series and spatio-temporal data, behavioural modelling with multimodal sensors and wearables, robust and trustworthy machine learning, and on applications of AI and LLMs for smart and sustainable cities, and for mobility, transport, energy, and grid systems. She has received multiple nationally and internationally competitive fellowships, such as Humboldt Fellowship, Bayer Fellowship, Victoria Fellowship, ARC Australian Postdoctoral Industry (APDI) Fellowship, and many accolades and awards such as the Women in AI Award Australia and New Zealand (2022) and IBM Smarter Planet Industry Innovation Award.
 
