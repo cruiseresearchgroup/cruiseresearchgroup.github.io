@@ -1,7 +1,7 @@
 ---
 name: Siyuan (Jeppesen) Zheng
 title: Siyuan (Jeppesen) Zheng
-position: masterstudent
+position: ugstudent
 # avatar: jeppesen_zheng.png
 ---
 

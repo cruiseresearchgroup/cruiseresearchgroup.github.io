@@ -93,6 +93,7 @@ permalink: /people/
 <!-- | Hongkun Wang               | Honours               |                                                                  | -->
 <!-- | Shiqi Su                   | Master Thesis         |                                                                  | -->
 <!-- | Jiaxin Liu                 | Master Thesis         |                                                                  | -->
+<!-- | Anh Dang | Software Engineer |  | -->
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
