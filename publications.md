@@ -15,7 +15,8 @@ For a more comprehensive list of publications, please refer to the Google Schola
 
 {% assign all_publications = publications | concat: publications_flora | concat: publications_aditya | concat: publications_hao | concat: publications_benjamin %}
 
-{% assign filtered_publications = all_publications | where_exp: "item", "item.date != null" %}
+{% assign dated_publications = all_publications | where_exp: "item", "item.date != null" %}
+{% assign filtered_publications = dated_publications | where_exp: "item", "item.image_url != null and item.image_url != ''" %}
 {% assign sorted_publications = filtered_publications | sort: "date" | reverse %}
 {% assign current_year = "" %}
 {% assign seen_titles = "" %}

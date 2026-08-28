@@ -2,11 +2,11 @@
 name: Dr Shan Wang
 title: Dr Shan Wang
 position: postdoc
-# avatar: shan_wang.png
+avatar: shan_wang.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<i class="fa fa-bar-chart"></i> [Google Scholar]()
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=3xT-7nsAAAAJ)
 <br>
-<!-- <i class="fa fa-home"></i> [Homepage](https://) -->
+<i class="fa fa-home"></i> [Homepage](https://shanwang-shan.github.io)
