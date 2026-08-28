@@ -1,25 +1,768 @@
+- paper_id: 708a065435be6ba33ea7c993aae23c0598090ea9
+  title: 'AsyTO: Asymmetric Temporal Operator for Parameter-Efficient Multivariate
+    Time Series Forecasting'
+  authors: Xiachong Lin, Du Yin, Hao Xue, Wen Hu, Imran Razzak, Arian Prabowo, Matthew
+    Amos, F. Salim
+  url: https://arxiv.org/abs/2608.16098
+  venue: arXiv preprint arXiv:2608.16098
+  image_url: images/publications/asyto-asymmetric-temporal-operator-for-parameter-efficient-multivariate-time-series-forecasting.png
+  date: 2026-08-17
+- paper_id: 160a018729a2158b88badfa1702875ce589103ac
+  title: 'Group Alignment-Induced Sycophancy: A Two-Sided Evaluation of Steerable
+    Pluralistic Alignment'
+  authors: Haokai Zhao, Yunze Xiao, Weihao Xuan, F. Salim, B. Tag, Aditya Joshi
+  url: https://arxiv.org/abs/2608.11528
+  venue: arXiv preprint arXiv:2608.11528
+  image_url: images/publications/group-alignment-induced-sycophancy-a-two-sided-evaluation-of-steerable-pluralistic-alignment.png
+  date: 2026-08-12
+- paper_id: cb8793870b737493f07e6bb871f5e73c45e3c769
+  title: 'TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for
+    Human Activity Understanding'
+  authors: Sparsh Rastogi, Tanmay Kumar, Baiyu Chen, Jatin Bedi, Zechen Li, F. Salim
+  url: https://arxiv.org/abs/2608.00200
+  venue: arXiv preprint arXiv:2608.00200
+  image_url: images/publications/trace-ts-attribution-grounded-and-traceable-sensor-language-reasoning-for-human-activity-understanding.png
+  date: 2026-07-31
+- paper_id: 083d11051780fed25439b353cf30af58043ac0f3
+  title: 'A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor
+    Networks'
+  authors: Du Yin, Xiachong Lin, Yuejie Tan, Jinliang Deng, Estrid He, Hao Xue, F.
+    Salim
+  url: https://arxiv.org/abs/2607.25875
+  venue: arXiv preprint arXiv:2607.25875
+  image_url: images/publications/a2tta-anchored-and-agile-test-time-adaptation-for-evolving-traffic-sensor-networks.png
+  date: 2026-07-28
+- paper_id: 0f73fe8e18afc0458c795ffb27cee241874455c0
+  title: 'Scope3Trace: Evidence-Based Identification and Extraction of Scope 3 GHG
+    Emissions from Sustainability Reports'
+  authors: Si Zheng, Yifan Duan, Chaoyuan Xue, F. Salim
+  url: https://arxiv.org/abs/2607.17122
+  venue: arXiv preprint arXiv:2607.17122
+  image_url: images/publications/scope3trace-evidence-based-identification-and-extraction-of-scope-3-ghg-emissions-from-sustainability-reports.png
+  date: 2026-07-19
+- paper_id: f00756e9ac9b68ceb9978801f95b3a4eeb8a4a1f
+  title: 'StrideDiffusion: Accelerating Diffusion Models for Time-series Generation'
+  authors: Du Yin, Estrid He, Julián Jerónimo Bañuelos, Yang Yang, Feng Hu, Yuchen
+    Luo, Hao Xue, Stephan Sigg, F. Salim
+  url: https://arxiv.org/abs/2607.20545
+  venue: arXiv preprint arXiv:2607.20545
+  image_url: images/publications/stridediffusion-accelerating-diffusion-models-for-time-series-generation.png
+  date: 2026-07-13
+- paper_id: bc0779c5da2ce59d234b2b31b6ca397386e4a317
+  title: 'The Behavioural Reflection Test: A time-efficient measure of reflective
+    reasoning in morally and epistemically charged decisions'
+  authors: Sion Weatherhead, F. Salim, Aaron Belbasis, B. Newell
+  url: https://arxiv.org/abs/2607.07961
+  venue: arXiv preprint arXiv:2607.07961
+  image_url: images/publications/the-behavioural-reflection-test-a-time-efficient-measure-of-reflective-reasoning-in-morally-and-epistemically-charged-decisions.png
+  date: 2026-07-08
+- paper_id: 6887a906d721b7437f813a63599b9374b96713f7
+  title: 'TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot
+    Building IoT Forecasting'
+  authors: Xiachong Lin, Du Yin, Arian Prabowo, Hao Xue, Wen Hu, Imran Razzak, Matthew
+    Amos, Sam Behrens, F. Salim
+  url: https://arxiv.org/abs/2607.06349
+  venue: arXiv preprint arXiv:2607.06349
+  image_url: images/publications/topobrick-agentic-topology-sampling-of-exogenous-variables-for-zero-shot-building-iot-forecasting.png
+  date: 2026-07-07
+- paper_id: 92d49afdb97fed35e27b7a86a9a6af4696728c21
+  title: Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action
+    Models in Autonomous Driving
+  authors: Anh Dung Dinh, Simon Khan, F. Salim
+  url: https://doi.org/10.48550/arXiv.2606.31160
+  venue: arXiv preprint arXiv:2606.31160
+  image_url: images/publications/reasoning-aware-speculative-decoding-for-efficient-vision-language-action-models-in-autonomous-driving.png
+  date: 2026-06-30
+- paper_id: bff491f45f6176022daf79894b85559b2eb555e2
+  title: 'ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action
+    Models'
+  authors: Kejing Wang, Toàn Nguyên, M. Nguyen, Simon Khan, F. Salim
+  url: https://doi.org/10.48550/arXiv.2606.25800
+  venue: arXiv preprint arXiv:2606.25800
+  image_url: images/publications/road-vla-robust-online-adaptation-via-self-distillation-for-vision-language-action-models.png
+  date: 2026-06-24
+- paper_id: b89b24588d4b53d25a7dc6ad70889f6348500337
+  title: 'ThermoLLM: Thermodynamics-Aware HVAC Control with Spatial-Semantic Knowledge
+    Graph'
+  authors: Kirtan Bhatt, Xiachong Lin, Matthew Amos, F. Salim, Wenyang Hu
+  url: https://doi.org/10.48550/arXiv.2606.22911
+  venue: arXiv preprint arXiv:2606.22911
+  image_url: images/publications/thermollm-thermodynamics-aware-hvac-control-with-spatial-semantic-knowledge-graph.png
+  date: 2026-06-22
+- paper_id: 4eb8ab00a7ffb77403917efcfb92984904311982
+  title: Generating Natural and Expressive Robot Gestures through Iterative Reinforcement
+    Learning with Human Feedback using LLMs
+  authors: Chris Lee, F. Salim, Benjamin Tag, Francisco Cruz
+  url: https://doi.org/10.48550/arXiv.2606.18747
+  venue: arXiv preprint arXiv:2606.18747
+  image_url: images/publications/generating-natural-and-expressive-robot-gestures-through-iterative-reinforcement-learning-with-human-feedback-using-llms.png
+  date: 2026-06-17
+- paper_id: 7a9f5e8d117d630c35b610cb20f3cbb89a3a8f09
+  title: Evaluating LLM Personalization via Semantic Constraint Verification
+  authors: Xuran Li, Guanqin Zhang, Imran Razzak, Hakim Hacid, Eleanna Kafeza, Hao
+    Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2606.16368
+  venue: arXiv preprint arXiv:2606.16368
+  image_url: images/publications/evaluating-llm-personalization-via-semantic-constraint-verification.png
+  date: 2026-06-15
+- paper_id: 7754a6d13f2a5aee1ea7366e9fb04379dc3aabbd
+  title: Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling
+  authors: Ghadir Alselwi, Basem Suleiman, Hao Xue, Shoaib Jameel, Hakim Hacid, F.
+    Salim, Imran Razzak
+  url: https://doi.org/10.48550/arXiv.2606.14047
+  venue: arXiv preprint arXiv:2606.14047
+  image_url: images/publications/knowledge-graph-enhanced-memory-augmented-retrieval-for-long-context-modeling.png
+  date: 2026-06-12
+- paper_id: b66e7225d34a1ec4139679e48c36044de9c44e8e
+  title: 'UPLOTS: A Unified Pretrained Language Model for Constrained Time-series
+    Generation'
+  authors: Du Yin, Hao Xue, Jinliang Deng, Yang Yang, Shuang Ao, Arian Prabowo, F.
+    Salim
+  url: https://doi.org/10.48550/arXiv.2606.10466
+  venue: arXiv preprint arXiv:2606.10466
+  image_url: images/publications/uplots-a-unified-pretrained-language-model-for-constrained-time-series-generation.png
+  date: 2026-06-09
+- paper_id: d9e570acb38bb5d7af1613da0f80ffffbc97835d
+  title: 'FOGO: Forgetting-aware Orthogonalization Optimizer'
+  authors: Toan N. Nguyen, Yang Liu, Trung Le, Celso M. de Melo, F. Salim
+  url: https://doi.org/10.48550/arXiv.2606.10406
+  venue: arXiv preprint arXiv:2606.10406
+  image_url: images/publications/fogo-forgetting-aware-orthogonalization-optimizer.png
+  date: 2026-06-09
+- paper_id: c782f813f89e96ed516d3b4c48b1b9e32d41d662
+  title: 'Didact: A Cross-Domain Capability Discovery System for Defence'
+  authors: Aarya Bodhankar, Aditya Joshi, Bao Gia Doan, Thomas W Marchant, O. Leslie,
+    F. Salim
+  url: https://doi.org/10.48550/arXiv.2606.06942
+  venue: arXiv preprint arXiv:2606.06942
+  image_url: images/publications/didact-a-cross-domain-capability-discovery-system-for-defence.png
+  date: 2026-06-05
+- paper_id: b55b7f62b592a3cdd1f2944b12a2eaab2893f2fa
+  title: An Infectious Disease Spread Simulation Based on Large Language Model Decision
+    Making
+  authors: Yonchanok Khaokaew, Ruochen Kong, Andreas Züfle, Hao Xue, Taylor Anderson,
+    C. R. MacIntyre, Matthew Scotch, F. Salim, David Heslop
+  url: https://doi.org/10.1145/3770855.3818983
+  venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and
+    Data Mining V.2
+  image_url: images/publications/an-infectious-disease-spread-simulation-based-on-large-language-model-decision-making.png
+  date: 2026-06-04
+- paper_id: cc11e96b7d4772e347447e6f8fbd449f92657138
+  title: 'From XXLTraffic to EvoXXLTraffic: Scaling Traffic Forecasting to Sensor-Evolving
+    Networks'
+  authors: Du Yin, Hao Xue, Arian Prabowo, Shuang Ao, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.29768
+  venue: arXiv preprint arXiv:2605.29768
+  image_url: images/publications/from-xxltraffic-to-evoxxltraffic-scaling-traffic-forecasting-to-sensor-evolving-networks.png
+  date: 2026-05-28
+- paper_id: c7ba14ce21b449eeb879b27387aa553f1e7ea4ec
+  title: 'AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild'
+  authors: Baiyu Chen, Zechen Li, Wilson Wongso, Lihuan Li, Xiachong Lin, Hao Xue,
+    B. Tag, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.22715
+  venue: arXiv preprint arXiv:2605.22715
+  image_url: images/publications/anymo-geometry-aware-setup-agnostic-modeling-of-human-motion-in-the-wild.png
+  date: 2026-05-21
+- paper_id: 4e5b014c0e7e5bf414074ba9278b43465df548a3
+  title: 'CP-MoE: Consistency-Preserving Mixture-of-Experts for Continual Learning'
+  authors: Yang Liu, Toàn Nguyên, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.20247
+  venue: arXiv preprint arXiv:2605.20247
+  image_url: images/publications/cp-moe-consistency-preserving-mixture-of-experts-for-continual-learning.png
+  date: 2026-05-18
+- paper_id: 0a58e690063d3ffcf82d8c057546207f64f10471
+  title: 'GHGbench: A Unified Multi-Entity, Multi-Task Benchmark for Carbon Emission
+    Prediction'
+  authors: Yifan Duan, Si Zheng, Lihuan Li, Chaoyuan Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.13743
+  venue: arXiv preprint arXiv:2605.13743
+  image_url: images/publications/ghgbench-a-unified-multi-entity-multi-task-benchmark-for-carbon-emission-prediction.png
+  date: 2026-05-13
+- paper_id: 221479dfc36672f5859bf1ccb4173be877dfcbe0
+  title: 'STAR: Failure-Aware Markovian Routing for Multi-Agent Spatiotemporal Reasoning'
+  authors: Ruiyi Yang, Lihuan Li, Hao Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.10057
+  venue: arXiv preprint arXiv:2605.10057
+  image_url: images/publications/star-failure-aware-markovian-routing-for-multi-agent-spatiotemporal-reasoning.png
+  date: 2026-05-11
+- paper_id: 27baebd9fb8679df5ba59e9529d1ccc30825bc1d
+  title: 'MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs'
+  authors: Ruiyi Yang, Zechen Li, Hao Xue, Imran Razzak, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.10064
+  venue: arXiv preprint arXiv:2605.10064
+  image_url: images/publications/mage-multi-agent-self-evolution-with-co-evolutionary-knowledge-graphs.png
+  date: 2026-05-11
+- paper_id: 390b8665202119797ebceb9d4403d5addc91d83d
+  title: 'TrajPrism: A Multi-Task Benchmark for Language-Grounded Urban Trajectory
+    Understanding'
+  authors: Lihuan Li, Wilson Wongso, Baiyu Chen, Hao Xue, Ruiyi Yang, Yifan Duan,
+    Xiachong Lin, Yangqiu Song, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.10782
+  venue: arXiv preprint arXiv:2605.10782
+  image_url: images/publications/trajprism-a-multi-task-benchmark-for-language-grounded-urban-trajectory-understanding.png
+  date: 2026-05-11
+- paper_id: 9392554a58f5c980052235fa3fe2e6511ff58265
+  title: 'DeepLévy: Learning Heavy-Tailed Uncertainty in Highly Volatile Time Series'
+  authors: Yang Yang, Du Yin, Hao Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.10364
+  venue: arXiv preprint arXiv:2605.10364
+  image_url: images/publications/deeplevy-learning-heavy-tailed-uncertainty-in-highly-volatile-time-series.png
+  date: 2026-05-11
+- paper_id: b045e83ccee87579870817ec429605810df4436f
+  title: 'TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation'
+  authors: Wilson Wongso, Lihuan Li, Arian Prabowo, Xiachong Lin, Baiyu Chen, Hao
+    Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2605.10020
+  venue: arXiv preprint arXiv:2605.10020
+  image_url: images/publications/trajdlm-topology-aware-block-diffusion-language-model-for-trajectory-generation.png
+  date: 2026-05-11
+- paper_id: 5498bea673f257a149af6827f436214175e5b9cd
+  title: 'GatorSC: multi-scale cell and gene graphs with mixture-of-experts fusion
+    for single-cell transcriptomics'
+  authors: Yuxi Liu, Zhenhao Zhang, Mufan Qiu, Song Wang, F. Salim, Jun Shen, Tianlong
+    Chen, Imran Razzak, Fuyi Li, Jiang Bian
+  url: https://doi.org/10.1093/bib/bbag330
+  venue: Briefings Bioinform.
+  image_url: images/publications/gatorsc-multi-scale-cell-and-gene-graphs-with-mixture-of-experts-fusion-for-single-cell-transcriptomics.png
+  date: 2026-05-01
+- paper_id: 8242f8f8fb651e78411f5470872b80dab06b1995
+  title: 'CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations
+    via Predictive Self-Supervised Pretraining'
+  authors: H. Muhammad, Zechen Li, F. Salim, Ahmed A. Metwally
+  url: https://doi.org/10.48550/arXiv.2605.00933
+  venue: arXiv preprint arXiv:2605.00933
+  image_url: images/publications/cgm-jepa-learning-consistent-continuous-glucose-monitor-representations-via-predictive-self-supervised-pretraining.png
+  date: 2026-05-01
+- paper_id: 4dd95e83639b7870b4c757aa9238ae84873d1b89
+  title: 'PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and
+    Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting'
+  authors: H. Saleem, F. Salim, Cormac Purcell
+  url: https://doi.org/10.48550/arXiv.2604.27313
+  venue: International Conference on Conceptual Structures
+  image_url: images/publications/pinn-cast-exploring-the-role-of-continuous-depth-node-in-transformers-and-physics-informed-loss-as-soft-physical-constraints-in-short-term-weather-forecasting.png
+  date: 2026-04-30
+- paper_id: 19f4fe68b709e7f1188c81bc15d75cac2ca36a8b
+  title: 'A Benchmark Construction and Evaluation Framework for Specialist Domains:
+    Case Study on Defense-related Documents'
+  authors: Bao Gia Doan, Aditya Joshi, P. Elinas, Aarya Bodhankar, O. Leslie, T. Marchant,
+    F. Salim
+  url: https://arxiv.org/abs/2604.17943
+  venue: arXiv preprint arXiv:2604.17943
+  image_url: images/publications/a-benchmark-construction-and-evaluation-framework-for-specialist-domains-case-study-on-defense-related-documents.png
+  date: 2026-04-20
+- paper_id: af34892d9d9db3f05615bf4b4f0cf19e370fa514
+  title: 'SOCIA-EVO: Automated Simulator Construction via Dual-Anchored Bi-Level Optimization'
+  authors: Devin Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, H. Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2604.17351
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/socia-evo-automated-simulator-construction-via-dual-anchored-bi-level-optimization.png
+  date: 2026-04-19
+- paper_id: 89e91df20b3da51292f6dc3da4a3eccabbbfa9b9
+  title: 'Why Supervised Fine-Tuning Fails to Learn: A Systematic Study of Incomplete
+    Learning in Large Language Models'
+  authors: Chao Xue, Yaoyu Wang, Mengqiao Liu, Di Liang, Xin-hao Han, Peiyang Liu,
+    Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, S. Liang, Minlong Peng, F.
+    Salim
+  url: https://doi.org/10.48550/arXiv.2604.10079
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/why-supervised-fine-tuning-fails-to-learn-a-systematic-study-of-incomplete-learning-in-large-language-models.png
+  date: 2026-04-11
+- paper_id: f15070d48b1ec5a90a9eb67ba1beb67e7cfa674d
+  title: 'Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal
+    Uncertainty'
+  authors: Chao Xue, Yaoyu Wang, Mengqiao Liu, Di Liang, Xin-hao Han, Peiyang Liu,
+    Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, S. Liang, Minlong Peng, F.
+    Salim
+  url: https://doi.org/10.48550/arXiv.2604.10072
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/reason-only-when-needed-efficient-generative-reward-modeling-via-model-internal-uncertainty.png
+  date: 2026-04-11
+- paper_id: ef75438ecd80a4681b5f5489227561afe92180f3
+  title: User-Aware Conditional Generative Total Correlation Learning for Multi-Modal
+    Recommendation
+  authors: Jing Du, Zesheng Ye, Congbo Ma, Feng Liu, F. Salim
+  url: https://doi.org/10.48550/arXiv.2604.03014
+  venue: arXiv preprint arXiv:2604.03014
+  image_url: images/publications/user-aware-conditional-generative-total-correlation-learning-for-multi-modal-recommendation.png
+  date: 2026-04-03
+- paper_id: 122a12aab959f4bac9bb89c678c51ff5fd6726e4
+  title: 'AutoB2G: Agentic Simulation and Reinforcement Learning for Spatio-Temporal
+    Grid-Interactive Building Control'
+  authors: Borui Zhang, Nariman Mahdavi, S. Sethuvenkatraman, F. Salim
+  url: https://arxiv.org/abs/2603.26005
+  venue: arXiv preprint arXiv:2603.26005
+  image_url: images/publications/autob2g-agentic-simulation-and-reinforcement-learning-for-spatio-temporal-grid-interactive-building-control.png
+  date: 2026-03-27
+- paper_id: 42fe710ab042717da7f071882feb935bae078bde
+  title: 'Applying Value Sensitive Design to Location-Based Services: Designing for
+    Shared Spaces and Local Conditions'
+  authors: Hiruni Nuwanthika Kegalle, F. Salim, Mark Sanderson, Jeffrey Chan, Danula
+    Hettiachchi
+  url: https://doi.org/10.1145/3772318.3791636
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/applying-value-sensitive-design-to-location-based-services-designing-for-shared-spaces-and-local-conditions.png
+  date: 2026-03-12
+- paper_id: 248c60e688ce1453ae4cad3ab0dde596c2609a24
+  title: 'HyperTokens: Controlling Token Dynamics for Continual Video-Language Understanding'
+  authors: Toàn Nguyên, Yang Liu, Celso de Melo, F. Salim
+  url: https://doi.org/10.48550/arXiv.2603.06662
+  venue: arXiv preprint arXiv:2603.06662
+  image_url: images/publications/hypertokens-controlling-token-dynamics-for-continual-video-language-understanding.png
+  date: 2026-03-02
+- paper_id: bc6ffe5595d2f059b0954554faf1158a4a720765
+  title: 'SGNO: Spectral Generator Neural Operators for Stable Long Horizon PDE Rollouts'
+  authors: Jiayi Li, Penghao Jiang, H. Saleem, Zhaonan Wang, Piotr Koniusz, F. Salim
+  url: https://arxiv.org/abs/2602.18801
+  venue: arXiv preprint arXiv:2602.18801
+  image_url: images/publications/sgno-spectral-generator-neural-operators-for-stable-long-horizon-pde-rollouts.png
+  date: 2026-02-21
+- paper_id: 44283db34ada2ce9779442297f8415ea0c472ab4
+  title: 'UrbanVerse: Learning Urban Region Representation Across Cities and Tasks'
+  authors: Fengze Sun, E. Tanin, S. Karunasekera, Zuqing Li, F. Salim, Jianzhong Qi
+  url: https://doi.org/10.48550/arXiv.2602.15750
+  venue: arXiv preprint arXiv:2602.15750
+  image_url: images/publications/urbanverse-learning-urban-region-representation-across-cities-and-tasks.png
+  date: 2026-02-17
+- paper_id: d33658210ecf4125633b95667b31c54b733f7625
+  title: 'EIDOS: Latent-Space Predictive Learning for Time Series Foundation Models'
+  authors: Xinxing Zhou, Qingren Yao, Yiji Zhao, Chenghao Liu, F. Salim, Xiaojie Yuan,
+    Yan Wen, Ming Jin
+  url: https://doi.org/10.48550/arXiv.2602.14024
+  venue: arXiv preprint arXiv:2602.14024
+  image_url: images/publications/eidos-latent-space-predictive-learning-for-time-series-foundation-models.png
+  date: 2026-02-15
+- paper_id: c09c8703cf723c0ac5363a748d54ee63b9fb006a
+  title: Is my model "mind blurting"? Interpreting the dynamics of reasoning tokens
+    with Recurrence Quantification Analysis (RQA)
+  authors: Q. Pham, Mehdi Jafari, F. Salim
+  url: https://doi.org/10.48550/arXiv.2602.06266
+  venue: arXiv preprint arXiv:2602.06266
+  image_url: images/publications/is-my-model-mind-blurting-interpreting-the-dynamics-of-reasoning-tokens-with-recurrence-quantification-analysis-rqa.png
+  date: 2026-02-05
+- paper_id: 06b33cc3692b3fa9304ca66be4b59746604a12f9
+  title: Mechanistic Indicators of Steering Effectiveness in Large Language Models
+  authors: Mehdi Jafari, Hao Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2602.01716
+  venue: arXiv preprint arXiv:2602.01716
+  image_url: images/publications/mechanistic-indicators-of-steering-effectiveness-in-large-language-models.png
+  date: 2026-02-02
+- paper_id: 660d9b8d238d1fad70959245bb5fff26d2724920
+  title: 'DomusFM: A Foundation Model for Event-Based Behavioral Monitoring in Smart-Homes'
+  authors: Michele Fiori, Gabriele Civitarese, F. Salim, Claudio Bettini
+  url: https://arxiv.org/abs/2602.01910
+  venue: arXiv preprint arXiv:2602.01910
+  image_url: images/publications/domusfm-a-foundation-model-for-event-based-behavioral-monitoring-in-smart-homes.png
+  date: 2026-02-02
+- paper_id: 8854d1c7038108769fe1d0d783b42fd2f5d57500
+  title: 'AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural
+    ODEs'
+  authors: Ting Dang, Soumyajit Chatterjee, Hong Jia, Y. Wu, F. Salim, F. Kawsar
+  url: https://doi.org/10.48550/arXiv.2601.12893
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  image_url: images/publications/adanodes-test-time-adaptation-for-time-series-forecasting-using-neural-odes.png
+  date: 2026-01-19
+- paper_id: 9c1dd3964eca74a6b1cb2c8c854a1e596ea4a396
+  title: Mining Citywide Dengue Spread Patterns in Singapore Through Hotspot Dynamics
+    from Open Web Data
+  authors: Liping Huang, Gaoxi Xiao, Stefan Ma, Hechang Chen, Shisong Tang, F. Salim
+  url: https://doi.org/10.1145/3774904.3793028
+  venue: The Web Conference
+  image_url: images/publications/mining-citywide-dengue-spread-patterns-in-singapore-through-hotspot-dynamics-from-open-web-data.png
+  date: 2026-01-19
+- paper_id: 98694378d17ad13d357908926fce1c9f0c43ecfd
+  title: 'From Ecological Connectivity to Outbreak Risk: A Heterogeneous Graph Network
+    for Epidemiological Reasoning under Sparse Spatiotemporal Data'
+  authors: Haley Stone, Jing Du, Yang Yang, Ashna Desai, R. Dawson, Hao Xue, David
+    Heslop, Matthew Scotch, Andreas Züfle, C. R. MacIntyre, F. Salim
+  url: https://doi.org/10.48550/arXiv.2601.09738
+  venue: arXiv preprint arXiv:2601.09738
+  image_url: images/publications/from-ecological-connectivity-to-outbreak-risk-a-heterogeneous-graph-network-for-epidemiological-reasoning-under-sparse-spatiotemporal-data.png
+  date: 2026-01-08
+- paper_id: 6fb810092f9e4b0303e33a90716643da614053bd
+  title: Causality-Inspired Safe Residual Correction for Multivariate Time Series
+  authors: Jianxiang Xie, Yuncheng Hua, Mingyue Cheng, F. Salim, Hao Xue
+  url: https://doi.org/10.48550/arXiv.2512.22428
+  venue: arXiv preprint arXiv:2512.22428
+  image_url: images/publications/causality-inspired-safe-residual-correction-for-multivariate-time-series.png
+  date: 2025-12-27
+- paper_id: 9370850d6070fd883f091d29bfe887e9430ec608
+  title: 'SDE-Attention: Latent Attention in SDE-RNNs for Irregularly Sampled Time
+    Series with Missing Data'
+  authors: Yuting Fang, Qouc Le Gia, F. Salim
+  url: https://doi.org/10.48550/arXiv.2511.23238
+  venue: arXiv preprint arXiv:2511.23238
+  image_url: images/publications/sde-attention-latent-attention-in-sde-rnns-for-irregularly-sampled-time-series-with-missing-data.png
+  date: 2025-11-28
+- paper_id: 9877b1baa5ba89ae73632359f86ab190ad22c058
+  title: 'QuAnTS: Question Answering on Time Series'
+  authors: Felix Divo, Maurice Kraus, Anh Nguyen, Hao Xue, Imran Razzak, F. Salim,
+    K. Kersting, D. Dhami
+  url: https://doi.org/10.48550/arXiv.2511.05124
+  venue: arXiv preprint arXiv:2511.05124
+  image_url: images/publications/quants-question-answering-on-time-series.png
+  date: 2025-11-07
+- paper_id: 152475b2901e126d512c81751cfacf572d6b8dc3
+  title: Dynamic Budgeted Reinforcement Learning for Fairness in Spatial-Temporal
+    Resource Allocation
+  authors: Yufan Kang, Jie Zhang, Wei Shao, Rui Tang, Mark Andrejevic, Jeffrey Chan,
+    F. Salim
+  url: https://doi.org/10.1145/3748636.3762782
+  venue: SIGSPATIAL/GIS
+  image_url: images/publications/dynamic-budgeted-reinforcement-learning-for-fairness-in-spatial-temporal-resource-allocation.png
+  date: 2025-11-03
+- paper_id: 3549aca13db95df701fd17cd207f34eab1838b0a
+  title: 'EpiScale: Large-Scale Simulation of Infectious Disease Based on Human Mobility'
+  authors: Ruochen Kong, Taylor Anderson, D. Heslop, M. Scotch, F. Salim, C. R. Macintyre,
+    Andreas Zufle
+  url: https://doi.org/10.1145/3748636.3762791
+  venue: SIGSPATIAL/GIS
+  image_url: images/publications/episcale-large-scale-simulation-of-infectious-disease-based-on-human-mobility.png
+  date: 2025-11-03
+- paper_id: 3fb7e0d8a52abaaa4f3927080e2f64797a56470c
+  title: 'RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous
+    QA'
+  authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, F. Salim
+  url: https://arxiv.org/abs/2510.20505
+  venue: arXiv preprint arXiv:2510.20505
+  image_url: images/publications/reloop-recursive-retrieval-with-multi-hop-reasoner-and-planners-for-heterogeneous-qa.png
+  date: 2025-10-23
+- paper_id: 2b8bc159f27dc5534835301782128df2f235a8fa
+  title: A Hybrid Generative Model based on Diffusion and Graphs for Cross-Correlated
+    Synthetic Multivariate Time Series Data
+  authors: Julián Jerónimo Bañuelos, Estrid He, José Costa-Requena, F. Salim, Stephan
+    Sigg
+  url: https://doi.org/10.1145/3714394.3756176
+  venue: UbiComp Companion
+  image_url: images/publications/a-hybrid-generative-model-based-on-diffusion-and-graphs-for-cross-correlated-synthetic-multivariate-time-series-data.png
+  date: 2025-10-12
+- paper_id: 45b9357de092ef385641d6cd6a79c8115649302b
+  title: 'UbiSense 2025: First International Workshop on Emerging Techniques in Ubiquitous
+    Sensing and Interaction'
+  authors: Shantanu Pal, Hao Xue, Nan Gao, J. S. Heinisch, F. Salim, Haining Zhang
+  url: https://doi.org/10.1145/3714394.3750560
+  venue: UbiComp Companion
+  image_url: images/publications/ubisense-2025-first-international-workshop-on-emerging-techniques-in-ubiquitous-sensing-and-interaction.png
+  date: 2025-10-12
+- paper_id: c704ce39fc492c7f9e38881860006608b3ca12fb
+  title: 'UbiComp4VRU: Ubiquitous Computing for Vulnerable Road Users'
+  authors: J. S. Heinisch, Klaus David, Si Zuo, F. Salim, H. Kegalle
+  url: https://doi.org/10.1145/3714394.3750583
+  venue: UbiComp Companion
+  image_url: images/publications/ubicomp4vru-ubiquitous-computing-for-vulnerable-road-users.png
+  date: 2025-10-12
+- paper_id: 3c9089743963a07aa7b736d86fc1fca67c8fd608
+  title: 'When Ads Become Profiles: Uncovering the Invisible Risk of Web Advertising
+    at Scale with LLMs'
+  authors: Baiyu Chen, B. Tag, Hao Xue, Daniel Angus, F. Salim
+  url: https://doi.org/10.1145/3774904.3793060
+  venue: The Web Conference
+  image_url: images/publications/when-ads-become-profiles-uncovering-the-invisible-risk-of-web-advertising-at-scale-with-llms.png
+  date: 2025-09-23
+- paper_id: edeb8205976524d0456771ffe3d026b040bafc40
+  title: 'Towards Generalizable Human Activity Recognition: A Survey'
+  authors: Yize Cai, Baoshen Guo, F. Salim, Zhiqing Hong
+  url: https://doi.org/10.48550/arXiv.2508.12213
+  venue: arXiv preprint arXiv:2508.12213
+  image_url: images/publications/towards-generalizable-human-activity-recognition-a-survey.png
+  date: 2025-08-17
+- paper_id: 8d33ab18f10fc6b0721411e61c61fc77bcae5ce2
+  title: 'FairDRL-ST: Disentangled Representation Learning for Fair Spatio-Temporal
+    Mobility Prediction'
+  authors: Sichen Zhao, Wei Shao, Jeffrey Chan, Ziqi Xu, F. Salim
+  url: https://doi.org/10.1145/3748636.3762713
+  venue: SIGSPATIAL/GIS
+  image_url: images/publications/fairdrl-st-disentangled-representation-learning-for-fair-spatio-temporal-mobility-prediction.png
+  date: 2025-08-11
+- paper_id: fcb33960a9b9e54c463927d84de8e4f3068edb4d
+  title: 'ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM
+    Agents'
+  authors: Zechen Li, Baiyu Chen, Hao Xue, F. Salim
+  url: https://doi.org/10.18653/v1/2026.acl-long.684
+  venue: Annual Meeting of the Association for Computational Linguistics
+  image_url: images/publications/zara-training-free-motion-time-series-reasoning-via-evidence-grounded-llm-agents.png
+  date: 2025-08-06
+- paper_id: 8a754ce761a6b2625d7731f654e1500a918f5470
+  title: 'Double-Diffusion: Balancing Speed, Accuracy, and Uncertainty in Probabilistic
+    Forecasting for Urban Sensor Networks'
+  authors: Hanlin Dong, Arian Prabowo, Hao Xue, Shuang Ao, Tianyi Zhou, Yuxuan Liang,
+    F. Salim
+  url: https://arxiv.org/abs/2506.23053
+  venue: arXiv preprint arXiv:2506.23053
+  image_url: images/publications/double-diffusion-balancing-speed-accuracy-and-uncertainty-in-probabilistic-forecasting-for-urban-sensor-networks.png
+  date: 2025-06-29
+- paper_id: 07c99e1432a35f1482ba3f799eb57c192fe12594
+  title: How robust is your fair model? Exploring the robustness of prominent fairness
+    strategies
+  authors: Edward A. Small, Wei Shao, Zeliang Zhang, Peihan Liu, Jeffrey Chan, Kacper
+    Sokol, F. Salim
+  url: https://doi.org/10.1007/s10618-025-01112-8
+  venue: Data mining and knowledge discovery
+  image_url: images/publications/how-robust-is-your-fair-model-exploring-the-robustness-of-prominent-fairness-strategies.png
+  date: 2025-06-11
+- paper_id: 92fcffa585fe3c10930a0043ab4cd2e75c2f9b46
+  title: Genomic-Informed Heterogeneous Graph Learning for Spatiotemporal Avian Influenza
+    Outbreak Forecasting
+  authors: Jing Du, Haley Stone, Yang Yang, Ashna Desai, Hao Xue, Andreas Zufle, C.
+    R. MacIntyre, F. Salim
+  url: https://doi.org/10.1145/3774904.3793010
+  venue: The Web Conference
+  image_url: images/publications/genomic-informed-heterogeneous-graph-learning-for-spatiotemporal-avian-influenza-outbreak-forecasting.png
+  date: 2025-05-28
+- paper_id: 2425b927c4f653685cfc1f6f1addddeb43602f0d
+  title: 'SOCIA-$\nabla$: Textual Gradient Meets Multi-Agent Orchestration for Automated
+    Simulator Generation'
+  authors: Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, F. Salim
+  url: https://arxiv.org/abs/2505.12006
+  venue: arXiv preprint arXiv:2505.12006
+  image_url: images/publications/socia-nabla-textual-gradient-meets-multi-agent-orchestration-for-automated-simulator-generation.png
+  date: 2025-05-17
+- paper_id: 85848ab5b355ebb823fd8e936717c7cf975162f8
+  title: The International Workshop on Spatio-Temporal Data Mining from the Web
+  authors: Yuxuan Liang, Hao Xue, Ming Jin, F. Salim, Qingsong Wen, Yong Li, Roger
+    Zimmermann, Yu Zheng
+  url: https://doi.org/10.1145/3701716.3717374
+  venue: The Web Conference
+  image_url: images/publications/the-international-workshop-on-spatio-temporal-data-mining-from-the-web.png
+  date: 2025-05-08
+- paper_id: b2877527f062c87bffd232483e4395817912e6a7
+  title: 'Brick-by-Brick: Cyber-Physical Building Data Classification Challenge'
+  authors: Arian Prabowo, Xiachong Lin, Imran Razzak, Hao Xue, Matthew Amos, Stephen
+    D. White, F. Salim
+  url: https://doi.org/10.1145/3701716.3718483
+  venue: The Web Conference
+  image_url: images/publications/brick-by-brick-cyber-physical-building-data-classification-challenge.png
+  date: 2025-05-08
+- paper_id: d07ad5dda3499077d05c63c1fb1c5813c699ab7d
+  title: 'Time Series Analysis in the Web: Recent Advances and Future Trends'
+  authors: Ming Jin, Wei Jin, Hao Xue, F. Salim, Yuxuan Liang
+  url: https://doi.org/10.1145/3701716.3715853
+  venue: The Web Conference
+  image_url: images/publications/time-series-analysis-in-the-web-recent-advances-and-future-trends.png
+  date: 2025-05-08
+- paper_id: d1fb955ad931a0be87732558f08a559aaa5fe103
+  title: 'Watch Out! E-scooter Coming Through!: Multimodal Sensing of Mixed Traffic
+    Use and Conflicts Through Riders'' Ego-centric Views'
+  authors: H. Kegalle, Danula Hettiachchi, Jeffrey Chan, Mark Sanderson, F. Salim
+  url: https://doi.org/10.1145/3712284
+  venue: Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies
+  image_url: images/publications/watch-out-e-scooter-coming-through-multimodal-sensing-of-mixed-traffic-use-and-conflicts-through-riders-ego-centric-views.png
+  date: 2025-02-24
+- paper_id: e9253e0e992f73923d53384adb7ad1db0d007a90
+  title: 'AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning
+    Approaches to Large Language Models'
+  authors: Yuanyuan Xu, Hanchen Wang, Wenjie Zhang, Lexing Xie, Yin Chen, F. Salim,
+    Ying Zhang, J. Gooding, Toby Walsh
+  url: https://doi.org/10.48550/arXiv.2502.13626
+  venue: arXiv preprint arXiv:2502.13626
+  image_url: images/publications/ai-empowered-catalyst-discovery-a-survey-from-classical-machine-learning-approaches-to-large-language-models.png
+  date: 2025-02-19
+- paper_id: 302c2bf8260170fcd46a66369c650d871c9a62de
+  title: 'PAR-AdvGAN: Improving Adversarial Attack Capability with Progressive Auto-Regression
+    AdvGAN'
+  authors: Jiayu Zhang, Zhiyu Zhu, Xinyi Wang, Silin Liao, Zhibo Jin, F. Salim, Huaming
+    Chen
+  url: https://doi.org/10.48550/arXiv.2502.12207
+  venue: ECML/PKDD
+  image_url: images/publications/par-advgan-improving-adversarial-attack-capability-with-progressive-auto-regression-advgan.png
+  date: 2025-02-16
+- paper_id: 6f0ecdd2dc69765e446d2f54e82cbc1e4fb7f58a
+  title: 'Engineering Carbon Credits Towards A Responsible FinTech Era: The Practices,
+    Implications, and Future'
+  authors: Qingwen Zeng, Hanlin Xu, Nanjun Xu, F. Salim, Junbin Gao, Huaming Chen
+  url: https://doi.org/10.48550/arXiv.2501.14750
+  venue: arXiv preprint arXiv:2501.14750
+  image_url: images/publications/engineering-carbon-credits-towards-a-responsible-fintech-era-the-practices-implications-and-future.png
+  date: 2024-12-22
+- paper_id: 92dcb926bdfedeed3b3349e0a2bd2506e8928997
+  title: 'RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with
+    Telemetry Data'
+  authors: Luan Pham, Hongyu Zhang, Huong Ha, Flora D. Salim, Xiuzhen Zhang
+  url: https://doi.org/10.1145/3701716.3715290
+  venue: The Web Conference
+  image_url: images/publications/rcaeval-a-benchmark-for-root-cause-analysis-of-microservice-systems-with-telemetry-data.png
+  date: 2024-12-22
+- paper_id: e8a815b1604bb03b517cd5c4ac1aaa1bbc739653
+  title: Resolution-Agnostic Transformer-based Climate Downscaling
+  authors: Declan J. Curran, H. Saleem, S. Hobeichi, F. Salim
+  url: https://doi.org/10.48550/arXiv.2411.14774
+  venue: arXiv preprint arXiv:2411.14774
+  image_url: images/publications/resolution-agnostic-transformer-based-climate-downscaling.png
+  date: 2024-11-22
+- paper_id: 3ebb2d91bc25cc3b444ee9b5f223cd7c0562a995
+  title: 'A-UTE: Advection Informed, Uncertainty Aware Temperature Emulator'
+  authors: H. Saleem, F. Salim, Cormac Purcell
+  url: https://arxiv.org/abs/2410.21657
+  venue: arXiv preprint arXiv:2410.21657
+  image_url: images/publications/a-ute-advection-informed-uncertainty-aware-temperature-emulator.png
+  date: 2024-10-29
+- paper_id: c86e616aa15a2bba4ee3e162ce5ad25a7c007f8e
+  title: Evaluating the Influences of Explanation Style on Human-AI Reliance
+  authors: Emma R. Casolin, F. Salim, Ben R. Newell
+  url: https://doi.org/10.48550/arXiv.2410.20067
+  venue: arXiv preprint arXiv:2410.20067
+  image_url: images/publications/evaluating-the-influences-of-explanation-style-on-human-ai-reliance.png
+  date: 2024-10-26
+- paper_id: 671b3305fe5864929c181bd683c3d3f2aa52e585
+  title: Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data
+    for Mental Health
+  authors: Y. Hu, Shuning Zhang, Ting Dang, Hong Jia, F. Salim, Wen Hu, Aaron J. Quigley
+  url: https://doi.org/10.1145/3675094.3678494
+  venue: UbiComp Companion
+  image_url: images/publications/exploring-large-scale-language-models-to-evaluate-eeg-based-multimodal-data-for-mental-health.png
+  date: 2024-08-14
+- paper_id: 5bc72f14d900a971a1ba2c20c41a03ea755600e1
+  title: Long-term Fairness in Ride-Hailing Platform
+  authors: Yufan Kang, Jeffrey Chan, Wei Shao, F. Salim, C. Leckie
+  url: https://doi.org/10.48550/arXiv.2407.17839
+  venue: ECML/PKDD
+  image_url: images/publications/long-term-fairness-in-ride-hailing-platform.png
+  date: 2024-07-25
+- paper_id: ead807661e4f5e3c0caf60365680c959f433ffab
+  title: Understanding Physiological Responses of Students Over Different Courses
+  authors: Soundariya Ananthan, Nan Gao, F. Salim
+  url: https://doi.org/10.1145/3675095.3676620
+  venue: International Workshop on the Semantic Web
+  image_url: images/publications/understanding-physiological-responses-of-students-over-different-courses.png
+  date: 2024-07-19
+- paper_id: b2efd5d556d58c86360810dcb00a715786e9b439
+  title: 'CAPRI-FAIR: Integration of Multi-sided Fairness in Contextual POI Recommendation
+    Framework'
+  authors: Francis Zac Dela Cruz, F. Salim, Yonchanok Khaokaew, Jeffrey Chan
+  url: https://doi.org/10.1145/3640457.3688170
+  venue: ACM Conference on Recommender Systems
+  image_url: images/publications/capri-fair-integration-of-multi-sided-fairness-in-contextual-poi-recommendation-framework.png
+  date: 2024-06-05
+- paper_id: 6d335c9ffd7674498dad4cf790506492151d773d
+  title: 'ST-DPGAN: A Privacy-Preserving Framework for Spatiotemporal Data Generation'
+  authors: Wei Shao, Rongyi Zhu, Cai Yang, Chandra Thapa, Muhammad Ejaz Ahmed, Seyit
+    Ahmet Camtepe, Rui Zhang, Duhoe Kim, Hamid Menouar, F. Salim
+  url: https://doi.org/10.1109/JIOT.2025.3568863
+  venue: IEEE Internet of Things Journal
+  image_url: images/publications/st-dpgan-a-privacy-preserving-framework-for-spatiotemporal-data-generation.png
+  date: 2024-06-04
+- paper_id: 01e3008567d41dcef3bcf9601d9c0e839b5953f7
+  title: A Multi-Graph Fusion Framework for Patient Representation Learning
+  authors: Yuxi Liu, Zhenhao Zhang, Shaowen Qin, F. Salim
+  url: https://doi.org/10.1109/ICHI61247.2024.00036
+  venue: IEEE International Conference on Healthcare Informatics
+  image_url: images/publications/a-multi-graph-fusion-framework-for-patient-representation-learning.png
+  date: 2024-06-03
+- paper_id: f77d946c534211c3168a40e33fbaaa3c01aa0e53
+  title: Fine-grained Patient Similarity Measuring using Contrastive Graph Similarity
+    Networks
+  authors: Yuxi Liu, Zhenhao Zhang, Shaowen Qin, F. Salim, Jiang Bian, Antonio Jimeno-Yepes
+  url: https://doi.org/10.1109/ICHI61247.2024.00009
+  venue: IEEE International Conference on Healthcare Informatics
+  image_url: images/publications/fine-grained-patient-similarity-measuring-using-contrastive-graph-similarity-networks.png
+  date: 2024-06-01
+- paper_id: 6b973b14d509e83763bcc7a5a09d468feaf2203c
+  title: Promoting Two-sided Fairness in Dynamic Vehicle Routing Problems
+  authors: Yufan Kang, Rongsheng Zhang, Wei Shao, F. Salim, Jeffrey Chan
+  url: https://doi.org/10.1145/3638529.3654207
+  venue: Annual Conference on Genetic and Evolutionary Computation
+  image_url: images/publications/promoting-two-sided-fairness-in-dynamic-vehicle-routing-problems.png
+  date: 2024-05-29
+- paper_id: 0afdbd7a9719b69b94b1db87cfe2a8f36652b97b
+  title: 'Spectraformer: A Unified Random Feature Framework for Transformer'
+  authors: Duke Nguyen, Du Yin, Aditya Joshi, F. Salim
+  url: https://doi.org/10.1145/3768161
+  venue: ACM Transactions on Intelligent Systems and Technology
+  image_url: images/publications/spectraformer-a-unified-random-feature-framework-for-transformer.png
+  date: 2024-05-24
+- paper_id: 17d9cd3e6b57eb0a84c0f7c9c49e91ba05324fec
+  title: Identifying high resolution benchmark data needs and Novel data-driven methodologies
+    for Climate Downscaling
+  authors: Declan J. Curran, H. Saleem, F. Salim
+  url: https://arxiv.org/abs/2405.20346
+  venue: arXiv preprint arXiv:2405.20346
+  image_url: images/publications/identifying-high-resolution-benchmark-data-needs-and-novel-data-driven-methodologies-for-climate-downscaling.png
+  date: 2024-05-23
+- paper_id: 5d750b51dd5371998dfea27f391b4113a7c9aa62
+  title: Towards Detecting and Mitigating Cognitive Bias in Spoken Conversational
+    Search
+  authors: Kaixin Ji, Sachin Pathiyan Cherumanal, Johanne R. Trippas, Danula Hettiachchi,
+    F. Salim, Falk Scholer, Damiano Spina
+  url: https://doi.org/10.1145/3640471.3680245
+  venue: International Conference on Human-Computer Interaction with Mobile Devices
+    and Services
+  image_url: images/publications/towards-detecting-and-mitigating-cognitive-bias-in-spoken-conversational-search.png
+  date: 2024-05-21
+- paper_id: bb629847e0cedcdc224703376fc50201d1e6c032
+  title: 'Mobility Data Science: Perspectives and Challenges'
+  authors: M. Mokbel, M. Sakr, Li Xiong, Andreas Züfle, Jussara Almeida, Taylor Anderson,
+    W. Aref, G. Andrienko, N. Andrienko, Yang Cao, Sanjay Chawla, R. Cheng, P. Chrysanthis,
+    Xiqi Fei, Gabriel Ghinita, Anita Graser, D. Gunopulos, C. S. Jensen, Joon-Seok
+    Kim, Peer Kröger Kyoung-Sook Kim, John Krumm, Johannes Lauer, Amr Magdy, Mario
+    A. Nascimento, S. Ravada, Matthias Renz, Dimitris Sacharidis, F. Salim, Mohamed
+    Sarwat, M. Schoemans, Cyrus Shahabi, B. Speckmann, E. Tanin, Xu Teng, Y. Theodoridis,
+    Kristian Torp, Goce Trajcevski, M. V. Kreveld, C. Wenk, Martin Werner, Raymond
+    E. Wong, Song Wu, Jianqiu Xu, Moustafa Youssef, Demetris Zeinalipour, Mengxuan
+    Zhang
+  url: https://doi.org/10.1145/3652158
+  venue: ACM Trans. Spatial Algorithms Syst.
+  image_url: images/publications/mobility-data-science-perspectives-and-challenges.png
+  date: 2024-05-07
+- paper_id: 29e4315f8e1868d6378888be561b29d451f7a397
+  title: Perturbation Effects on Robustness and Individual Fairness
+  authors: Xuran Li, Hao Xue, Peng Wu, Xing-Gang Ma, Zhen Zhang, Huaming Chen, F.
+    Salim
+  url: https://doi.org/10.1145/3770855.3817848
+  venue: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and
+    Data Mining V.2
+  image_url: images/publications/perturbation-effects-on-robustness-and-individual-fairness.png
+  date: 2024-04-01
+- paper_id: 2571019302a67479893694cb1219c353c2e65d9e
+  title: 'GustosonicSense: Towards understanding the design of playful gustosonic
+    eating experiences'
+  authors: Yan Wang, Humphrey O. Obie, Zhuying Li, F. Salim, John C. Grundy, Florian
+    ‘Floyd’ Mueller
+  url: https://doi.org/10.1145/3613904.3642182
+  venue: International Conference on Human Factors in Computing Systems
+  image_url: images/publications/gustosonicsense-towards-understanding-the-design-of-playful-gustosonic-eating-experiences.png
+  date: 2024-03-16
+- paper_id: bd4b8b5a8364b3dab0647764763b113c955b5ff8
+  title: 'STC-ViT: Spatio Temporal Continuous Vision Transformer for Medium-range
+    Global Weather Forecasting'
+  authors: H. Saleem, F. Salim, Cormac Purcell
+  url: https://arxiv.org/abs/2402.17966
+  venue: arXiv preprint arXiv:2402.17966
+  image_url: images/publications/stc-vit-spatio-temporal-continuous-vision-transformer-for-medium-range-global-weather-forecasting.png
+  date: 2024-02-28
+- paper_id: f5f46b3da1c1e93b558efad3199480ff50d7863f
+  title: Exploring Emotional and Social Dynamics in Mobile Usage During Home Confinement
+  authors: Nan Gao, Samuel C. Nolan, Kaixin Ji, Shakila Khan Rumi, J. S. Heinisch,
+    Christoph Anderson, Klaus David, F. Salim
+  url: https://arxiv.org/abs/2310.13304
+  venue: arXiv preprint arXiv:2310.13304
+  image_url: images/publications/exploring-emotional-and-social-dynamics-in-mobile-usage-during-home-confinement.png
+  date: 2023-10-19
+- paper_id: b095160b5908219aa86f866997c08a006a1fe87f
+  title: Transfer Learning for Thermal Comfort Prediction in Multiple Cities
+  authors: Nan Gao, Wei Shao, M. Rahaman, Jun Zhai, K. David, Flora D. Salim
+  url: https://doi.org/10.1016/J.BUILDENV.2021.107725
+  venue: Building and Environment
+  image_url: images/publications/transfer-learning-for-thermal-comfort-prediction-in-multiple-cities.png
+  date: 2020-04-29
 - paper_id: 29e063b3eed4fcc31eb73d6ab8a7218e7174d0d0
-  title: "Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment"
+  title: 'Beyond Words: Integrating Theory of Mind into Conversational Agents for
+    Human-Like Belief, Desire, and Intention Alignment'
   authors: Mohammadmahdi Jafari, Devin Yuncheng Hua, Hao Xue, Flora D. Salim
   url: https://aclanthology.org/2025.findings-acl.287/
-  venue: "Findings of the Association for Computational Linguistics: ACL 2025"
+  venue: 'Findings of the Association for Computational Linguistics: ACL 2025'
   image_url: images/publications/enhancing-conversational-agents-with-theory-of-mind-aligning-beliefs-desires-and-intentions-for-human-like-interaction.png
   date: 2025-02-20
 - paper_id: 3b541923e2c017bd40caf5390b87c5febeeda183
-  title:
-    "Optimizing Electric Vehicle Charging Station Locations: A Data-driven System
-    with Multi-source Fusion"
+  title: 'Optimizing Electric Vehicle Charging Station Locations: A Data-driven System
+    with Multi-source Fusion'
   authors: Lihuan Li, Du Yin, Hao Xue, David Lillo-Trynes, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2504.13517
   venue: arXiv preprint arXiv:2504.13517
   image_url: images/publications/optimizing-electric-vehicle-charging-station-locations-a-data-driven-system-with-multi-source-fusion.png
   date: 2025-04-18
 - paper_id: 49e83ddfa49aeda7b89a79180b007e91b26029df
-  title:
-    "RIDE: Enhancing Large Language Model Alignment through Restyled In-Context
-    Learning Demonstration Exemplars"
-  authors:
-    Yuncheng Hua, Lizhen Qu, Zhuang Li, Hao Xue, Flora D. Salim, Gholamreza
+  title: 'RIDE: Enhancing Large Language Model Alignment through Restyled In-Context
+    Learning Demonstration Exemplars'
+  authors: Yuncheng Hua, Lizhen Qu, Zhuang Li, Hao Xue, Flora D. Salim, Gholamreza
     Haffari
   url: https://doi.org/10.48550/arXiv.2502.11681
   venue: arXiv preprint arXiv:2502.11681
@@ -27,49 +770,46 @@
   date: 2025-02-17
 - paper_id: 4d9fecd338a250cf50a8bbb629b414f0ee026d0c
   title: Leveraging Taxonomy and LLMs for Improved Multimodal Hierarchical Classification
-  authors:
-    Shijing Chen, Mohamed Reda Bouadjenek, Usman Naseem, Basem Suleiman, Shoaib
+  authors: Shijing Chen, Mohamed Reda Bouadjenek, Usman Naseem, Basem Suleiman, Shoaib
     Jameel, Flora D. Salim, Hakim Hacid, Imran Razzak
   url: https://doi.org/10.48550/arXiv.2501.06827
   venue: International Conference on Computational Linguistics
   image_url: images/publications/leveraging-taxonomy-and-llms-for-improved-multimodal-hierarchical-classification.png
   date: 2025-01-12
 - paper_id: 55cb87fea7a673a5ff4e6dae60b2160bee8e684c
-  title: "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks"
+  title: 'Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset
+    and Benchmarks'
   authors: Wilson Wongso, Hao Xue, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2505.11239
   venue: arXiv preprint arXiv:2505.11239
   image_url: images/publications/massive-steps-massive-semantic-trajectories-for-understanding-poi-check-ins-dataset-and-benchmarks.png
   date: 2025-05-16
 - paper_id: 6ff364d37a29b69dd9ed6ee03a0e1aa0996c8a9c
-  title:
-    "Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge
-    Retrieval"
+  title: 'Beyond Single Pass, Looping Through Time: KG-IRAG with Iterative Knowledge
+    Retrieval'
   authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D. Salim
   url: https://arxiv.org/abs/2503.14234
   venue: arXiv preprint arXiv:2503.14234
   image_url: images/publications/beyond-single-pass-looping-through-time-kg-irag-with-iterative-knowledge-retrieval.png
   date: 2025-03-18
 - paper_id: 71fb3ed319e4e28d197de6754aff28cafef66ac9
-  title: "BLUE: Bi-layer Heterogeneous Graph Fusion Network for Avian Influenza Forecasting"
-  authors:
-    Jing Du, Haley Stone, Yang Yang, Ashna Desai, Hao Xue, Andreas Zufle, C.
+  title: 'BLUE: Bi-layer Heterogeneous Graph Fusion Network for Avian Influenza Forecasting'
+  authors: Jing Du, Haley Stone, Yang Yang, Ashna Desai, Hao Xue, Andreas Zufle, C.
     R. MacIntyre, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2505.22692
   venue: arXiv preprint arXiv:2505.22692
   image_url: images/publications/blue-bi-layer-heterogeneous-graph-fusion-network-for-avian-influenza-forecasting.png
   date: 2025-05-28
 - paper_id: 78214b5dcc1007e91a78ae361cf2cd6220801427
-  title:
-    "Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph
-    Partitioning"
+  title: 'Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph
+    Partitioning'
   authors: Ruiyi Yang, Hao Xue, Imran Razzak, Hakim Hacid, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2505.13994
   venue: arXiv preprint arXiv:2505.13994
   image_url: images/publications/divide-by-question-conquer-by-agent-split-rag-with-question-driven-graph-partitioning.png
   date: 2025-05-20
 - paper_id: 9526c5b490a5f3ff51acaddf6b161110df99fcc1
-  title: "STOAT: Spatial-Temporal Probabilistic Causal Inference Network"
+  title: 'STOAT: Spatial-Temporal Probabilistic Causal Inference Network'
   authors: Yang Yang, Du Yin, Hao Xue, Flora D. Salim
   url: https://arxiv.org/abs/2506.09544
   venue: arXiv preprint arXiv:2506.09544
@@ -77,61 +817,51 @@
   date: 2025-06-11
 - paper_id: 9be42c52b6c3696f5d30fc0c5d135b6a6cc1cc88
   title: Long Context Modeling with Ranked Memory-Augmented Retrieval
-  authors:
-    Ghadir Alselwi, Hao Xue, Shoaib Jameel, Basem Suleiman, Flora D. Salim,
+  authors: Ghadir Alselwi, Hao Xue, Shoaib Jameel, Basem Suleiman, Flora D. Salim,
     Imran Razzak
   url: https://doi.org/10.48550/arXiv.2503.14800
   venue: arXiv preprint arXiv:2503.14800
   image_url: images/publications/long-context-modeling-with-ranked-memory-augmented-retrieval.png
   date: 2025-03-19
 - paper_id: ba305435ffb5631f9a7052bce389ba0f6f9d8dad
-  title:
-    A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal
+  title: A Probabilistic Framework for Imputing Genetic Distances in Spatiotemporal
     Pathogen Models
-  authors:
-    Haley Stone, Jing Du, Hao Xue, M. Scotch, D. Heslop, Andreas Zufle, C.
+  authors: Haley Stone, Jing Du, Hao Xue, M. Scotch, D. Heslop, Andreas Zufle, C.
     R. MacIntyre, Flora D. Salim
   url: https://arxiv.org/abs/2506.09076
   venue: arXiv preprint arXiv:2506.09076
   image_url: images/publications/a-probabilistic-framework-for-imputing-genetic-distances-in-spatiotemporal-pathogen-models.png
   date: 2025-06-10
 - paper_id: bcdb9c15a26ebf297af6bdd1ebdaefddbfe0f662
-  title:
-    Evaluating the Bias in LLMs for Surveying Opinion and Decision Making in
+  title: Evaluating the Bias in LLMs for Surveying Opinion and Decision Making in
     Healthcare
-  authors:
-    Yonchanok Khaokaew, Flora D. Salim, Andreas Züfle, Hao Xue, Taylor Anderson,
+  authors: Yonchanok Khaokaew, Flora D. Salim, Andreas Züfle, Hao Xue, Taylor Anderson,
     C. R. MacIntyre, M. Scotch, D. Heslop
   url: https://doi.org/10.48550/arXiv.2504.08260
   venue: arXiv preprint arXiv:2504.08260
   image_url: images/publications/evaluating-the-bias-in-llms-for-surveying-opinion-and-decision-making-in-healthcare.png
   date: 2025-04-11
 - paper_id: c1b81ba2d90f8ce02b66263c5af3fbe23ae65cdb
-  title:
-    "COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human
-    Activity Recognition"
-  authors:
-    Baiyu Chen, Wilson Wongso, Zechen Li, Yonchanok Khaokaew, Hao Xue, Flora
+  title: 'COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human
+    Activity Recognition'
+  authors: Baiyu Chen, Wilson Wongso, Zechen Li, Yonchanok Khaokaew, Hao Xue, Flora
     D. Salim
   url: https://doi.org/10.48550/arXiv.2503.07259
   venue: arXiv preprint arXiv:2503.07259
   image_url: images/publications/comodo-cross-modal-video-to-imu-distillation-for-efficient-egocentric-human-activity-recognition.png
   date: 2025-03-10
 - paper_id: c4a4c0c4a72a5749b8a014018d73a82a9d182551
-  title:
-    "TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human
-    Trajectory Simulation"
+  title: 'TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human
+    Trajectory Simulation'
   authors: Chenlu Ju, Jiaxin Liu, Shobhit Sinha, Hao Xue, Flora D. Salim
   url: https://doi.org/10.1145/3701716.3715201
   venue: The Web Conference
   image_url: images/publications/trajllm-a-modular-llm-enhanced-agent-based-framework-for-realistic-human-trajectory-simulation.png
   date: 2025-02-26
 - paper_id: c6d10287a5b34aee30e6a97f9bf28ad0188dd2e0
-  title:
-    Enforcing Consistency and Fairness in Multi-level Hierarchical Classification
+  title: Enforcing Consistency and Fairness in Multi-level Hierarchical Classification
     with a Mask-based Output Layer
-  authors:
-    Shijing Chen, Shoaib Jameel, Mohamed Reda Bouadjenek, Feilong Tang, Usman
+  authors: Shijing Chen, Shoaib Jameel, Mohamed Reda Bouadjenek, Feilong Tang, Usman
     Naseem, Basem Suleiman, Hakim Hacid, Flora D. Salim, Imran Razzak
   url: https://doi.org/10.48550/arXiv.2503.15566
   venue: arXiv preprint arXiv:2503.15566
@@ -145,9 +875,8 @@
   image_url: images/publications/embedding-spatial-context-in-urban-traffic-forecasting-with-contrastive-pre-training.png
   date: 2025-03-19
 - paper_id: 1024f287b9e8ad6e530cc92ec627901bccbe1a11
-  title: "BTS: Building Timeseries Dataset: Empowering Large-Scale Building Analytics"
-  authors:
-    Arian Prabowo, Xiachong Lin, Imran Razzak, Hao Xue, Emily W. Yap, Matthew
+  title: 'BTS: Building Timeseries Dataset: Empowering Large-Scale Building Analytics'
+  authors: Arian Prabowo, Xiachong Lin, Imran Razzak, Hao Xue, Emily W. Yap, Matthew
     Amos, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2406.08990
   venue: arXiv preprint arXiv:2406.08990
@@ -155,71 +884,65 @@
   date: 2024-06-13
 - paper_id: 11e8017375f693c92cb57efdbcf2ead233a7fa83
   title: Exploring Capabilities of Time Series Foundation Models in Building Analytics
-  authors:
-    Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
+  authors: Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
     Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2411.08888
   venue: arXiv preprint arXiv:2411.08888
   image_url: images/publications/exploring-capabilities-of-time-series-foundation-models-in-building-analytics.png
   date: 2024-10-28
 - paper_id: 26e3d66c5799041345343c44e8a463eca7cd676d
-  title:
-    "XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test
-    adaptation"
+  title: 'XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test
+    adaptation'
   authors: Du Yin, Hao Xue, Arian Prabowo, Shuang Ao, Flora D. Salim
   url: https://arxiv.org/abs/2406.12693
   venue: arXiv preprint arXiv:2406.12693
   image_url: images/publications/xxltraffic-expanding-and-extremely-long-traffic-forecasting-beyond-test-adaptation.png
   date: 2024-06-18
 - paper_id: 31670680ac3fec718b300ae117bded8f1d6bbda2
-  title: "SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"
+  title: 'SensorLLM: Aligning Large Language Models with Motion Sensors for Human
+    Activity Recognition'
   authors: Zechen Li, Shohreh Deldari, Linyao Chen, Hao Xue, Flora D. Salim
   url: https://aclanthology.org/2025.emnlp-main.19/
-  venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+  venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language
+    Processing
   image_url: images/publications/sensorllm-human-intuitive-alignment-of-multivariate-sensor-data-with-llms-for-activity-recognition.png
   date: 2025-11-04
 - paper_id: 37735a8a1c0b60af4449e7367f92e9740a10f03d
-  title:
-    "T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity
-    Computation"
+  title: 'T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity
+    Computation'
   authors: Lihuan Li, Hao Xue, Yang Song, Flora D. Salim
   url: https://doi.org/10.1145/3678717.3691271
   venue: SIGSPATIAL/GIS
   image_url: images/publications/t-jepa-a-joint-embedding-predictive-architecture-for-trajectory-similarity-computation.png
   date: 2024-06-13
 - paper_id: 469141a6e187980a8af3b6e15234bf6b6dbf744d
-  title:
-    "REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy
-    for InTerpretability"
+  title: 'REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy
+    for InTerpretability'
   authors: Shuang Ao, Simon Khan, Haris Aziz, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2406.14214
   venue: arXiv preprint arXiv:2406.14214
   image_url: images/publications/reveal-it-reinforcement-learning-with-visibility-of-evolving-agent-policy-for-interpretability.png
   date: 2024-06-20
 - paper_id: 6107a39ef4779909c161975256c92015511a212a
-  title: "WorkR: Occupation Inference for Intelligent Task Assistance"
+  title: 'WorkR: Occupation Inference for Intelligent Task Assistance'
   authors: Yonchanok Khaokaew, Hao Xue, M. Rahaman, Flora D. Salim
   url: https://doi.org/10.1145/3675095.3676622
   venue: International Workshop on the Semantic Web
   image_url: images/publications/workr-occupation-inference-for-intelligent-task-assistance.png
   date: 2024-07-26
 - paper_id: 6785d8ecb5eb658efde7e06f9afec1ed69bfadb7
-  title:
-    "Enhancing Spatio-temporal Quantile Forecasting with Curriculum Learning:
-    Lessons Learned"
-  authors:
-    Du Yin, Jinliang Deng, Shuang Ao, Zechen Li, Hao Xue, Arian Prabowo, Renhe
+  title: 'Enhancing Spatio-temporal Quantile Forecasting with Curriculum Learning:
+    Lessons Learned'
+  authors: Du Yin, Jinliang Deng, Shuang Ao, Zechen Li, Hao Xue, Arian Prabowo, Renhe
     Jiang, Xuan Song, Flora D. Salim
   url: https://doi.org/10.1145/3678717.3691216
   venue: SIGSPATIAL/GIS
   image_url: images/publications/enhancing-spatio-temporal-quantile-forecasting-with-curriculum-learning-lessons-learned.png
   date: 2024-06-18
 - paper_id: 68747188c1d009f2c66b69e6910a4435da97ff80
-  title:
-    "Illuminating the Unseen: Investigating the Context-induced Harms in Behavioral
-    Sensing"
-  authors:
-    Han Zhang, V. D. Swain, Leijie Wang, Nan Gao, Yilun Sheng, Xuhai Xu, Flora
+  title: 'Illuminating the Unseen: Investigating the Context-induced Harms in Behavioral
+    Sensing'
+  authors: Han Zhang, V. D. Swain, Leijie Wang, Nan Gao, Yilun Sheng, Xuhai Xu, Flora
     D. Salim, Koustuv Saha, A. Dey, Jennifer Mankoff
   url: https://doi.org/10.48550/arXiv.2404.14665
   venue: arXiv preprint arXiv:2404.14665
@@ -233,16 +956,15 @@
   image_url: images/publications/prompt-mining-for-language-based-human-mobility-forecasting.png
   date: 2024-03-06
 - paper_id: 77bda0b2f35de848ac8b3c68195d34a2527e7bba
-  title: "ViLCo-Bench: VIdeo Language COntinual learning Benchmark"
+  title: 'ViLCo-Bench: VIdeo Language COntinual learning Benchmark'
   authors: Tianqi Tang, Shohreh Deldari, Hao Xue, Celso De Melo, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2406.13123
   venue: Neural Information Processing Systems
   image_url: images/publications/vilco-bench-video-language-continual-learning-benchmark.png
   date: 2024-06-19
 - paper_id: 79088d81e2966adab5a8e38915f9360707ab77fe
-  title:
-    "GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender
-    Systems"
+  title: 'GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender
+    Systems'
   authors: Wilson Wongso, Hao Xue, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2410.20643
   venue: arXiv preprint arXiv:2410.20643
@@ -252,55 +974,47 @@
   title: Large Language Models for Next Point-of-Interest Recommendation
   authors: Peibo Li, M. de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim
   url: https://doi.org/10.1145/3626772.3657840
-  venue:
-    Annual International ACM SIGIR Conference on Research and Development in
+  venue: Annual International ACM SIGIR Conference on Research and Development in
     Information Retrieval
   image_url: images/publications/large-language-models-for-next-point-of-interest-recommendation.png
   date: 2024-04-19
 - paper_id: a12894b7d3734cfaf6e94159677bf14dd29e24f5
-  title:
-    "A Gap in Time: The Challenge of Processing Heterogeneous IoT Data in Digitalized
-    Buildings"
-  authors:
-    Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
+  title: 'A Gap in Time: The Challenge of Processing Heterogeneous IoT Data in Digitalized
+    Buildings'
+  authors: Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
     Flora D. Salim
   url: https://doi.org/10.1109/mprv.2025.3542061
   venue: IEEE pervasive computing
   image_url: images/publications/a-gap-in-time-the-challenge-of-processing-heterogeneous-iot-data-in-digitalized-buildings.png
   date: 2024-05-23
 - paper_id: a77b3c5f532e61af63a9d95e671ce02d8065ee24
-  title:
-    "SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile
-    Dynamic Information Embedding"
+  title: 'SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile
+    Dynamic Information Embedding'
   authors: Ruiyi Yang, Flora D. Salim, Hao Xue
   url: https://doi.org/10.1145/3589334.3645441
   venue: The Web Conference
   image_url: images/publications/sstkg-simple-spatio-temporal-knowledge-graph-for-intepretable-and-versatile-dynamic-information-embedding.png
   date: 2024-02-19
 - paper_id: b2aa89f30b4fa8a012cb6f5f485b4632a6555351
-  title:
-    Characterizing Information Seeking Processes with Multiple Physiological
+  title: Characterizing Information Seeking Processes with Multiple Physiological
     Signals
   authors: Kaixin Ji, Danula Hettiachchi, Flora D. Salim, Falk Scholer, Damiano Spina
   url: https://doi.org/10.1145/3626772.3657793
-  venue:
-    Annual International ACM SIGIR Conference on Research and Development in
+  venue: Annual International ACM SIGIR Conference on Research and Development in
     Information Retrieval
   image_url: images/publications/characterizing-information-seeking-processes-with-multiple-physiological-signals.png
   date: 2024-05-01
 - paper_id: cb27eb74f02cfb6861c40faba43b7e5046bba5a9
-  title:
-    "ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor
-    for Streaming Time Series Forecasting"
+  title: 'ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor
+    for Streaming Time Series Forecasting'
   authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2411.07413
   venue: Trans. Mach. Learn. Res.
   image_url: images/publications/odestream-a-buffer-free-online-learning-framework-with-ode-based-adaptor-for-streaming-time-series-forecasting.png
   date: 2024-11-11
 - paper_id: d9d9656b2fad130273e8a34519b5706fbcb1dbd7
-  title: "BiTSA: Leveraging Time Series Foundation Model for Building Energy Analytics"
-  authors:
-    Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
+  title: 'BiTSA: Leveraging Time Series Foundation Model for Building Energy Analytics'
+  authors: Xiachong Lin, Arian Prabowo, Imran Razzak, Hao Xue, Matthew Amos, Sam Behrens,
     Flora D. Salim
   url: https://doi.org/10.1109/ICDMW65004.2024.00122
   venue: 2024 IEEE International Conference on Data Mining Workshops (ICDMW)
@@ -314,8 +1028,7 @@
   image_url: images/publications/utilizing-language-models-for-energy-load-forecasting.png
   date: 2023-10-26
 - paper_id: 1a66bf3784385a81642f8e9e7e4d655103984fb0
-  title:
-    Critiquing Self-report Practices for Human Mental and Wellbeing Computing
+  title: Critiquing Self-report Practices for Human Mental and Wellbeing Computing
     at Ubicomp
   authors: Nan Gao, Soundariya Ananthan, Chun Yu, Yuntao Wang, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2311.15496
@@ -323,21 +1036,17 @@
   image_url: images/publications/critiquing-self-report-practices-for-human-mental-and-wellbeing-computing-at-ubicomp.png
   date: 2023-11-27
 - paper_id: 784acf4cb00c5205eba6f5cb062ea1e3fa46ec0c
-  title:
-    Leveraging Large Language Models for Generating Mobile Sensing Strategies
+  title: Leveraging Large Language Models for Generating Mobile Sensing Strategies
     in Human Behavior Modeling
-  authors:
-    Nan Gao, Zhuolei Yu, Yue Xu, Chun Yu, Yuntao Wang, Flora D. Salim, Yuanchun
+  authors: Nan Gao, Zhuolei Yu, Yue Xu, Chun Yu, Yuntao Wang, Flora D. Salim, Yuanchun
     Shi
   url: https://doi.org/10.1145/3675094.3678423
-  venue:
-    Companion of the 2024 on ACM International Joint Conference on Pervasive
+  venue: Companion of the 2024 on ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   image_url: images/publications/leveraging-large-language-models-for-generating-mobile-sensing-strategies-in-human-behavior-modeling.png
   date: 2023-11-09
 - paper_id: 8e8737c80dbb333541577949175f3c0f5f782cd8
-  title:
-    Towards Detecting Tonic Information Processing Activities with Physiological
+  title: Towards Detecting Tonic Information Processing Activities with Physiological
     Data
   authors: Kaixin Ji, Damiano Spina, Danula Hettiachchi, Falk Scholer, Flora D. Salim
   url: https://doi.org/10.1145/3594739.3610679
@@ -359,33 +1068,27 @@
   image_url: images/publications/understanding-mobile-information-needs-and-behaviours.png
   date: 2023-10-08
 - paper_id: f555cbe1abcfbcf7e68fc31b5b19fb5c15890764
-  title:
-    '"Living Within Four Walls": Exploring Emotional and Social Dynamics in Mobile
+  title: '"Living Within Four Walls": Exploring Emotional and Social Dynamics in Mobile
     Usage During Home Confinement'
-  authors:
-    Nan Gao, Samuel C. Nolan, Kaixin Ji, Shakila Khan Rumi, J. S. Heinisch,
+  authors: Nan Gao, Samuel C. Nolan, Kaixin Ji, Shakila Khan Rumi, J. S. Heinisch,
     Christoph Anderson, Klaus David, Flora D. Salim
   url: https://arxiv.org/abs/2310.13304
   venue: arXiv preprint arXiv:2310.13304
   image_url: images/publications/living-within-four-walls-exploring-emotional-and-social-dynamics-in-mobile-usage-during-home-confinement.png
   date: 2023-10-20
 - paper_id: f8b143a76f2662bf78109f8583fd3ddb46457676
-  title:
-    "Measuring Misogyny in Natural Language Generation: Preliminary Results from
-    a Case Study on two Reddit Communities"
-  authors:
-    Aaron J. Snoswell, Lucinda Nelson, Hao Xue, Flora D. Salim, Nicolas Suzor,
+  title: 'Measuring Misogyny in Natural Language Generation: Preliminary Results from
+    a Case Study on two Reddit Communities'
+  authors: Aaron J. Snoswell, Lucinda Nelson, Hao Xue, Flora D. Salim, Nicolas Suzor,
     Jean Burgess
   url: https://doi.org/10.48550/arXiv.2312.03330
   venue: arXiv preprint arXiv:2312.03330
   image_url: images/publications/measuring-misogyny-in-natural-language-generation-preliminary-results-from-a-case-study-on-two-reddit-communities.png
   date: 2023-12-06
 - paper_id: 0481099f732e5ea2c68c24f2a7f7c83c070560a5
-  title:
-    Hypergraph Convolutional Networks for Fine-Grained lCU Patient Similarity
+  title: Hypergraph Convolutional Networks for Fine-Grained lCU Patient Similarity
     Analysis and Risk Prediction
-  authors:
-    Yuxi Liu, Zhenhao Zhang, S. Qin, Flora D. Salim, Antonio Jimeno Yepes,
+  authors: Yuxi Liu, Zhenhao Zhang, S. Qin, Flora D. Salim, Antonio Jimeno Yepes,
     Jun Shen
   url: https://doi.org/10.1109/ICHI61247.2024.00023
   venue: IEEE International Conference on Healthcare Informatics
@@ -400,8 +1103,7 @@
   date: 2023-06-20
 - paper_id: 11c26cfcee4adeb81fd3c0ea81fc27877128352a
   title: Towards Mobility Data Science (Vision Paper)
-  authors:
-    M. Mokbel, M. Sakr, Li-Qiong Xiong, Andreas Zufle, Jussara Almeida, W.
+  authors: M. Mokbel, M. Sakr, Li-Qiong Xiong, Andreas Zufle, Jussara Almeida, W.
     Aref, G. Andrienko, N. Andrienko, Yang Cao, S. Chawla, R. Cheng, Panos K. Chrysanthis,
     Xiqi Fei, Gabriel Ghinita, A. Graser, D. Gunopulos, C. Jensen, Joon-Sook Kim,
     Kyoung-Sook Kim, Peer Krőger, John Krumm, Johannes Lauer, A. Magdy, M. Nascimento,
@@ -414,41 +1116,34 @@
   image_url: images/publications/towards-mobility-data-science-vision-paper.png
   date: 2023-06-21
 - paper_id: 21a6056b047c439824a07614ab1372ba8cdfd121
-  title:
-    Examining the Impact of Uncontrolled Variables on Physiological Signals in
+  title: Examining the Impact of Uncontrolled Variables on Physiological Signals in
     User Studies for Information Processing Activities
   authors: Kaixin Ji, Damiano Spina, Danula Hettiachchi, Flora D. Salim, Falk Scholer
   url: https://doi.org/10.1145/3539618.3591981
-  venue:
-    Annual International ACM SIGIR Conference on Research and Development in
+  venue: Annual International ACM SIGIR Conference on Research and Development in
     Information Retrieval
   image_url: images/publications/examining-the-impact-of-uncontrolled-variables-on-physiological-signals-in-user-studies-for-information-processing-activities.png
   date: 2023-04-26
 - paper_id: 3201274af3285aab48659e0125d81f3d304eac23
-  title:
-    Continually learning out-of-distribution spatiotemporal data for robust energy
+  title: Continually learning out-of-distribution spatiotemporal data for robust energy
     forecasting
-  authors:
-    Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
+  authors: Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
     Salim
   url: https://doi.org/10.1007/978-3-031-43430-3_1
   venue: ECML/PKDD
   image_url: images/publications/continually-learning-out-of-distribution-spatiotemporal-data-for-robust-energy-forecasting.png
   date: 2023-06-10
 - paper_id: 3f44783776a3c176e2516f9ed1c4397319a6946d
-  title:
-    "CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent
-    Masking"
-  authors:
-    Shohreh Deldari, Dimitris Spathis, M. Malekzadeh, F. Kawsar, Flora D. Salim,
+  title: 'CroSSL: Cross-modal Self-Supervised Learning for Time-series through Latent
+    Masking'
+  authors: Shohreh Deldari, Dimitris Spathis, M. Malekzadeh, F. Kawsar, Flora D. Salim,
     Akhil Mathur
   url: https://doi.org/10.1145/3616855.3635795
   venue: Web Search and Data Mining
   image_url: images/publications/crossl-cross-modal-self-supervised-learning-for-time-series-through-latent-masking.png
   date: 2023-07-31
 - paper_id: 4195cf1299f7455dc84129addd52a7d3fa3b606f
-  title:
-    Contrastive Learning-based Imputation-Prediction Networks for In-hospital
+  title: Contrastive Learning-based Imputation-Prediction Networks for In-hospital
     Mortality Risk Modeling using EHRs
   authors: Yuxi Liu, Zhenhao Zhang, S. Qin, Flora D. Salim, Antonio Jimeno Yepes
   url: https://doi.org/10.48550/arXiv.2308.09896
@@ -456,9 +1151,8 @@
   image_url: images/publications/contrastive-learning-based-imputation-prediction-networks-for-in-hospital-mortality-risk-modeling-using-ehrs.png
   date: 2023-08-19
 - paper_id: 53759c0ec3fcb03a39b7bdc8243d74a3c78b7d8e
-  title:
-    "Self-supervised Activity Representation Learning with Incremental Data:
-    An Empirical Study"
+  title: 'Self-supervised Activity Representation Learning with Incremental Data:
+    An Empirical Study'
   authors: Jason Liu, Shohreh Deldari, Hao Xue, Van-Hau Nguyen, Flora D. Salim
   url: https://doi.org/10.1109/MDM58254.2023.00019
   venue: International Conference on Mobile Data Management
@@ -472,11 +1166,9 @@
   image_url: images/publications/maple.png
   date: 2023-09-15
 - paper_id: 6812ea42fd92397f643c3b3c98fdc53622f90c9b
-  title:
-    "How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging
-    Misogynistic Hate Speech in Tweets"
-  authors:
-    Danula Hettiachchi, I. Holcombe-James, Stephanie Livingstone, Anjalee de
+  title: 'How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging
+    Misogynistic Hate Speech in Tweets'
+  authors: Danula Hettiachchi, I. Holcombe-James, Stephanie Livingstone, Anjalee de
     Silva, Matthew Lease, Flora D. Salim, Mark Sanderson
   url: https://doi.org/10.48550/arXiv.2309.01288
   venue: Proceedings of the AAAI Conference on Human Computation and Crowdsourcing
@@ -490,18 +1182,16 @@
   image_url: images/publications/traffic-forecasting-on-new-roads-using-spatial-contrastive-pre-training-scpt.png
   date: 2023-05-09
 - paper_id: 831db51dd0314a37987b0855aecdb593fd7a163f
-  title: "Vision-Based Multi-Future Trajectory Prediction: A Survey."
+  title: 'Vision-Based Multi-Future Trajectory Prediction: A Survey.'
   authors: Renhao Huang, Hao Xue, M. Pagnucco, Flora D. Salim, Yang Song
   url: https://doi.org/10.1109/TNNLS.2025.3550350
   venue: IEEE Transactions on Neural Networks and Learning Systems
   image_url: images/publications/vision-based-multi-future-trajectory-prediction-a-survey.png
   date: 2023-02-21
 - paper_id: 93539d72d4a7295724bcf09f81930be4058dc778
-  title:
-    "Equalised Odds is not Equal Individual Odds: Post-processing for Group and
-    Individual Fairness"
-  authors:
-    Edward A. Small, Kacper Sokol, Daniel Manning, Flora D. Salim, Jeffrey
+  title: 'Equalised Odds is not Equal Individual Odds: Post-processing for Group and
+    Individual Fairness'
+  authors: Edward A. Small, Kacper Sokol, Daniel Manning, Flora D. Salim, Jeffrey
     Chan
   url: https://doi.org/10.1145/3630106.3658989
   venue: Conference on Fairness, Accountability and Transparency
@@ -509,30 +1199,25 @@
   date: 2023-04-19
 - paper_id: 93c7cfb881873bb4d9324f8d796611178c4da496
   title: Counterfactual Explanations via Locally-guided Sequential Algorithmic Recourse
-  authors:
-    Edward A. Small, Jeffrey N Clark, Christopher J. McWilliams, Kacper Sokol,
+  authors: Edward A. Small, Jeffrey N Clark, Christopher J. McWilliams, Kacper Sokol,
     Jeffrey Chan, Flora D. Salim, Raúl Santos-Rodríguez
   url: https://doi.org/10.48550/arXiv.2309.04211
   venue: arXiv preprint arXiv:2309.04211
   image_url: images/publications/counterfactual-explanations-via-locally-guided-sequential-algorithmic-recourse.png
   date: 2023-09-08
 - paper_id: a676f8c51a150de65a9aa6e391911d7f0cb1bcee
-  title:
-    Are footpaths encroached by shared e-scooters? Spatio-temporal Analysis of
+  title: Are footpaths encroached by shared e-scooters? Spatio-temporal Analysis of
     Micro-mobility Services
-  authors:
-    Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Flora D. Salim, Mark
+  authors: Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Flora D. Salim, Mark
     Sanderson
   url: https://doi.org/10.1109/MDM58254.2023.00049
   venue: International Conference on Mobile Data Management
   image_url: images/publications/are-footpaths-encroached-by-shared-e-scooters-spatio-temporal-analysis-of-micro-mobility-services.png
   date: 2023-04-18
 - paper_id: cdd72fac7ef528eb2667e989492a968213fe5e71
-  title:
-    "Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19:
-    Benchmarking energy load forecasting models without and with continual learning"
-  authors:
-    Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
+  title: 'Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19:
+    Benchmarking energy load forecasting models without and with continual learning'
+  authors: Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, Flora D.
     Salim
   url: https://doi.org/10.1145/3600100.3623726
   venue: International Conference on Systems for Energy-Efficient Built Environments
@@ -546,11 +1231,9 @@
   image_url: images/publications/message-passing-neural-networks-for-traffic-forecasting.png
   date: 2023-05-09
 - paper_id: e4ea6b374b70fb9be249285d4206b3003983c055
-  title:
-    Multiple-level Point Embedding for Solving Human Trajectory Imputation with
+  title: Multiple-level Point Embedding for Solving Human Trajectory Imputation with
     Prediction
-  authors:
-    K. K. Qin, Yongli Ren, Wei Shao, Brennan Lake, Filippo Privitera, Flora
+  authors: K. K. Qin, Yongli Ren, Wei Shao, Brennan Lake, Filippo Privitera, Flora
     D. Salim
   url: https://doi.org/10.1145/3582427
   venue: ACM Trans. Spatial Algorithms Syst.
@@ -558,64 +1241,56 @@
   date: 2023-01-11
 - paper_id: efb66f38a5f2e2bf093dc21ebd3aae2113f7bb74
   title: Designing and Evaluating Presentation Strategies for Fact-Checked Content
-  authors:
-    Danula Hettiachchi, Kaixin Ji, Jenny A Kennedy, Anthony McCosker, Flora
+  authors: Danula Hettiachchi, Kaixin Ji, Jenny A Kennedy, Anthony McCosker, Flora
     D. Salim, M. Sanderson, Falk Scholer, Damiano Spina
   url: https://doi.org/10.1145/3583780.3614841
   venue: International Conference on Information and Knowledge Management
   image_url: images/publications/designing-and-evaluating-presentation-strategies-for-fact-checked-content.png
   date: 2023-08-20
 - paper_id: f180f611297672263d29d803b24362174fa14037
-  title:
-    "Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in
-    Traffic Forecasting"
+  title: 'Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in
+    Traffic Forecasting'
   authors: Arian Prabowo, Wei Shao, Hao Xue, Piotr Koniusz, Flora D. Salim
   url: https://doi.org/10.1145/3576842.3582362
   venue: International Conference on Internet-of-Things Design and Implementation
   image_url: images/publications/because-every-sensor-is-unique-so-is-every-pair-handling-dynamicity-in-traffic-forecasting.png
   date: 2023-02-20
 - paper_id: 09b80aa19facf3eced4928cd9f70f3fd306b515f
-  title: "Location Contact Tracing: Penetration, Privacy, Position, and Performance"
+  title: 'Location Contact Tracing: Penetration, Privacy, Position, and Performance'
   authors: L. Bedogni, Federico Montori, Flora D. Salim
   url: https://doi.org/10.1145/3532669
   venue: Digit. Gov. Res. Pract.
   image_url: images/publications/location-contact-tracing-penetration-privacy-position-and-performance.png
   date: 2022-07-08
 - paper_id: 248581d85b2d4578c3771261ccf209bf38b68efc
-  title:
-    "SeqLink: A Robust Neural-ODE Architecture for Modelling Partially Observed
-    Time Series"
+  title: 'SeqLink: A Robust Neural-ODE Architecture for Modelling Partially Observed
+    Time Series'
   authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
   url: https://arxiv.org/abs/2212.03560
   venue: Trans. Mach. Learn. Res.
   image_url: images/publications/seqlink-a-robust-neural-ode-architecture-for-modelling-partially-observed-time-series.png
   date: 2022-12-07
 - paper_id: 2d8ad6c45fabc3c8acc1e68df2b872eb201c7839
-  title:
-    Investigating the Effects of Mood & Usage Behaviour on Notification Response
+  title: Investigating the Effects of Mood & Usage Behaviour on Notification Response
     Time
-  authors:
-    J. S. Heinisch, Nan Gao, Christoph Anderson, Shohreh Deldari, Klaus David,
+  authors: J. S. Heinisch, Nan Gao, Christoph Anderson, Shohreh Deldari, Klaus David,
     Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2207.03405
   venue: arXiv preprint arXiv:2207.03405
   image_url: images/publications/investigating-the-effects-of-mood-usage-behaviour-on-notification-response-time.png
   date: 2022-07-07
 - paper_id: 47c27db5f7f88d89bf2660daea698e814bdf6f56
-  title:
-    "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model
-    Multiplicity"
+  title: 'Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model
+    Multiplicity'
   authors: Kacper Sokol, Meelis Kull, J. Chan, Flora D. Salim
   url: https://doi.org/10.1145/3677173
   venue: ACM Journal on Responsible Computing
   image_url: images/publications/cross-model-fairness-empirical-study-of-fairness-and-ethics-under-model-multiplicity.png
   date: 2022-03-14
 - paper_id: 55e31baa3ae5f32fb5e695761892319e26dbc639
-  title:
-    "Beyond Just Vision: A Review on Self-Supervised Representation Learning
-    on Multimodal and Temporal Data"
-  authors:
-    Shohreh Deldari, Hao Xue, Aaqib Saeed, Jiayuan He, Daniel V. Smith, Flora
+  title: 'Beyond Just Vision: A Review on Self-Supervised Representation Learning
+    on Multimodal and Temporal Data'
+  authors: Shohreh Deldari, Hao Xue, Aaqib Saeed, Jiayuan He, Daniel V. Smith, Flora
     D. Salim
   url: https://doi.org/10.48550/arXiv.2206.02353
   venue: arXiv preprint arXiv:2206.02353
@@ -630,19 +1305,16 @@
   date: 2022-07-31
 - paper_id: 6c75bb643315633f2356fedb50750e852c8dec61
   title: Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention
-  authors:
-    Wei Shao, Zhiling Jin, Shuo Wang, Yu Kang, Xiao Xiao, H. Menouar, Zhaofeng
+  authors: Wei Shao, Zhiling Jin, Shuo Wang, Yu Kang, Xiao Xiao, H. Menouar, Zhaofeng
     Zhang, Junshan Zhang, Flora D. Salim
   url: https://doi.org/10.24963/ijcai.2022/309
   venue: International Joint Conference on Artificial Intelligence
   image_url: images/publications/long-term-spatio-temporal-forecasting-via-dynamic-multiple-graph-attention.png
   date: 2022-04-23
 - paper_id: 737fc34dcff9452a272a31365e269963906a899d
-  title:
-    "Analysing Donors' Behaviour in Non-profit Organisations for Disaster Resilience:
-    The 2019-2020 Australian Bushfires Case Study"
-  authors:
-    Dilini Sewwandi Rajapaksha, Kacper Sokol, J. Chan, Flora D. Salim, Mukesh
+  title: 'Analysing Donors'' Behaviour in Non-profit Organisations for Disaster Resilience:
+    The 2019-2020 Australian Bushfires Case Study'
+  authors: Dilini Sewwandi Rajapaksha, Kacper Sokol, J. Chan, Flora D. Salim, Mukesh
     Prasad, Mahendra Samarawickrama
   url: https://doi.org/10.48550/arXiv.2210.09034
   venue: arXiv preprint arXiv:2210.09034
@@ -656,22 +1328,18 @@
   image_url: images/publications/detecting-change-intervals-with-isolation-distributional-kernel.png
   date: 2022-12-30
 - paper_id: 8d7234f65e8188d6925216c6c29c200fcb36e77d
-  title:
-    Integrated Convolutional and Recurrent Neural Networks for Health Risk Prediction
+  title: Integrated Convolutional and Recurrent Neural Networks for Health Risk Prediction
     using Patient Journey Data with Many Missing Values
-  authors:
-    Yuxi Liu, S. Qin, Antonio Jimeno Yepes, Wei Shao, Zhenhao Zhang, Flora
+  authors: Yuxi Liu, S. Qin, Antonio Jimeno Yepes, Wei Shao, Zhenhao Zhang, Flora
     D. Salim
   url: https://doi.org/10.1109/BIBM55620.2022.9995048
   venue: IEEE International Conference on Bioinformatics and Biomedicine
   image_url: images/publications/integrated-convolutional-and-recurrent-neural-networks-for-health-risk-prediction-using-patient-journey-data-with-many-missing-values.png
   date: 2022-11-11
 - paper_id: b253a506d8f4376d49ccee00d15ceefe9b54c7b8
-  title:
-    "Imagining Future Digital Assistants at Work: A Study of Task Management
-    Needs"
-  authors:
-    Yonchanok Khaokaew, I. Holcombe-James, M. Rahaman, J. Liono, Johanne R.
+  title: 'Imagining Future Digital Assistants at Work: A Study of Task Management
+    Needs'
+  authors: Yonchanok Khaokaew, I. Holcombe-James, M. Rahaman, J. Liono, Johanne R.
     Trippas, Damiano Spina, N. Belkin, P. Bailey, Paul N. Bennett, Yongli Ren, M.
     Sanderson, Falk Scholer, Ryen W. White, Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2208.03443
@@ -679,13 +1347,11 @@
   image_url: images/publications/imagining-future-digital-assistants-at-work-a-study-of-task-management-needs.png
   date: 2022-08-01
 - paper_id: b61861d26c34bc02d8ad490110ac548a752865a6
-  title:
-    Modeling long-term dependencies and short-term correlations in patient journey
+  title: Modeling long-term dependencies and short-term correlations in patient journey
     data with temporal attention networks for health prediction
   authors: Yuxi Liu, Zhenhao Zhang, Antonio Jimeno Yepes, Flora D. Salim
   url: https://doi.org/10.1145/3535508.3545535
-  venue:
-    ACM International Conference on Bioinformatics, Computational Biology and
+  venue: ACM International Conference on Bioinformatics, Computational Biology and
     Biomedicine
   image_url: images/publications/modeling-long-term-dependencies-and-short-term-correlations-in-patient-journey-data-with-temporal-attention-networks-for-health-prediction.png
   date: 2022-07-13
@@ -697,11 +1363,9 @@
   image_url: images/publications/leveraging-language-foundation-models-for-human-mobility-forecasting.png
   date: 2022-09-11
 - paper_id: deed73e9f3bba1cfc7040d37cb1e045ae918b6b0
-  title:
-    How Robust is your Fair Model? Exploring the Robustness of Diverse Fairness
+  title: How Robust is your Fair Model? Exploring the Robustness of Diverse Fairness
     Strategies
-  authors:
-    E. Small, Wei Shao, Zeliang Zhang, Peihan Liu, Jeffrey Chan, Kacper Sokol,
+  authors: E. Small, Wei Shao, Zeliang Zhang, Peihan Liu, Jeffrey Chan, Kacper Sokol,
     Flora D. Salim
   url: https://doi.org/10.48550/arXiv.2207.04581
   venue: arXiv preprint arXiv:2207.04581
@@ -715,7 +1379,7 @@
   image_url: images/publications/measuring-disentangled-generative-spatio-temporal-representation.png
   date: 2022-02-10
 - paper_id: 507ececcdd37f4656d2cb56a4bad223a86b904a2
-  title: "GCCN: Global Context Convolutional Network"
+  title: 'GCCN: Global Context Convolutional Network'
   authors: Ali Hamdi, Flora D. Salim, D. Kim
   url: https://arxiv.org/abs/2110.11664
   venue: arXiv preprint arXiv:2110.11664
@@ -743,8 +1407,7 @@
   image_url: images/publications/evolutionary-ensemble-learning-for-multivariate-time-series-prediction.png
   date: 2021-08-22
 - paper_id: 9241e30f7eeb19d34dc1c668d75605aff3f7a73b
-  title:
-    Understanding occupants’ behaviour, engagement, emotion, and comfort indoors
+  title: Understanding occupants’ behaviour, engagement, emotion, and comfort indoors
     with heterogeneous sensors and wearables
   authors: Nan Gao, M. Marschall, J. Burry, Simon C Watkins, Flora D. Salim
   url: https://doi.org/10.1038/s41597-022-01347-w
@@ -752,8 +1415,7 @@
   image_url: images/publications/understanding-occupants-behaviour-engagement-emotion-and-comfort-indoors-with-heterogeneous-sensors-and-wearables.png
   date: 2021-05-14
 - paper_id: a433e7b93d0d877e8fee0b016f9f819caa65495e
-  title:
-    Predicting Flight Delay with Spatio-Temporal Trajectory Convolutional Network
+  title: Predicting Flight Delay with Spatio-Temporal Trajectory Convolutional Network
     and Airport Situational Awareness Map
   authors: Wei Shao, Arian Prabowo, Sichen Zhao, Piotr Koniusz, Flora D. Salim
   url: https://doi.org/10.1016/j.neucom.2021.04.136
@@ -761,9 +1423,8 @@
   image_url: images/publications/predicting-flight-delay-with-spatio-temporal-trajectory-convolutional-network-and-airport-situational-awareness-map.png
   date: 2021-05-19
 - paper_id: a9629aef7d60cff8088ecbbcb37bad54a75cac18
-  title:
-    "PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous
-    Time-Series"
+  title: 'PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous
+    Time-Series'
   authors: Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim
   url: https://doi.org/10.1109/ICDM51629.2021.00109
   venue: Industrial Conference on Data Mining
@@ -777,9 +1438,8 @@
   image_url: images/publications/translating-human-mobility-forecasting-through-natural-language-generation.png
   date: 2021-12-13
 - paper_id: ae5a9e904df4b73997da1dd36080a3430f880afe
-  title:
-    "Investigating the Reliability of Self-report Data in the Wild: The Quest
-    for Ground Truth"
+  title: 'Investigating the Reliability of Self-report Data in the Wild: The Quest
+    for Ground Truth'
   authors: Nan Gao, Mohammad Saiedur Rahaman, W. Shao, Flora D. Salim
   url: https://doi.org/10.1145/3460418.3479338
   venue: UbiComp/ISWC Adjunct
@@ -800,33 +1460,30 @@
   image_url: images/publications/signature-graph-networks.png
   date: 2021-10-22
 - paper_id: d5c27ee7ef055b02e015d71f3d5e712937ab51cc
-  title: "Spatiotemporal data mining: a survey on challenges and open problems"
-  authors:
-    Ali Hamdi, K. Shaban, A. Erradi, Amr Mohamed, Shakila Khan Rumi, Flora
+  title: 'Spatiotemporal data mining: a survey on challenges and open problems'
+  authors: Ali Hamdi, K. Shaban, A. Erradi, Amr Mohamed, Shakila Khan Rumi, Flora
     D. Salim
   url: https://doi.org/10.1007/s10462-021-09994-y
   venue: Artificial Intelligence Review
   image_url: images/publications/spatiotemporal-data-mining-a-survey-on-challenges-and-open-problems.png
   date: 2021-03-31
 - paper_id: e15aa41b62acc689bd65b069209d6255975512f0
-  title: "CoSEM: Contextual and Semantic Embedding for App Usage Prediction"
+  title: 'CoSEM: Contextual and Semantic Embedding for App Usage Prediction'
   authors: Yonchanok Khaokaew, M. Rahaman, Ryen W. White, Flora D. Salim
   url: https://doi.org/10.1145/3459637.3482076
   venue: International Conference on Information and Knowledge Management
   image_url: images/publications/cosem-contextual-and-semantic-embedding-for-app-usage-prediction.png
   date: 2021-08-26
 - paper_id: 3ee3794b25304f21d364b7389d91a37c989a35d5
-  title: "Generative Adversarial Networks for Spatio-temporal Data: A Survey"
-  authors:
-    Nan Gao, Hao Xue, Wei Shao, Sichen Zhao, K. K. Qin, Arian Prabowo, M. Rahaman,
+  title: 'Generative Adversarial Networks for Spatio-temporal Data: A Survey'
+  authors: Nan Gao, Hao Xue, Wei Shao, Sichen Zhao, K. K. Qin, Arian Prabowo, M. Rahaman,
     Flora D. Salim
   url: https://doi.org/10.1145/3474838
   venue: ACM Transactions on Intelligent Systems and Technology
   image_url: images/publications/generative-adversarial-networks-for-spatio-temporal-data-a-survey.png
   date: 2020-08-18
 - paper_id: 5b1c9ceaba892b80c14a206e6cdabb6a5ab05d8c
-  title:
-    Modelling Memory for Individual Re-identification in Decentralised Mobile
+  title: Modelling Memory for Individual Re-identification in Decentralised Mobile
     Contact Tracing Applications
   authors: L. Bedogni, Shakila Khan Rumi, Flora D. Salim
   url: https://doi.org/10.1145/3448088
@@ -841,26 +1498,23 @@
   image_url: images/publications/tool-chain-for-supporting-privacy-risk-assessments.png
   date: 2020-11-13
 - paper_id: a7dd45cffd6bd29583ec5a50dd3c22fb9c7592da
-  title:
-    "FADACS: A Few-Shot Adversarial Domain Adaptation Architecture for Context-Aware
-    Parking Availability Sensing"
-  authors:
-    Wei Shao, Sichen Zhao, Zhen Zhang, Shiyu Wang, M. Rahaman, A. Song, Flora
+  title: 'FADACS: A Few-Shot Adversarial Domain Adaptation Architecture for Context-Aware
+    Parking Availability Sensing'
+  authors: Wei Shao, Sichen Zhao, Zhen Zhang, Shiyu Wang, M. Rahaman, A. Song, Flora
     D. Salim
   url: https://doi.org/10.1109/PERCOM50583.2021.9439123
   venue: Annual IEEE International Conference on Pervasive Computing and Communications
   image_url: images/publications/fadacs-a-few-shot-adversarial-domain-adaptation-architecture-for-context-aware-parking-availability-sensing.png
   date: 2020-07-13
 - paper_id: bdfe635651ae8344446a12a0764aeb1dd612f2a6
-  title: "G-CREWE: Graph CompREssion With Embedding for Network Alignment"
+  title: 'G-CREWE: Graph CompREssion With Embedding for Network Alignment'
   authors: K. K. Qin, Flora D. Salim, Yongli Ren, Wei Shao, Mark Heimann, Danai Koutra
   url: https://doi.org/10.1145/3340531.3411924
   venue: International Conference on Information and Knowledge Management
   image_url: images/publications/g-crewe-graph-compression-with-embedding-for-network-alignment.png
   date: 2020-07-30
 - paper_id: c740d1e09089cb1752137e843347401ec7c10c58
-  title:
-    Joint Modelling of Cyber Activities and Physical Context to Improve Prediction
+  title: Joint Modelling of Cyber Activities and Physical Context to Improve Prediction
     of Visitor Behaviors
   authors: Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, M. Tomko, M. Sanderson
   url: https://doi.org/10.1145/3393692
@@ -868,7 +1522,7 @@
   image_url: images/publications/joint-modelling-of-cyber-activities-and-physical-context-to-improve-prediction-of-visitor-behaviors.png
   date: 2020-08-13
 - paper_id: c899e7a7ff5fdab6a79d28493d33bee0886c290b
-  title: "TERMCast: Temporal Relation Modeling for Effective Urban Flow Forecasting"
+  title: 'TERMCast: Temporal Relation Modeling for Effective Urban Flow Forecasting'
   authors: Hao Xue, Flora D. Salim
   url: https://doi.org/10.1007/978-3-030-75762-5_58
   venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
@@ -882,7 +1536,7 @@
   image_url: images/publications/espresso.png
   date: 2020-07-24
 - paper_id: dbbb7a2145b2a8f964276f24897dce1ff1f9899e
-  title: "DroTrack: High-speed Drone-based Object Tracking Under Uncertainty"
+  title: 'DroTrack: High-speed Drone-based Object Tracking Under Uncertainty'
   authors: Ali Hamdi, Flora D. Salim, D. Kim
   url: https://doi.org/10.1109/FUZZ48607.2020.9177571
   venue: IEEE International Conference on Fuzzy Systems
@@ -903,8 +1557,7 @@
   image_url: images/publications/crime-rate-prediction-with-region-risk-and-movement-patterns.png
   date: 2019-07-25
 - paper_id: 4baec6c2bef6e0426e66b6e6cd078f09734a8cc7
-  title:
-    Approximating Optimisation Solutions for Travelling Officer Problem with
+  title: Approximating Optimisation Solutions for Travelling Officer Problem with
     Customised Deep Learning Network
   authors: Wei Shao, Flora D. Salim, Jeffrey Chan, S. Morrison, Fabio Zambetta
   url: https://arxiv.org/abs/1903.03348
@@ -912,8 +1565,7 @@
   image_url: images/publications/approximating-optimisation-solutions-for-travelling-officer-problem-with-customised-deep-learning-network.png
   date: 2019-03-08
 - paper_id: 557d6b6412ac93a59f73bec7ae501a8582cf5373
-  title:
-    Solving multiple travelling officers problem with population-based optimization
+  title: Solving multiple travelling officers problem with population-based optimization
     algorithms
   authors: K. K. Qin, Wei Shao, Yongli Ren, Jeffrey Chan, Flora D. Salim
   url: https://doi.org/10.1007/s00521-019-04237-2
@@ -928,16 +1580,15 @@
   image_url: images/publications/predicting-personality-traits-from-physical-activity-intensity.png
   date: 2019-06-19
 - paper_id: 57c4c3cfb7b38bf06e241f747b509e995cb1d39b
-  title:
-    "OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
-    Awareness"
+  title: 'OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
+    Awareness'
   authors: Wei Shao, Flora D. Salim, Jeffrey Chan, Kai Qin, Jiaman Ma, Bradley Feest
   url: https://doi.org/10.1109/PERCOM.2019.8767400
   venue: Annual IEEE International Conference on Pervasive Computing and Communications
   image_url: images/publications/onlineairtrajclus-an-online-aircraft-trajectory-clustering-for-tarmac-situation-awareness.png
   date: 2019-03-01
 - paper_id: 9670cacb1bf4a79ec1eae437da24df2a86c0a6af
-  title: "COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference"
+  title: 'COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference'
   authors: Arian Prabowo, Piotr Koniusz, Wei Shao, Flora D. Salim
   url: https://doi.org/10.1145/3360322.3360853
   venue: International Conference on Systems for Energy-Efficient Built Environments
@@ -945,8 +1596,7 @@
   date: 2019-09-24
 - paper_id: a1a2878871ed20c725d1e78ae18a7f0affc2d824
   title: Learning About Work Tasks to Inform Intelligent Assistant Design
-  authors:
-    Johanne R. Trippas, Damiano Spina, Falk Scholer, Ahmed Hassan Awadallah,
+  authors: Johanne R. Trippas, Damiano Spina, Falk Scholer, Ahmed Hassan Awadallah,
     P. Bailey, Paul N. Bennett, Ryen W. White, J. Liono, Yongli Ren, Flora D. Salim,
     M. Sanderson
   url: https://doi.org/10.1145/3295750.3298934
@@ -954,20 +1604,17 @@
   image_url: images/publications/learning-about-work-tasks-to-inform-intelligent-assistant-design.png
   date: 2019-03-08
 - paper_id: aa30901b02e9923851d507e1f2726bcf9ef1b068
-  title:
-    "OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based
-    Workplace"
-  authors:
-    M. Rahaman, Harsh Pare, J. Liono, Flora D. Salim, Yongli Ren, Jeffrey Chan,
+  title: 'OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based
+    Workplace'
+  authors: M. Rahaman, Harsh Pare, J. Liono, Flora D. Salim, Yongli Ren, Jeffrey Chan,
     Shaw Kudo, T. Rawling, Alexandra Sinickas
   url: https://doi.org/10.1109/PERCOMW.2019.8730762
-  venue:
-    2019 IEEE International Conference on Pervasive Computing and Communications
+  venue: 2019 IEEE International Conference on Pervasive Computing and Communications
     Workshops (PerCom Workshops)
   image_url: images/publications/occuspace-towards-a-robust-occupancy-prediction-system-for-activity-based-workplace.png
   date: 2019-03-01
 - paper_id: b0d11c5f15c243aef126fc40f37608a17f051398
-  title: "TIARA: technology integrated apnea respiration analyser"
+  title: 'TIARA: technology integrated apnea respiration analyser'
   authors: A. Forkan, Flora D. Salim, Russell Conduit, P. Beckett, S. Robinson
   url: https://doi.org/10.1145/3341163.3347729
   venue: Ubiquitous Computing
@@ -982,30 +1629,25 @@
   date: 2019-03-01
 - paper_id: e7d5dfd700dde9c64d12b902738dc3ee80f30da0
   title: Flight Delay Prediction using Airport Situational Awareness Map
-  authors:
-    Wei Shao, Arian Prabowo, Sichen Zhao, Siyu Tan, Piotr Koniusz, Jeffrey
+  authors: Wei Shao, Arian Prabowo, Sichen Zhao, Siyu Tan, Piotr Koniusz, Jeffrey
     Chan, Xinhong Hei, Bradley Feest, Flora D. Salim
   url: https://doi.org/10.1145/3347146.3359079
   venue: SIGSPATIAL/GIS
   image_url: images/publications/flight-delay-prediction-using-airport-situational-awareness-map.png
   date: 2019-11-05
 - paper_id: 183ade3c37dd9bbc93139f5da6564171b65a6cf3
-  title:
-    "SCONE-GAN: Semantic Contrastive learning-based Generative Adversarial Network
-    for an end-to-end image translation"
-  authors:
-    Iman Abbasnejad, Fabio Zambetta, F. Salim, Timothy Wiley, Jeffrey Chan,
+  title: 'SCONE-GAN: Semantic Contrastive learning-based Generative Adversarial Network
+    for an end-to-end image translation'
+  authors: Iman Abbasnejad, Fabio Zambetta, F. Salim, Timothy Wiley, Jeffrey Chan,
     Russell Gallagher, Ehsan Abbasnejad
   url: https://doi.org/10.1109/CVPRW59228.2023.00118
-  venue:
-    2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+  venue: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
     (CVPRW)
   image_url: images/publications/scone-gan-semantic-contrastive-learning-based-generative-adversarial-network-for-an-end-to-end-image-translation.png
   date: 2023-06-01
 - paper_id: 0aa2e19ee18513cbddcb32ed2fef97c1994318b1
-  title: "MoParkeR : Multi-objective Parking Recommendation"
-  authors:
-    M. Rahaman, Wei Shao, F. Salim, A. Turky, A. Song, Jeffrey Chan, Junliang
+  title: 'MoParkeR : Multi-objective Parking Recommendation'
+  authors: M. Rahaman, Wei Shao, F. Salim, A. Turky, A. Song, Jeffrey Chan, Junliang
     Jiang, D. Bradbrook
   url: https://doi.org/10.1145/3468791.3468810
   venue: International Conference on Statistical and Scientific Database Management
@@ -1013,17 +1655,15 @@
   date: 2021-06-10
 - paper_id: 1cc4dfc24c88146438fb199461bb0fcd7806c45e
   title: Toward Social Role-Based Interruptibility Management
-  authors:
-    Christoph Anderson, J. S. Heinisch, Shohreh Deldari, F. Salim, Sandra Ohly,
+  authors: Christoph Anderson, J. S. Heinisch, Shohreh Deldari, F. Salim, Sandra Ohly,
     Klaus David, V. Pejović
   url: https://doi.org/10.1109/MPRV.2022.3229905
   venue: IEEE pervasive computing
   image_url: images/publications/toward-social-role-based-interruptibility-management.png
   date: 2021-06-08
 - paper_id: a614eb8c01ef06c1731f76a70bf82b2c1c63e18c
-  title:
-    "MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility
-    Prediction"
+  title: 'MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility
+    Prediction'
   authors: Hao Xue, F. Salim, Yongli Ren, Nuria Oliver
   url: https://arxiv.org/abs/2110.01401
   venue: Neural Information Processing Systems
@@ -1037,19 +1677,16 @@
   image_url: images/publications/drone-as-a-service-composition-under-uncertainty.png
   date: 2021-03-11
 - paper_id: 22aa93de6214eb85e0d0811c74a05de761b45201
-  title:
-    "Intelligent Task Recognition: Towards Enabling Productivity Assistance in
-    Daily Life"
-  authors:
-    J. Liono, M. Rahaman, F. Salim, Yongli Ren, Damiano Spina, Falk Scholer,
+  title: 'Intelligent Task Recognition: Towards Enabling Productivity Assistance in
+    Daily Life'
+  authors: J. Liono, M. Rahaman, F. Salim, Yongli Ren, Damiano Spina, Falk Scholer,
     Johanne R. Trippas, M. Sanderson, Paul N. Bennett, Ryen W. White
   url: https://doi.org/10.1145/3372278.3390703
   venue: International Conference on Multimedia Retrieval
   image_url: images/publications/intelligent-task-recognition-towards-enabling-productivity-assistance-in-daily-life.png
   date: 2020-06-01
 - paper_id: 711d2045a7b1eae1dfc90b4f8c667f75b67a5ef9
-  title:
-    Multi-officer Routing for Patrolling High Risk Areas Jointly Learned from
+  title: Multi-officer Routing for Patrolling High Risk Areas Jointly Learned from
     Check-ins, Crime and Incident Response Data
   authors: Shakila Khan Rumi, K. K. Qin, F. Salim
   url: https://arxiv.org/abs/2008.00113
@@ -1057,8 +1694,7 @@
   image_url: images/publications/multi-officer-routing-for-patrolling-high-risk-areas-jointly-learned-from-check-ins-crime-and-incident-response-data.png
   date: 2020-07-31
 - paper_id: 854c93fdb747f1ed4905d0211e0419e91db27b45
-  title:
-    Time Series Change Point Detection with Self-Supervised Contrastive Predictive
+  title: Time Series Change Point Detection with Self-Supervised Contrastive Predictive
     Coding
   authors: Shohreh Deldari, Daniel V. Smith, Hao Xue, F. Salim
   url: https://doi.org/10.1145/3442381.3449903
@@ -1080,8 +1716,7 @@
   image_url: images/publications/n-gage.png
   date: 2020-07-09
 - paper_id: a806f4a4772a8afc183c44c5aa49c6419534708b
-  title:
-    Approximating Optimisation Solutions for the Travelling Officer Problem with
+  title: Approximating Optimisation Solutions for the Travelling Officer Problem with
     Neural Networks
   authors: Wei Shao, Jeffrey Chan, F. Salim
   url: https://doi.org/10.1109/IJCNN48605.2020.9207041
@@ -1089,9 +1724,8 @@
   image_url: images/publications/approximating-optimisation-solutions-for-the-travelling-officer-problem-with-neural-networks.png
   date: 2020-07-01
 - paper_id: aa0c05b09ddab96ed332d8275fe3d9d51b5e42d4
-  title:
-    "TRAILER: Transformer-based Time-wise Long Term Relation Modeling for Citywide
-    Traffic Flow Prediction"
+  title: 'TRAILER: Transformer-based Time-wise Long Term Relation Modeling for Citywide
+    Traffic Flow Prediction'
   authors: Hao Xue, F. Salim
   url: https://dblp.org/rec/journals/corr/abs-2011-05554
   venue: arXiv.org
@@ -1105,8 +1739,7 @@
   image_url: images/publications/deep-learning-assisted-memetic-algorithm-for-shortest-route-problems.png
   date: 2020-05-25
 - paper_id: de2c4a6d143d1a9765a3a38f881254fea0b2dba2
-  title:
-    Exploring the Impact of COVID-19 Lockdown on Social Roles and Emotions while
+  title: Exploring the Impact of COVID-19 Lockdown on Social Roles and Emotions while
     Working from Home
   authors: Samuel C. Nolan, Shakila Khan Rumi, Christoph Anderson, K. David, F. Salim
   url: https://arxiv.org/abs/2007.12353
@@ -1114,22 +1747,19 @@
   image_url: images/publications/exploring-the-impact-of-covid-19-lockdown-on-social-roles-and-emotions-while-working-from-home.png
   date: 2020-07-24
 - paper_id: 1dd1fa8eca97f65de0db6dd8d248fd40737fed8f
-  title:
-    "DeepObfuscator: Obfuscating Intermediate Representations with Privacy-Preserving
-    Adversarial Learning on Smartphones"
+  title: 'DeepObfuscator: Obfuscating Intermediate Representations with Privacy-Preserving
+    Adversarial Learning on Smartphones'
   authors: Ang Li, Jiayi Guo, Huanrui Yang, F. Salim, Yiran Chen
   url: https://doi.org/10.1145/3450268.3453519
   venue: International Conference on Internet-of-Things Design and Implementation
   image_url: images/publications/deepobfuscator-obfuscating-intermediate-representations-with-privacy-preserving-adversarial-learning-on-smartphones.png
   date: 2019-09-09
 - paper_id: 2b00b9b60df41caedbb78337869c3fea79110586
-  title:
-    Deep-Learning-Aided Three-Dimensional Direct Laser Writing of the Complete
+  title: Deep-Learning-Aided Three-Dimensional Direct Laser Writing of the Complete
     Connectome of Mushroom Body from an Insect Brain
   authors: Haoyi Yu, Wei Shao, Qiming Zhang, F. Salim, M. Gu
   url: https://doi.org/10.1109/CLEOE-EQEC.2019.8871466
-  venue:
-    2019 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics
+  venue: 2019 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics
     Conference (CLEO/Europe-EQEC)
   image_url: images/publications/deep-learning-aided-three-dimensional-direct-laser-writing-of-the-complete-connectome-of-mushroom-body-from-an-insect-brain.png
   date: 2019-06-01
@@ -1169,26 +1799,23 @@
   image_url: images/publications/navigating-multiple-augmented-reality-overlays-through-occlusion-based-triggers.png
   date: 2014-11-25
 - paper_id: e54066849df569c22ebb1f688ecaf943df54d2be
-  title: "emoTicSpace: when the built environments get emotional..."
+  title: 'emoTicSpace: when the built environments get emotional...'
   authors: F. Salim, Chin Koi Khoo
   url: https://doi.org/10.1145/2494091.2499224
   venue: Ubiquitous Computing
   image_url: images/publications/emoticspace-when-the-built-environments-get-emotional.png
   date: 2013-09-08
 - paper_id: 49505a23e59838092b2147e9920d8dd01c900a53
-  title:
-    "Towards Adaptive Mobile Mashups: Opportunities for Designing Effective Persuasive
-    Technology on the Road"
+  title: 'Towards Adaptive Mobile Mashups: Opportunities for Designing Effective Persuasive
+    Technology on the Road'
   authors: F. Salim
   url: https://doi.org/10.1109/WAINA.2010.32
-  venue:
-    2010 IEEE 24th International Conference on Advanced Information Networking
+  venue: 2010 IEEE 24th International Conference on Advanced Information Networking
     and Applications Workshops
   image_url: images/publications/towards-adaptive-mobile-mashups-opportunities-for-designing-effective-persuasive-technology-on-the-road.png
   date: 2010-04-20
 - paper_id: 28a7d7ed987e87a422ac5275b9fd052b32959532
-  title:
-    Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity
+  title: Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity
     Consumption Prediction
   authors: Hui Song, A. K. Qin, Flora D. Salim
   url: https://doi.org/10.1109/IJCNN.2018.8489261
@@ -1196,41 +1823,36 @@
   image_url: images/publications/evolutionary-multi-objective-ensemble-learning-for-multivariate-electricity-consumption-prediction.png
   date: 2018-07-01
 - paper_id: 5370095cb4e7f0c42d2d987f0919827e4228a9fb
-  title:
-    "Traveling Officer Problem: Managing Car Parking Violations Efficiently Using
-    Sensor Data"
+  title: 'Traveling Officer Problem: Managing Car Parking Violations Efficiently Using
+    Sensor Data'
   authors: Wei Shao, Flora D. Salim, Tao Gu, N. Dinh, Jeffrey Chan
   url: https://doi.org/10.1109/JIOT.2017.2759218
   venue: IEEE Internet of Things Journal
   image_url: images/publications/traveling-officer-problem-managing-car-parking-violations-efficiently-using-sensor-data.png
   date: 2018-04-01
 - paper_id: 56703075038d83b5816c2ca01310a8101c07385b
-  title: "CoAcT: A Framework for Context-Aware Trip Planning Using Active Transport"
+  title: 'CoAcT: A Framework for Context-Aware Trip Planning Using Active Transport'
   authors: M. Rahaman, M. Hamilton, Flora D. Salim
   url: https://doi.org/10.1109/PERCOMW.2018.8480351
-  venue:
-    2018 IEEE International Conference on Pervasive Computing and Communications
+  venue: 2018 IEEE International Conference on Pervasive Computing and Communications
     Workshops (PerCom Workshops)
   image_url: images/publications/coact-a-framework-for-context-aware-trip-planning-using-active-transport.png
   date: 2018-03-01
 - paper_id: 5e1983d2f2f69795a1347acdeef1c97c0c0d241d
-  title:
-    "BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth
-    Signals for Door Access"
+  title: 'BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth
+    Signals for Door Access'
   authors: Wei Shao, Thuong Nguyen, Kai Qin, M. Youssef, Flora D. Salim
   url: https://doi.org/10.1109/JIOT.2018.2868243
   venue: IEEE Internet of Things Journal
   image_url: images/publications/bledoorguard-a-device-free-person-identification-framework-using-bluetooth-signals-for-door-access.png
   date: 2018-09-03
 - paper_id: 66c997736bd7a9f4af154bcbed4b02c6de18a945
-  title:
-    Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily
+  title: Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily
     Life
   authors: J. Liono, Z. Abdallah, A. K. Qin, Flora D. Salim
   url: https://doi.org/10.1145/3286978.3287006
-  venue:
-    "International Conference on Mobile and Ubiquitous Systems: Networking and
-    Services"
+  venue: 'International Conference on Mobile and Ubiquitous Systems: Networking and
+    Services'
   image_url: images/publications/inferring-transportation-mode-and-human-activity-from-mobile-sensing-in-daily-life.png
   date: 2018-11-05
 - paper_id: 6c6ba5512a2ffb6525789ea56dc27d41b8f112d3
@@ -1241,8 +1863,7 @@
   image_url: images/publications/what-will-you-do-for-the-rest-of-the-day.png
   date: 2018-12-27
 - paper_id: 7785704853057584412c0141bfae4f7f01cb79d2
-  title:
-    Crowd-enabled Processing of Trustworthy, Privacy-Enhanced and Personalised
+  title: Crowd-enabled Processing of Trustworthy, Privacy-Enhanced and Personalised
     Location Based Services with Quality Guarantee
   authors: T. Hashem, Rubaba Hasan, Flora D. Salim, Mehnaz Tabassum Mahin
   url: https://doi.org/10.1145/3287045
@@ -1250,25 +1871,21 @@
   image_url: images/publications/crowd-enabled-processing-of-trustworthy-privacy-enhanced-and-personalised-location-based-services-with-quality-guarantee.png
   date: 2018-12-27
 - paper_id: 79925dc07b8b518af78256cfca432a3709637cb9
-  title:
-    Shopping intent recognition and location prediction from cyber-physical activities
+  title: Shopping intent recognition and location prediction from cyber-physical activities
     via wi-fi logs
-  authors:
-    Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko,
+  authors: Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko,
     M. Sanderson
   url: https://doi.org/10.1145/3276774.3276786
   venue: International Conference on Systems for Energy-Efficient Built Environments
   image_url: images/publications/shopping-intent-recognition-and-location-prediction-from-cyber-physical-activities-via-wi-fi-logs.png
   date: 2018-11-07
 - paper_id: 7af0e1b605a732055c78af8c1f6375381c64957e
-  title: "ProMETheus: An Intelligent Mobile Voice Meeting Minutes System"
-  authors:
-    Hui Liu, Xin Wang, Yuheng Wei, Wei Shao, J. Liono, Flora D. Salim, Bo Deng,
+  title: 'ProMETheus: An Intelligent Mobile Voice Meeting Minutes System'
+  authors: Hui Liu, Xin Wang, Yuheng Wei, Wei Shao, J. Liono, Flora D. Salim, Bo Deng,
     Junzhao Du
   url: https://doi.org/10.1145/3286978.3286995
-  venue:
-    "International Conference on Mobile and Ubiquitous Systems: Networking and
-    Services"
+  venue: 'International Conference on Mobile and Ubiquitous Systems: Networking and
+    Services'
   image_url: images/publications/prometheus-an-intelligent-mobile-voice-meeting-minutes-system.png
   date: 2018-11-05
 - paper_id: 82d0c31482c07f679c6b3f21d31838b36fba90d3
@@ -1287,16 +1904,14 @@
   date: 2018-10-19
 - paper_id: a7dbaf1c2b16556f4c1c4ae85030755e291344ce
   title: Identifying In-App User Actions from Mobile Web Logs
-  authors:
-    B. Priyogi, M. Sanderson, Flora D. Salim, Jeffrey Chan, Martin Tomko, Yongli
+  authors: B. Priyogi, M. Sanderson, Flora D. Salim, Jeffrey Chan, Martin Tomko, Yongli
     Ren
   url: https://doi.org/10.1007/978-3-319-93037-4_24
   venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
   image_url: images/publications/identifying-in-app-user-actions-from-mobile-web-logs.png
   date: 2018-06-03
 - paper_id: a9d2c299572bd950ebce4aad27ab43ac5cbaaa79
-  title:
-    A Scalable Room Occupancy Prediction with Transferable Time Series Decomposition
+  title: A Scalable Room Occupancy Prediction with Transferable Time Series Decomposition
     of CO2 Sensor Data
   authors: I. A. Ang, M. Hamilton, Flora D. Salim
   url: https://doi.org/10.1145/3217214
@@ -1318,21 +1933,17 @@
   image_url: images/publications/theft-prediction-with-individual-risk-factor-of-visitors.png
   date: 2018-11-06
 - paper_id: d4732839b3f3607c3b704f9a40c20cb3b31e942e
-  title:
-    Predicting Citywide Passenger Demand via Reinforcement Learning from Spatio-Temporal
+  title: Predicting Citywide Passenger Demand via Reinforcement Learning from Spatio-Temporal
     Dynamics
-  authors:
-    Xiaodong Ning, Lina Yao, Xianzhi Wang, B. Benatallah, Flora D. Salim, P.
+  authors: Xiaodong Ning, Lina Yao, Xianzhi Wang, B. Benatallah, Flora D. Salim, P.
     D. Haghighi
   url: https://doi.org/10.1145/3286978.3286991
-  venue:
-    "International Conference on Mobile and Ubiquitous Systems: Networking and
-    Services"
+  venue: 'International Conference on Mobile and Ubiquitous Systems: Networking and
+    Services'
   image_url: images/publications/predicting-citywide-passenger-demand-via-reinforcement-learning-from-spatio-temporal-dynamics.png
   date: 2018-11-05
 - paper_id: d861b15eba9cfae30693d7d92abc759a6fe4ccb9
-  title:
-    Understanding the predictability of user demographics from cyber-physical-social
+  title: Understanding the predictability of user demographics from cyber-physical-social
     behaviours in indoor retail spaces
   authors: Yongli Ren, Martin Tomko, Flora D. Salim, Jeffrey Chan, M. Sanderson
   url: https://doi.org/10.1140/epjds/s13688-017-0128-2
@@ -1340,33 +1951,28 @@
   image_url: images/publications/understanding-the-predictability-of-user-demographics-from-cyber-physical-social-behaviours-in-indoor-retail-spaces.png
   date: 2018-01-03
 - paper_id: 09ae8b758574fa9b240114b8c29ad0a804b0a155
-  title: "Shrink: Distance preserving graph compression"
-  authors:
-    Amin Sadri, Flora D. Salim, Yongli Ren, Masoomeh Zameni, Jeffrey Chan,
+  title: 'Shrink: Distance preserving graph compression'
+  authors: Amin Sadri, Flora D. Salim, Yongli Ren, Masoomeh Zameni, Jeffrey Chan,
     T. Sellis
   url: https://doi.org/10.1016/j.is.2017.06.001
   venue: Information Systems
   image_url: images/publications/shrink-distance-preserving-graph-compression.png
   date: 2017-09-01
 - paper_id: 0ac893514cfd15b3263af269e4357f26def3a168
-  title:
-    "D-Log: A WiFi Log-based differential scheme for enhanced indoor localization
-    with single RSSI source and infrequent sampling rate"
-  authors:
-    Yongli Ren, Flora D. Salim, Martin Tomko, Y. Bai, Jeffrey Chan, K. K. Qin,
+  title: 'D-Log: A WiFi Log-based differential scheme for enhanced indoor localization
+    with single RSSI source and infrequent sampling rate'
+  authors: Yongli Ren, Flora D. Salim, Martin Tomko, Y. Bai, Jeffrey Chan, K. K. Qin,
     M. Sanderson
   url: https://doi.org/10.1016/j.pmcj.2016.09.018
   venue: Pervasive and Mobile Computing
   image_url: images/publications/d-log-a-wifi-log-based-differential-scheme-for-enhanced-indoor-localization-with-single-rssi-source-and-infrequent-sampling-rate.png
   date: 2017-06-01
 - paper_id: 28c157e1099d39d958f2cdf0d91aa4b0063cf5cc
-  title:
-    Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals
+  title: Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals
     in Door Access
   authors: Wei Shao, Flora D. Salim, Thuong Nguyen, M. Youssef
   url: https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2017.16
-  venue:
-    2017 IEEE International Conference on Internet of Things (iThings) and IEEE
+  venue: 2017 IEEE International Conference on Internet of Things (iThings) and IEEE
     Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social
     Computing (CPSCom) and IEEE Smart Data (SmartData)
   image_url: images/publications/who-opened-the-room-device-free-person-identification-using-bluetooth-signals-in-door-access.png
@@ -1382,14 +1988,12 @@
   title: Predicting the city foot traffic with pedestrian sensor data
   authors: Xianjing Wang, J. Liono, W. McIntosh, Flora D. Salim
   url: https://doi.org/10.1145/3144457.3152355
-  venue:
-    "International Conference on Mobile and Ubiquitous Systems: Networking and
-    Services"
+  venue: 'International Conference on Mobile and Ubiquitous Systems: Networking and
+    Services'
   image_url: images/publications/predicting-the-city-foot-traffic-with-pedestrian-sensor-data.png
   date: 2017-11-07
 - paper_id: 524252042ac1f61031998ace7e0405f19a8db03d
-  title:
-    Automated density-based clustering of spatial urban data for interactive
+  title: Automated density-based clustering of spatial urban data for interactive
     data exploration
   authors: Erica Rosalina, Flora D. Salim, T. Sellis
   url: https://doi.org/10.1109/INFCOMW.2017.8116392
@@ -1397,8 +2001,7 @@
   image_url: images/publications/automated-density-based-clustering-of-spatial-urban-data-for-interactive-data-exploration.png
   date: 2017-05-01
 - paper_id: 6bb8ef6b983114ac14acd4031b878cf479cf2723
-  title:
-    A Simultaneous Extraction of Context and Community from pervasive signals
+  title: A Simultaneous Extraction of Context and Community from pervasive signals
     using nested Dirichlet process
   authors: Nguyen Cong Thuong, Vu Nguyen, Flora D. Salim, D. V. Le, Dinh Q. Phung
   url: https://doi.org/10.1016/j.pmcj.2016.08.019
@@ -1406,14 +2009,14 @@
   image_url: images/publications/a-simultaneous-extraction-of-context-and-community-from-pervasive-signals-using-nested-dirichlet-process.png
   date: 2017-07-01
 - paper_id: 6e9d412099bc97fb84b8454fb93995bf28c17845
-  title: "CAPRA: A contour-based accessible path routing algorithm"
+  title: 'CAPRA: A contour-based accessible path routing algorithm'
   authors: M. Rahaman, Yi Mei, M. Hamilton, Flora D. Salim
   url: https://doi.org/10.1016/j.ins.2016.12.041
   venue: Information Sciences
   image_url: images/publications/capra-a-contour-based-accessible-path-routing-algorithm.png
   date: 2017-04-01
 - paper_id: 9f535fb98da609db6186fb344693688dab2a16fd
-  title: "CD-HOC: Indoor Human Occupancy Counting using Carbon Dioxide Sensor Data"
+  title: 'CD-HOC: Indoor Human Occupancy Counting using Carbon Dioxide Sensor Data'
   authors: I. A. Ang, Flora D. Salim, M. Hamilton
   url: https://arxiv.org/abs/1706.05286
   venue: arXiv preprint arXiv:1706.05286
@@ -1427,16 +2030,15 @@
   image_url: images/publications/queue-context-prediction-using-taxi-driver-knowledge.png
   date: 2017-12-04
 - paper_id: e64c329f728aecb8aa456641aff6705484358afa
-  title:
-    "DA-HOC: semi-supervised domain adaptation for room occupancy prediction
-    using CO2 sensor data"
+  title: 'DA-HOC: semi-supervised domain adaptation for room occupancy prediction
+    using CO2 sensor data'
   authors: I. A. Ang, Flora D. Salim, M. Hamilton
   url: https://doi.org/10.1145/3137133.3137146
   venue: International Conference on Systems for Energy-Efficient Built Environments
   image_url: images/publications/da-hoc-semi-supervised-domain-adaptation-for-room-occupancy-prediction-using-co2-sensor-data.png
   date: 2017-11-08
 - paper_id: 0368bba6644e4212fc0f2f9555bbcda2de1d0db7
-  title: "SECC: Simultaneous extraction of context and community from pervasive signals"
+  title: 'SECC: Simultaneous extraction of context and community from pervasive signals'
   authors: Nguyen Cong Thuong, Vu Nguyen, Flora D. Salim, Dinh Q. Phung
   url: https://doi.org/10.1109/PERCOM.2016.7456501
   venue: Annual IEEE International Conference on Pervasive Computing and Communications
@@ -1450,9 +2052,8 @@
   image_url: images/publications/clustering-big-spatiotemporal-interval-data.png
   date: 2016-09-01
 - paper_id: 6429f77c3fbb87e4a8571683baafce4e2c47b315
-  title:
-    "Measuring passers-by engagement with AmPost: a printed interactive audio
-    poster"
+  title: 'Measuring passers-by engagement with AmPost: a printed interactive audio
+    poster'
   authors: J. Liono, A. Valentine, Chin Koi Khoo, Flora D. Salim
   url: https://doi.org/10.1145/3010915.3010998
   venue: Australasian Computer-Human Interaction Conference
@@ -1462,34 +2063,29 @@
   title: Human occupancy recognition with multivariate ambient sensors
   authors: I. A. Ang, Flora D. Salim, M. Hamilton
   url: https://doi.org/10.1109/PERCOMW.2016.7457116
-  venue:
-    2016 IEEE International Conference on Pervasive Computing and Communication
+  venue: 2016 IEEE International Conference on Pervasive Computing and Communication
     Workshops (PerCom Workshops)
   image_url: images/publications/human-occupancy-recognition-with-multivariate-ambient-sensors.png
   date: 2016-03-14
 - paper_id: 92997c55c5cc048fc4fa4aba0b2038c5a3da069d
-  title:
-    Optimal time window for temporal segmentation of sensor streams in multi-activity
+  title: Optimal time window for temporal segmentation of sensor streams in multi-activity
     recognition
   authors: J. Liono, A. K. Qin, Flora D. Salim
   url: https://doi.org/10.1145/2994374.2994388
-  venue:
-    "International Conference on Mobile and Ubiquitous Systems: Networking and
-    Services"
+  venue: 'International Conference on Mobile and Ubiquitous Systems: Networking and
+    Services'
   image_url: images/publications/optimal-time-window-for-temporal-segmentation-of-sensor-streams-in-multi-activity-recognition.png
   date: 2016-11-28
 - paper_id: 92ba1ac4d09af360d18778094f23bc72c613e91c
-  title: "AutoJammin': Designing Progression in Traffic and Music"
+  title: 'AutoJammin'': Designing Progression in Traffic and Music'
   authors: S. Krome, J. Liono, Flora D. Salim, S. Greuter, Fabius Steinberger
   url: https://doi.org/10.1145/3004323.3004325
-  venue:
-    International Conference on Automotive User Interfaces and Interactive Vehicular
+  venue: International Conference on Automotive User Interfaces and Interactive Vehicular
     Applications
   image_url: images/publications/autojammin-designing-progression-in-traffic-and-music.png
   date: 2016-10-24
 - paper_id: 98c4881148b265b3a2fbc578c83b95fd8f7e1711
-  title:
-    Efficient meta-heuristics for the Multi-Objective Time-Dependent Orienteering
+  title: Efficient meta-heuristics for the Multi-Objective Time-Dependent Orienteering
     Problem
   authors: Yi Mei, Flora D. Salim, Xiaodong Li
   url: https://doi.org/10.1016/j.ejor.2016.03.053
@@ -1497,7 +2093,7 @@
   image_url: images/publications/efficient-meta-heuristics-for-the-multi-objective-time-dependent-orienteering-problem.png
   date: 2016-10-16
 - paper_id: dea5e1f3dfbf88b36915efce4980ac1f6bc20677
-  title: "UTE: A Ubiquitous Data Exploration Platform for Mobile Sensing Experiments"
+  title: 'UTE: A Ubiquitous Data Exploration Platform for Mobile Sensing Experiments'
   authors: J. Liono, Nguyen Cong Thuong, P. Jayaraman, Flora D. Salim
   url: https://doi.org/10.1109/MDM.2016.61
   venue: International Conference on Mobile Data Management
@@ -1511,11 +2107,9 @@
   image_url: images/publications/heuristic-evolution-with-genetic-programming-for-traveling-thief-problem.png
   date: 2015-05-25
 - paper_id: 46e267e7178545d375ad76a15a47d75312475125
-  title:
-    An Energy-Efficient Inter-organizational Wireless Sensor Data Collection
+  title: An Energy-Efficient Inter-organizational Wireless Sensor Data Collection
     Framework
-  authors:
-    Chii Chang, S. Loke, Hai Dong, Flora D. Salim, S. Srirama, M. Liyanage,
+  authors: Chii Chang, S. Loke, Hai Dong, Flora D. Salim, S. Srirama, M. Liyanage,
     Sea Ling
   url: https://doi.org/10.1109/ICWS.2015.90
   venue: IEEE International Conference on Web Services
@@ -1529,19 +2123,16 @@
   image_url: images/publications/analyzing-web-behavior-in-indoor-retail-spaces.png
   date: 2015-06-18
 - paper_id: 386354138512301a61c7b61ae4c1bb34292408c3
-  title:
-    "EnviS Tag, Scan, View: A Location-Based App for Visualizing Spatio-temporal
-    Data from Sensor Cloud"
-  authors:
-    Flora D. Salim, Mars Dela Pena, Yu. V. Petrov, N. Sony, Bo Wu, Abdelsalam
+  title: 'EnviS Tag, Scan, View: A Location-Based App for Visualizing Spatio-temporal
+    Data from Sensor Cloud'
+  authors: Flora D. Salim, Mars Dela Pena, Yu. V. Petrov, N. Sony, Bo Wu, Abdelsalam
     Ahmed Saad
   url: https://doi.org/10.1109/MDM.2014.47
   venue: 2014 IEEE 15th International Conference on Mobile Data Management
   image_url: images/publications/envis-tag-scan-view-a-location-based-app-for-visualizing-spatio-temporal-data-from-sensor-cloud.png
   date: 2014-07-14
 - paper_id: 6b7cb9747cfd7222fe09244998a899f491b1d912
-  title:
-    Design and evaluation of smart wearable undergarment for monitoring physiological
+  title: Design and evaluation of smart wearable undergarment for monitoring physiological
     extremes in firefighting
   authors: Flora D. Salim, Aaron Belbasis, D. Prohasky, S. Houshyar, F. Fuss
   url: https://doi.org/10.1145/2641248.2666716
@@ -1556,71 +2147,61 @@
   image_url: images/publications/phone-based-fall-detection-by-genetic-programming.png
   date: 2014-11-25
 - paper_id: ffe13caee0dbce6c7720992bef73c3bc03b5d17d
-  title:
-    Visualization of wireless sensor networks using ZigBee's Received Signal
+  title: Visualization of wireless sensor networks using ZigBee's Received Signal
     Strength Indicator (RSSI) for indoor localization and tracking
-  authors:
-    Flora D. Salim, Mani Williams, N. Sony, Mars Dela Pena, Yu. V. Petrov,
+  authors: Flora D. Salim, Mani Williams, N. Sony, Mars Dela Pena, Yu. V. Petrov,
     Abdelsalam Ahmed Saad, Bo Wu
   url: https://doi.org/10.1109/PerComW.2014.6815270
-  venue:
-    2014 IEEE International Conference on Pervasive Computing and Communication
+  venue: 2014 IEEE International Conference on Pervasive Computing and Communication
     Workshops (PERCOM WORKSHOPS)
   image_url: images/publications/visualization-of-wireless-sensor-networks-using-zigbee-s-received-signal-strength-indicator-rssi-for-indoor-localization-and-tracking.png
   date: 2014-03-24
 - paper_id: 1832096d89e02be0ec378d249509e884a89cba81
-  title:
-    "Lumina: a soft kinetic material for morphing architectural skins and organic
-    user interfaces"
+  title: 'Lumina: a soft kinetic material for morphing architectural skins and organic
+    user interfaces'
   authors: Chin Koi Khoo, Flora D. Salim
   url: https://doi.org/10.1145/2493432.2494263
   venue: Ubiquitous Computing
   image_url: images/publications/lumina-a-soft-kinetic-material-for-morphing-architectural-skins-and-organic-user-interfaces.png
   date: 2013-09-08
 - paper_id: 24104c3365e7cbdbb9564068090f87bea32f6e2c
-  title:
-    "Transafe: a crowdsourced mobile platform for crime and safety perception
-    management"
+  title: 'Transafe: a crowdsourced mobile platform for crime and safety perception
+    management'
   authors: M. Hamilton, Flora D. Salim, E. Cheng, S. Choy
   url: https://doi.org/10.1145/2095272.2095275
   venue: International Symposium on Technology and Society
   image_url: images/publications/transafe-a-crowdsourced-mobile-platform-for-crime-and-safety-perception-management.png
   date: 2011-12-01
 - paper_id: 42d00e92f378cbd0b3b8efb461cc3097b208d6d5
-  title:
-    "Form fostering: A novel design approach for interacting with parametric
-    models in the embodied virtuality"
+  title: 'Form fostering: A novel design approach for interacting with parametric
+    models in the embodied virtuality'
   authors: Flora D. Salim, Hugo Mulder, J. Burry
   url: https://dblp.org/rec/journals/itcon/SalimMB11
   venue: Journal of Information Technology in Construction
   image_url: images/publications/form-fostering-a-novel-design-approach-for-interacting-with-parametric-models-in-the-embodied-virtuality.png
   date: 2011-02-18
 - paper_id: 43137ddbf1c3901a791e508aa4306b11a1c3b113
-  title:
-    "Software Openness: Evaluating Parameters of Parametric Modeling Tools to
-    Support Creativity and Multidisciplinary Design Integration"
+  title: 'Software Openness: Evaluating Parameters of Parametric Modeling Tools to
+    Support Creativity and Multidisciplinary Design Integration'
   authors: Flora D. Salim, J. Burry
   url: https://doi.org/10.1007/978-3-642-12179-1_40
   venue: Communication Systems and Applications
   image_url: images/publications/software-openness-evaluating-parameters-of-parametric-modeling-tools-to-support-creativity-and-multidisciplinary-design-integration.png
   date: 2010-03-23
 - paper_id: 115ed397e30d94a85ce675f45d655cc2e1d77b49
-  title:
-    "Road Intersections as Pervasive Computing Environments: Towards a Multiagent
-    Real-Time Collision Warning System"
+  title: 'Road Intersections as Pervasive Computing Environments: Towards a Multiagent
+    Real-Time Collision Warning System'
   authors: Flora D. Salim, Licheng Cai, M. Indrawan, S. Loke
   url: https://doi.org/10.1109/PERCOM.2008.72
   venue: Annual IEEE International Conference on Pervasive Computing and Communications
   image_url: images/publications/road-intersections-as-pervasive-computing-environments-towards-a-multiagent-real-time-collision-warning-system.png
   date: 2008-03-17
 - paper_id: 302b903d742a1e52edcf12c690f320055574e047
-  title:
-    "U&I Aware: A Framework Using Data Mining and Collision Detection to Increase
-    Awareness for Intersection Users"
+  title: 'U&I Aware: A Framework Using Data Mining and Collision Detection to Increase
+    Awareness for Intersection Users'
   authors: Flora D. Salim, S. Loke, A. Rakotonirainy, S. Krishnaswamy
   url: https://doi.org/10.1109/AINAW.2007.360
-  venue:
-    21st International Conference on Advanced Information Networking and Applications
+  venue: 21st International Conference on Advanced Information Networking and Applications
     Workshops (AINAW'07)
   image_url: images/publications/u-i-aware-a-framework-using-data-mining-and-collision-detection-to-increase-awareness-for-intersection-users.png
   date: 2007-05-21
@@ -1642,6 +2223,6 @@
   title: UML documentation support for XML schema
   authors: Flora D. Salim, Rosanne J. Price, S. Krishnaswamy, M. Indrawan
   url: https://doi.org/10.1109/ASWEC.2004.1290474
-  venue: "Australian Software Engineering Conference : Proceedings"
+  venue: 'Australian Software Engineering Conference : Proceedings'
   image_url: images/publications/uml-documentation-support-for-xml-schema.png
   date: 2004-04-13
