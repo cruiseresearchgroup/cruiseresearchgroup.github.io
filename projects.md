@@ -3,6 +3,14 @@ title: Projects
 permalink: /projects/
 ---
 
+### [DecompRCA: Where Root Cause Analysis Fails](https://cruiseresearchgroup.github.io/DecompRCA/)
+
+<div class="project-snippets">
+  <a href="https://cruiseresearchgroup.github.io/DecompRCA/"><img src="{{site.baseurl}}/images/publications/decomprca.png"/></a>
+</div>
+
+<hr>
+
 ### [Understanding Bias in AI Models for the Prediction of Infectious Disease Spread](https://www.csiro.au/en/research/technology-space/ai/NSF-AI-Research)
 
 <div class="project-snippets">
