@@ -596,6 +596,12 @@ tbody tr:nth-child(odd) th {
   border-radius: 5px;
 }
 
+@media (max-width: 800px) {
+  .web-embed iframe {
+    height: 300px;
+  }
+}
+
 .web-embed-open {
   position: absolute;
   top: 10px;
