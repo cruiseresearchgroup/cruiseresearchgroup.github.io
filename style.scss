@@ -583,6 +583,38 @@ tbody tr:nth-child(odd) th {
   object-fit: cover;
 }
 
+.web-embed {
+  position: relative;
+  margin: 1.5em 0;
+}
+
+.web-embed iframe {
+  display: block;
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.web-embed-open {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 6px 12px;
+  font-size: 13px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.web-embed-open:hover,
+.web-embed-open:focus {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.85);
+  text-decoration: none;
+}
+
 // fix menu bar spacing for mobile
 @media(max-width: 40em){
   .navbar-nav>li>a {

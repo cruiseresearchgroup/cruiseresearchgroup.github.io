@@ -5,13 +5,19 @@ permalink: /projects/
 
 ### [DecompRCA: Where Root Cause Analysis Fails](https://cruiseresearchgroup.github.io/DecompRCA/)
 
-<div class="project-snippets">
-  <a href="https://cruiseresearchgroup.github.io/DecompRCA/"><img src="{{site.baseurl}}/images/publications/decomprca.png"/></a>
+<div class="web-embed">
+  <a class="web-embed-open" href="https://cruiseresearchgroup.github.io/DecompRCA/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> Open in new tab</a>
+  <iframe src="https://cruiseresearchgroup.github.io/DecompRCA/" title="DecompRCA project page" loading="lazy"></iframe>
 </div>
 
 <hr>
 
 ### [Understanding Bias in AI Models for the Prediction of Infectious Disease Spread](https://www.csiro.au/en/research/technology-space/ai/NSF-AI-Research)
+
+<div class="web-embed">
+  <a class="web-embed-open" href="https://cruiseresearchgroup.github.io/infectious-disease-bias/" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> Open in new tab</a>
+  <iframe src="https://cruiseresearchgroup.github.io/infectious-disease-bias/" title="Infectious disease bias project page" loading="lazy"></iframe>
+</div>
 
 <div class="project-snippets">
   <a href="https://arxiv.org/abs/2505.22692"><img src="{{site.baseurl}}/images/publications/blue.png"/></a>
@@ -27,6 +33,15 @@ permalink: /projects/
   <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657840"><img src="{{site.baseurl}}/images/others/cruise new_share_Defense_Expo/Slide7.jpg"/></a>
   <a href="https://arxiv.org/abs/2410.20643"><img src="{{site.baseurl}}/images/others/urban_expo_nov2024/3llm4.jpg"/></a>
   <a href="https://dl.acm.org/doi/10.1145/3701716.3715201"><img src="{{site.baseurl}}/images/others/urban_expo/animation.gif"/></a>
+</div>
+
+<hr>
+
+### [Brick-by-Brick 2024 Competition]({{site.baseurl}}/bbb.html)
+
+<div class="web-embed">
+  <a class="web-embed-open" href="{{site.baseurl}}/bbb.html" target="_blank" rel="noopener"><i class="fa fa-external-link"></i> Open in new tab</a>
+  <iframe src="{{site.baseurl}}/bbb.html" title="Brick-by-Brick 2024 Competition page" loading="lazy"></iframe>
 </div>
 
 <hr>
