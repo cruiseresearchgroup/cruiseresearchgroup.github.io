@@ -71,6 +71,7 @@ permalink: /people/
 
 | Name            | Where they came from                   |
 | --------------- | -------------------------------------- |
+| Lindong Xie     | The Hong Kong Polytechnic University   |
 | Michele Fiori   | University of Milan                    |
 | Marco Bustaffa  | University of Padova                   |
 | Zefan Sramek    | University of Tokyo                    |
@@ -97,6 +98,7 @@ permalink: /people/
 
 | Name                       | Former Position       | Where they went                                                  |
 | -------------------------- | --------------------- | ---------------------------------------------------------------- |
+| Jing Du                    | Postdoc               | University of Auckland                                           |
 | Yiwen Chen                 | Software Engineer     | UNSW                                                             |
 | Shuang Ao                  | Postdoc               | Zhejiang University of Technology                                |
 | Arian Prabowo              | Postdoc               | Oracle                                                           |
