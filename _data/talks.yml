@@ -11,3 +11,45 @@
   venue: "AI for Outbreak Forecasting: Are We Seeing the Full Picture? Symposium"
   embed_url: "https://www.youtube.com/embed/rL_ViOjzsPA?si=3LhSGXfykSkr1vZZ"
   date: 2026-04-13
+
+- title: "What am I missing here?: Evaluating Large Language Models for Masked Sentence Prediction"
+  authors: Charlie Wyatt, Aditya Joshi, Flora Salim
+  url: https://underline.io/lecture/138176-what-am-i-missing-herequestion-evaluating-large-language-models-for-masked-sentence-prediction
+  venue: IJCNLP-AACL 2025
+  embed_url: "https://underline.io/embed/138176-what-am-i-missing-herequestion-evaluating-large-language-models-for-masked-sentence-prediction?t=1"
+  date: 2025-12-22
+
+- title: "SOCIA-EVO: Automated Simulator Construction via Dual-Anchored Bi-Level Optimization"
+  authors: Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, Flora Salim
+  url: https://underline.io/lecture/150050-socia-evo-automated-simulator-construction-via-dual-anchored-bi-level-optimization
+  venue: ACL 2026
+  embed_url: "https://underline.io/embed/150050-socia-evo-automated-simulator-construction-via-dual-anchored-bi-level-optimization?t=1"
+  date: 2026-07-05
+
+- title: "ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents"
+  authors: Zechen Li, Baiyu Chen, Hao Xue, Flora Salim
+  url: https://underline.io/lecture/149446-zara-training-free-motion-time-series-reasoning-via-evidence-grounded-llm-agents
+  venue: ACL 2026
+  embed_url: "https://underline.io/embed/149446-zara-training-free-motion-time-series-reasoning-via-evidence-grounded-llm-agents?t=1"
+  date: 2026-07-05
+
+- title: "Long Context Modeling with Ranked Memory-Augmented Retrieval"
+  authors: Ghadir Alselwi, Hao Xue, Shoaib Jameel, Basem Suleiman, Flora Salim, Imran Razzak
+  url: https://underline.io/lecture/148909-long-context-modeling-with-ranked-memory-augmented-retrieval
+  venue: ACL 2026
+  embed_url: "https://underline.io/embed/148909-long-context-modeling-with-ranked-memory-augmented-retrieval?t=1"
+  date: 2026-07-05
+
+- title: "Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty"
+  authors: Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora Salim
+  url: https://underline.io/lecture/152574-reason-only-when-needed-efficient-generative-reward-modeling-via-model-internal-uncertainty
+  venue: Findings of ACL 2026
+  embed_url: "https://underline.io/embed/152574-reason-only-when-needed-efficient-generative-reward-modeling-via-model-internal-uncertainty?t=1"
+  date: 2026-07-05
+
+- title: "Why Supervised Fine-Tuning Fails to Learn: A Systematic Study of Incomplete Learning in Large Language Models"
+  authors: Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora Salim
+  url: https://underline.io/lecture/150173-why-supervised-fine-tuning-fails-to-learn-a-systematic-study-of-incomplete-learning-in-large-language-models
+  venue: ACL 2026
+  embed_url: "https://underline.io/embed/150173-why-supervised-fine-tuning-fails-to-learn-a-systematic-study-of-incomplete-learning-in-large-language-models?t=1"
+  date: 2026-07-05
