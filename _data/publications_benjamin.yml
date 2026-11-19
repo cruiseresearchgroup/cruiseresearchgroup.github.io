@@ -1,3 +1,27 @@
+- paper_id: 972273ea3da96495b4305de1bbe9d610419b2f49
+  title: 'Scoping the Landscape of Large Language Model-based Affective Personal Informatics:
+    Review, Reflection, Future Direction'
+  authors: Min-Jie Liu, Li-Huan Li, Xu-Ran Li, F. Salim, B. Tag
+  url: https://arxiv.org/abs/2610.20084
+  venue: arXiv preprint arXiv:2610.20084
+  image_url: images/publications/scoping-the-landscape-of-large-language-model-based-affective-personal-informatics-review-reflection-future-direction.png
+  date: 2026-10-14
+- paper_id: e7ea71ec0303557dd34e95c33baa45760d1a504e
+  title: 'Your Programming Students'' Cognition with ChatGPT: Higher Performance,
+    Lower Retention, and Reduced Ownership'
+  authors: Christian Bergh, B. Tag, Alexandra Vassar, J. Renzella
+  url: https://doi.org/10.48550/arXiv.2609.21194
+  venue: arXiv preprint arXiv:2609.21194
+  image_url: images/publications/your-programming-students-cognition-with-chatgpt-higher-performance-lower-retention-and-reduced-ownership.png
+  date: 2026-09-18
+- paper_id: 160a018729a2158b88badfa1702875ce589103ac
+  title: 'Group Alignment-Induced Sycophancy: A Two-Sided Evaluation of Steerable
+    Pluralistic Alignment'
+  authors: Hao-Kai Zhao, Yunze Xiao, Wei-Hao Xuan, F. Salim, B. Tag, Aditya Joshi
+  url: https://doi.org/10.48550/arXiv.2608.11528
+  venue: arXiv preprint arXiv:2608.11528
+  image_url: images/publications/group-alignment-induced-sycophancy-a-two-sided-evaluation-of-steerable-pluralistic-alignment.png
+  date: 2026-08-12
 - paper_id: 2e7fb2f1e75c2f82fb5c70f24b666e0f2308a935
   title: 'Augmenting Legal Work: Artificial Intelligence in Professional Practice'
   authors: Felicity Bell, Eike Schhneiders, V. Janeček, D. Hartung, E. Solovey, N.

@@ -1,3 +1,57 @@
+- paper_id: 6891c7b1085c0387a39acd42eb2cd4a1666f90a9
+  title: 'CarryOn: Learning What to Keep in Context for Long-Horizon LLM Agents'
+  authors: Li-Huan Li, Rui-Yi Yang, Ji-Ru Wang, Yi-Fan Duan, Xia-Chong Lin, Hao Xue,
+    Yang Song, F. Salim
+  url: https://arxiv.org/abs/2611.17808
+  venue: arXiv preprint arXiv:2611.17808
+  image_url: images/publications/carryon-learning-what-to-keep-in-context-for-long-horizon-llm-agents.png
+  date: 2026-11-13
+- paper_id: 9969bf594bb6a034396a5fd5914c520bfe0a01b1
+  title: 'EASE-KV: Diagnosing the Gap Between Memory Availability and Effective Use'
+  authors: Ding-Fu Lu, Zechen Li, Xuan-Yu Yue, Jia Fan, Hao Xue, F. Salim
+  url: https://arxiv.org/abs/2611.11299
+  venue: arXiv preprint arXiv:2611.11299
+  image_url: images/publications/ease-kv-diagnosing-the-gap-between-memory-availability-and-effective-use.png
+  date: 2026-11-08
+- paper_id: a8218a277ae6c847ea1757c5fcce2443206b1510
+  title: 'ENGRAM: From Agent Experience to Weights through Verified Consolidation'
+  authors: Rui-Yi Yang, Zechen Li, Li-Huan Li, Du Yin, Hao Xue, F. Salim
+  url: https://arxiv.org/abs/2611.09472
+  venue: arXiv preprint arXiv:2611.09472
+  image_url: images/publications/engram-from-agent-experience-to-weights-through-verified-consolidation.png
+  date: 2026-11-06
+- paper_id: b1d332f1626168e73d1054081e11eae736e2dc5f
+  title: 'AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation
+    in Robot Manipulation'
+  authors: Hao Xue, Peng-Fei Zhang, Yi Cheng, Lan-Yun Zhu, Lei Zhu, Heng Shen
+  url: https://arxiv.org/abs/2611.00177
+  venue: arXiv preprint arXiv:2611.00177
+  image_url: images/publications/auroraworld-structured-4d-world-modeling-for-exo-to-ego-video-generation-in-robot-manipulation.png
+  date: 2026-10-30
+- paper_id: 8e57be752bf13eeb4e9d15ebade901818d46295a
+  title: 'Benchmarking System One Models for Time-Series Decision Making: A Case Study
+    of Jev'
+  authors: Jian-Ye Wang, Kenny Zhang, J. Xiong, Hao Xue
+  url: https://arxiv.org/abs/2610.33410
+  venue: arXiv preprint arXiv:2610.33410
+  image_url: images/publications/benchmarking-system-one-models-for-time-series-decision-making-a-case-study-of-jev.png
+  date: 2026-10-24
+- paper_id: d9f093e02b943f691bcdcb6b05ed2c411b5054ea
+  title: Geospatial Vector Geometry as a Native Spatial Modality for Vision-Language
+    Models
+  authors: Huang Fei, Bo-Yi Chen, Hao Xue, Yang Yue, Ye-Hong Xu, Xiao-Fang Zhou
+  url: https://arxiv.org/abs/2610.16769
+  venue: arXiv preprint arXiv:2610.16769
+  image_url: images/publications/geospatial-vector-geometry-as-a-native-spatial-modality-for-vision-language-models.png
+  date: 2026-10-12
+- paper_id: b7415b74c9b5b1d9ea48aa4d057b3099fb0b1f60
+  title: 'MetaSteer: Context-Conditioned, nonlinear Steering via Attention-Projection
+    Adaptation'
+  authors: Mehdi Jafari, Hao Xue, F. Salim
+  url: https://doi.org/10.48550/arXiv.2609.38718
+  venue: arXiv preprint arXiv:2609.38718
+  image_url: images/publications/metasteer-context-conditioned-nonlinear-steering-via-attention-projection-adaptation.png
+  date: 2026-09-30
 - paper_id: 43e26669075549cfec05150662e4387f69581ca4
   title: 'GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination
     Flow Prediction and Generation'
